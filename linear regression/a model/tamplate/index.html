@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Height Input Page</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #076933;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            width: 300px;
+        }
+        input[type="text"] {
+            width: 100%;
+            padding: 12px;
+            margin-top: 12px;
+            border: 1px solid rgba(255,255,255,0.4);
+            border-radius: 12px;
+            font-size: 16px;
+            background: rgba(255,255,255,0.25);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            transition: 0.3s ease;
+        }
+        input[type="text"]:focus {
+            border: 1px solid rgba(255,255,255,0.7);
+            box-shadow: 0 0 8px rgba(0,0,0,0.15);
+            outline: none;
+        }
+        button {
+            margin-top: 15px;
+            width: 100%;
+            padding: 10px;
+            background: #4caf50;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        button:hover {
+            background: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Enter Your Height</h2>
+        <form action="/predict", method="POSt">
+            <input type="text" name="height" placeholder="Enter height (cm)" required />
+            <button type="submit">Submit</button>
+        </form>
+        <h2 style="color: lightseagreen;">{{Predicted_Data}}</h2>
+    </div>
+</body>
+</html>
+
+
+
