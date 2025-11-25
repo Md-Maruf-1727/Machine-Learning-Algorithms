@@ -211,7 +211,7 @@
         <h1>Property Price Estimator</h1>
         <p class="subtitle">Get an instant estimate based on property details</p>
         
-        <form>
+        <form action="/predict" method="POST">
             <div class="form-group">
                 <label for="area">Area</label>
                 <div class="input-with-unit">
@@ -227,27 +227,12 @@
             
             <button type="submit">Calculate Estimated Price</button>
         </form>
-        
         <div class="result">
             <h3>Estimated Property Price</h3>
-            <div class="price">Submit to calculate</div>
+            <div class="price">{{Predicted_Data}}</div>
             <p>Based on current market data and your inputs</p>
         </div>
-        
-        <div class="features">
-            <div class="feature">
-                <div class="feature-icon">🏠</div>
-                <div class="feature-text">Market Analysis</div>
-            </div>
-            <div class="feature">
-                <div class="feature-icon">📊</div>
-                <div class="feature-text">Area-Based</div>
-            </div>
-            <div class="feature">
-                <div class="feature-icon">🛏️</div>
-                <div class="feature-text">Bedroom Count</div>
-            </div>
-        </div>
+    
         
         <p class="disclaimer">This is an estimate only. Actual prices may vary based on location, condition, and market factors.</p>
     </div>

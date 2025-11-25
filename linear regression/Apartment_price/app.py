@@ -1,16 +1,21 @@
 from flask import Flask, render_template, request
 import pickle
 
-app = Flask(__name__, render_template="tamplate")
-main_model = pickle.load("tamplate/area")
+app = Flask(__name__, template_folder="template")
+model = pickle.load(open("linear regression/Apartment_price/area.pkl", "rb"))
 
 @app.route("/")
 def home():
-    return "Hello"
+    return render_template("index.html")
 
-@app.route("/wel")
-def wel():
-    return "welcome"
+@app.route("/predict", methods=["POST"])
+def pred():
+    area = float(request.form.get("area"))
+    bedrooms = float(request.form.get("bedrooms"))
+    feature = [[area,bedrooms]]
+    prediction = model.predict(feature)[0]
+    prediction = float(prediction)
+    return render_template("index.html", Predicted_Data= round(prediction, 2))
 
 if __name__ == "__main__":
     app.run(debug=True)
