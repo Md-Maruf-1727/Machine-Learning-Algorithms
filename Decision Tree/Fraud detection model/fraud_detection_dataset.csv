@@ -1,0 +1,801 @@
+transaction_id,customer_id,age,city,account_age_months,avg_monthly_balance,transaction_amount,transaction_type,transaction_time,merchant_category,previous_fraud_count,device_type,is_foreign_transaction,login_hours_before_transaction,is_fraud
+545,4018,46.0,Dhaka,30,769259.0,35051.53,Online Purchase,2024-12-13 11:34:00,Electronics,0,Mobile,0,8.15,0
+748,1377,35.0,Daka,102,378915.0,43217.07,POS,2024-11-11 12:53:00,Healthcare,0,Mobile,0,50.32,0
+662,2583,68.0,Chittagong,41,886431.0,80201.78,Money Transfer,2024-12-25 20:35:00,Financial Services,0,Tablet,0,3.83,0
+724,3612,54.0,Rajshai,106,105714.0,56004.07,POS,2024-10-05 01:33:00,Retail,0,Desktop,0,49.25,0
+526,8925,48.0,Khulna,119,710912.0,69894.92,Money Transfer,2024-10-28 18:22:00,Financial Services,0,Mobile,1,61.35,0
+290,6855,21.0,Rajshahi,29,824357.0,37447.57,Online Purchase,2024-10-02 14:43:00,Retail,1,,0,43.57,0
+612,1653,63.0,Daka,55,128656.0,20218.71,POS,2024-02-27 23:10:00,Financial Services,0,Desktop,0,15.13,0
+490,5263,28.0,Rajshahi,4,679443.0,78778.3,POS,2024-12-28 17:58:00,Retail,0,,0,70.81,0
+418,1051,70.0,Daka,6,791555.0,43734.79,Cash Withdrawal,2024-11-06 15:25:00,ATM,0,Tablet,0,67.07,0
+355,3293,51.0,Chittagong,75,836368.0,48397.43,Cash Withdrawal,2024-12-30 13:53:00,ATM,0,,0,34.29,0
+729,2422,52.0,Rajshahi,92,118572.0,60633.99,Money Transfer,2024-05-03 19:30:00,Financial Services,0,,0,29.56,0
+556,3310,53.0,Khulnaa,77,953908.0,71809.79,Cash Withdrawal,2024-01-04 15:53:00,ATM,0,Tablet,0,41.12,0
+294,5713,49.0,Daka,16,537000.0,9804.89,Money Transfer,2024-10-24 15:36:00,Financial Services,0,,0,58.92,0
+319,4507,46.0,Rajshai,63,753602.0,15837.65,Bill Payment,2024-08-31 21:15:00,Utilities,1,Desktop,0,51.53,0
+113,3750,23.0,Daka,114,31949.0,35781.97,Online Purchase,2024-06-28 08:50:00,Retail,0,,0,30.22,0
+277,8499,58.0,Sylhet,17,616289.0,8846.06,Online Purchase,2024-08-26 14:26:00,Travel,0,Tablet,0,56.85,0
+778,5711,33.0,Rangpur,43,707973.0,27249.42,Bill Payment,2024-02-10 10:41:00,Utilities,0,Mobile,0,53.96,0
+686,7752,31.0,Khulna,120,209074.0,59064.38,Cash Withdrawal,2024-07-16 18:42:00,ATM,0,Desktop,0,41.4,0
+407,9992,31.0,Chittagong,60,776729.0,26915.49,Cash Withdrawal,2024-11-06 07:19:00,ATM,0,Desktop,0,56.25,0
+219,9814,52.0,Sylhet,80,168213.0,92173.88,Online Purchase,2024-07-11 18:57:00,Entertainment,0,Tablet,0,50.15,0
+325,4747,47.0,Chittagong,7,469737.0,79720.02,Online Purchase,2024-07-07 05:36:00,Retail,0,,0,35.58,0
+246,6412,38.0,Dhaka,15,503646.0,23415.23,Money Transfer,2024-11-05 18:08:00,Financial Services,0,Mobile,0,46.76,0
+786,1372,,Khulna,112,570454.0,80083.95,Online Purchase,2024-07-04 03:06:00,Utilities,0,Mobile,0,15.29,0
+575,4156,70.0,Rangpur,40,824246.0,53950.43,POS,2024-10-04 20:42:00,Food,0,Desktop,0,18.93,0
+90,2525,62.0,Barisal,2,17208.0,40881.57,Cash Withdrawal,2024-08-07 12:31:00,ATM,3,Mobile,1,0.49,1
+702,7544,45.0,Daka,20,212843.0,29450.48,Bill Payment,2024-08-29 04:17:00,Utilities,0,,0,21.85,0
+774,3957,67.0,,47,859079.0,81630.3,Online Purchase,2024-02-23 15:49:00,Entertainment,0,Tablet,0,64.05,0
+632,5813,,Dhaka,55,917135.0,30272.44,Money Transfer,2024-09-29 14:41:00,Financial Services,0,Tablet,0,51.47,0
+4,7543,26.0,Chittagong,1,83172.0,66699.8,Cash Withdrawal,2024-10-10 20:43:00,ATM,2,Mobile,1,3.17,1
+432,3948,,Barisal,17,704343.0,22138.78,Money Transfer,2024-01-18 02:07:00,Financial Services,0,Desktop,0,68.06,0
+442,9577,29.0,Rajshai,46,463256.0,65984.91,Money Transfer,2024-02-27 10:58:00,Financial Services,0,Mobile,0,34.78,0
+57,3981,50.0,Dhaka,3,97973.0,31422.59,Cash Withdrawal,2024-11-21 07:17:00,ATM,1,Mobile,1,1.77,1
+462,1729,36.0,Rajshai,1,45166.0,30752.71,Cash Withdrawal,2024-06-29 20:18:00,ATM,0,,0,51.47,0
+770,9337,59.0,Rangpur,120,908272.0,41609.63,Cash Withdrawal,2024-05-03 14:09:00,ATM,0,,1,63.01,0
+70,7184,60.0,Khulna,24,21691.0,47452.85,Money Transfer,2024-10-05 15:34:00,Financial Services,0,Mobile,1,4.83,1
+206,4912,22.0,Narayanganj,25,541718.0,73296.41,Money Transfer,2024-06-14 13:41:00,Financial Services,0,Mobile,1,67.52,0
+305,6548,43.0,Rajshai,64,768152.0,77332.36,Bill Payment,2024-07-01 15:42:00,Utilities,0,,0,10.61,0
+9,1821,51.0,Narayanganj,1,57923.0,81486.45,Money Transfer,2024-08-02 18:37:00,Financial Services,1,Mobile,1,17.62,1
+619,2496,64.0,Chittagong,17,83821.0,28249.76,POS,2024-10-24 15:29:00,Retail,0,Tablet,0,5.26,0
+306,8448,34.0,Rajshahi,18,793637.0,8010.03,Bill Payment,2024-12-13 00:11:00,Utilities,0,Desktop,0,44.87,0
+106,8307,20.0,Gazipur,38,945660.0,73226.9,Online Purchase,2024-05-23 12:08:00,ATM,0,Desktop,0,57.76,0
+519,7896,26.0,Sylhet,75,153457.0,82435.33,POS,2024-05-30 01:48:00,ATM,0,,0,62.99,0
+327,1471,34.0,Cumilla,48,698675.0,61060.57,Bill Payment,2024-03-09 10:44:00,Utilities,0,,0,53.0,0
+167,9309,70.0,Rangpur,28,598388.0,35213.35,POS,2024-08-29 20:49:00,Travel,0,Tablet,0,36.08,0
+39,8433,68.0,Rajshai,3,49424.0,33096.25,Cash Withdrawal,2024-05-10 20:09:00,ATM,1,Mobile,1,8.34,1
+403,6314,62.0,Khulnaa,43,818717.0,91159.8,Bill Payment,2024-02-04 10:01:00,Utilities,0,,0,53.41,0
+492,3010,36.0,Khulna,64,977055.0,28298.08,Bill Payment,2024-01-12 13:04:00,Utilities,0,Desktop,0,27.02,0
+186,9871,48.0,Barisal,113,930970.0,37058.08,POS,2024-05-23 12:14:00,Travel,0,,0,2.34,0
+718,1004,57.0,Dhaka,120,,59372.14,POS,2024-03-22 03:03:00,Financial Services,0,,0,26.84,0
+251,6885,36.0,Rajshahi,76,353580.0,94331.28,Bill Payment,2024-08-10 17:13:00,Utilities,0,Desktop,0,60.72,0
+137,1790,44.0,Chittagong,61,235477.0,92188.57,Online Purchase,2024-06-03 13:42:00,Retail,0,Desktop,0,64.7,0
+48,7172,62.0,Khulnaa,3,36133.0,40085.38,Cash Withdrawal,2024-05-02 21:51:00,ATM,3,Mobile,1,0.44,1
+571,9428,65.0,Chittagong,55,413935.0,17758.69,Cash Withdrawal,2024-09-23 23:07:00,ATM,0,Mobile,1,30.54,0
+719,5587,19.0,Dhaka,39,499123.0,27837.03,Online Purchase,2024-08-31 05:00:00,Retail,0,Tablet,0,50.61,0
+565,4532,33.0,Dhaka,97,127500.0,66771.79,Bill Payment,2024-01-22 05:18:00,Utilities,0,Desktop,1,53.99,0
+659,6573,43.0,Rangpur,95,950559.0,39584.34,Online Purchase,2024-06-14 07:28:00,Electronics,0,Tablet,1,16.16,0
+197,1149,69.0,Rajshahi,71,451736.0,74515.71,Cash Withdrawal,2024-03-24 22:47:00,ATM,0,Desktop,0,30.4,0
+373,1849,38.0,Rangpur,88,539647.0,48429.73,Online Purchase,2024-04-24 01:17:00,ATM,0,,0,5.89,0
+583,7605,60.0,Chittagong,98,784366.0,35956.4,Bill Payment,2024-01-23 08:38:00,Utilities,0,Desktop,0,60.63,0
+777,8360,18.0,Chittagong,36,963187.0,72729.99,Online Purchase,2024-09-13 23:50:00,Utilities,0,,0,15.37,0
+797,5002,60.0,Rajshai,103,986606.0,25041.75,POS,2024-01-02 04:01:00,Financial Services,0,,0,0.11,0
+193,9535,44.0,Rajshai,94,283871.0,98571.07,Online Purchase,2024-04-17 05:25:00,Retail,0,,0,1.9,0
+539,3325,,Cumilla,59,42323.0,66475.63,Money Transfer,2024-05-22 18:24:00,Financial Services,0,Mobile,0,43.9,0
+664,9041,66.0,Rangpur,58,751073.0,89460.47,Cash Withdrawal,2024-10-18 16:26:00,ATM,0,Tablet,0,69.9,0
+120,3832,28.0,Khulnaa,6,736308.0,58087.19,Cash Withdrawal,2024-10-31 08:20:00,ATM,1,Mobile,1,40.06,0
+419,8800,62.0,Chittagong,78,170115.0,69251.62,POS,2024-01-17 04:31:00,Retail,0,,0,32.13,0
+721,4321,19.0,Rajshai,89,22043.0,86224.41,POS,2024-08-10 17:44:00,Healthcare,0,Mobile,0,6.37,0
+227,9027,47.0,Rangpur,6,884371.0,50928.02,Bill Payment,2024-11-09 23:36:00,Utilities,0,Mobile,0,32.52,0
+789,5056,28.0,Gazipur,14,37663.0,62666.84,Cash Withdrawal,2024-03-27 23:52:00,ATM,0,,1,37.65,0
+254,8917,25.0,Chittagong,94,921094.0,99457.89,Bill Payment,2024-09-21 02:33:00,Utilities,0,,0,47.79,0
+89,6747,28.0,Chittagong,45,17481.0,14586.25,Online Purchase,2024-03-05 07:55:00,ATM,1,,1,0.14,1
+29,5479,48.0,Narayanganj,12,41208.0,158774.26,Money Transfer,2024-10-27 17:42:00,Financial Services,0,Mobile,1,3.28,1
+250,5989,45.0,Barisal,75,,67942.42,Cash Withdrawal,2024-05-30 01:23:00,ATM,1,Mobile,0,59.09,0
+174,2127,42.0,Dhaka,111,737611.0,56105.65,POS,2024-02-19 05:30:00,Electronics,0,Mobile,1,47.48,0
+401,3736,,Rajshai,72,675017.0,28240.43,Bill Payment,2024-08-07 03:14:00,Utilities,0,Desktop,1,47.09,0
+202,3001,58.0,Barisal,111,138414.0,31991.29,Money Transfer,2024-01-08 05:50:00,Financial Services,0,Desktop,1,3.02,0
+218,7124,64.0,Chittagong,32,991746.0,20442.88,Money Transfer,2024-01-08 10:44:00,Financial Services,0,,1,15.05,0
+602,4042,60.0,Rangpur,87,25296.0,54390.71,Bill Payment,2024-12-02 04:17:00,Utilities,0,Tablet,1,16.19,0
+753,2262,24.0,Khulnaa,16,600322.0,49428.32,Cash Withdrawal,2024-09-30 05:15:00,ATM,0,Desktop,0,36.95,0
+725,6486,38.0,Khulnaa,120,708801.0,52506.91,Money Transfer,2024-07-27 22:48:00,Financial Services,2,,0,49.96,0
+781,3890,30.0,Sylhet,117,863448.0,12426.21,Cash Withdrawal,2024-03-15 10:10:00,ATM,0,Desktop,0,66.58,0
+409,3878,47.0,Sylhet,78,369421.0,18982.49,Cash Withdrawal,2024-03-20 06:00:00,ATM,0,Tablet,0,66.65,0
+143,9598,54.0,Rajshahi,86,564315.0,69632.82,POS,2024-02-18 13:42:00,Food,0,,0,59.5,0
+223,7987,56.0,Narayanganj,84,587650.0,90739.01,Cash Withdrawal,2024-06-07 22:45:00,ATM,0,,0,70.26,0
+487,4471,47.0,Chittagong,61,387645.0,61851.29,Bill Payment,2024-01-04 11:50:00,Utilities,0,Tablet,0,64.99,0
+540,9115,,Cumilla,27,711982.0,57556.25,Money Transfer,2024-01-17 17:48:00,Financial Services,0,,0,64.31,0
+173,5644,31.0,Cumilla,22,450720.0,79767.27,POS,2024-04-03 19:42:00,Entertainment,0,Tablet,0,42.95,0
+369,3843,62.0,Khulnaa,11,700627.0,86369.75,Online Purchase,2024-12-09 14:43:00,Retail,0,Tablet,0,60.42,0
+454,9255,28.0,Chittagong,38,613677.0,9047.44,Cash Withdrawal,2024-07-22 15:43:00,ATM,0,Mobile,0,54.05,0
+157,5809,66.0,Cumilla,106,700840.0,2164.47,Money Transfer,2024-08-16 07:57:00,Financial Services,0,Desktop,0,49.14,0
+739,3384,20.0,Rangpur,84,981660.0,45788.35,POS,2024-11-05 10:58:00,Utilities,0,,0,62.72,0
+386,8406,43.0,Rangpur,74,903353.0,50059.45,Online Purchase,2024-03-09 02:18:00,Healthcare,0,Mobile,0,44.72,0
+585,4563,47.0,Chittagong,40,693518.0,26120.74,Cash Withdrawal,2024-06-07 01:24:00,ATM,0,Desktop,0,29.81,0
+603,6318,57.0,Chittagong,59,685607.0,79050.88,Bill Payment,2024-08-31 17:00:00,Utilities,0,,0,61.51,0
+214,6478,70.0,Rajshai,99,704488.0,80036.87,Bill Payment,2024-01-28 09:33:00,Utilities,0,Desktop,0,50.24,0
+447,7370,24.0,Khulna,65,,90733.65,Money Transfer,2024-08-07 19:47:00,Financial Services,0,Tablet,0,54.78,0
+148,6536,44.0,Daka,76,955072.0,60093.74,POS,2024-09-15 04:31:00,Electronics,0,,0,60.39,0
+594,4852,39.0,Dhaka,97,101023.0,85640.01,Bill Payment,2024-04-06 01:13:00,Utilities,0,,0,30.65,0
+675,6419,42.0,Barisal,52,168551.0,79503.62,Money Transfer,2024-08-04 21:36:00,Financial Services,0,Tablet,0,63.27,0
+598,1652,49.0,Dhaka,88,466381.0,45298.5,Online Purchase,2024-10-04 08:11:00,Utilities,0,,0,45.79,0
+229,1893,27.0,Daka,93,208503.0,77828.78,POS,2024-03-10 12:26:00,Financial Services,0,Desktop,0,6.49,0
+640,8793,44.0,Narayanganj,110,687791.0,1125.14,Bill Payment,2024-05-11 04:20:00,Utilities,0,Mobile,0,53.91,0
+145,8521,54.0,Rajshai,41,541533.0,98744.34,Online Purchase,2024-07-25 13:02:00,Entertainment,0,Tablet,0,40.49,0
+380,8657,39.0,Gazipur,79,364582.0,22280.48,Online Purchase,2024-09-10 07:58:00,Electronics,0,,0,17.21,0
+98,2956,21.0,Khulnaa,6,92274.0,62046.6,Money Transfer,2024-06-16 02:35:00,Financial Services,0,Tablet,0,21.88,0
+347,6820,67.0,Sylhet,110,560422.0,80271.95,Online Purchase,2024-08-12 14:53:00,Retail,1,Mobile,0,3.02,0
+396,8079,60.0,Gazipur,90,271338.0,21727.38,POS,2024-05-29 21:58:00,Retail,0,Desktop,0,29.61,0
+292,7944,44.0,Gazipur,19,517667.0,69950.66,Online Purchase,2024-10-29 12:05:00,Electronics,0,,0,33.27,0
+467,3188,21.0,Barisal,111,166118.0,39672.04,POS,2024-08-03 07:13:00,Food,0,Desktop,0,1.9,0
+258,6617,27.0,Rajshai,64,453007.0,51245.79,Bill Payment,2024-11-22 05:13:00,Utilities,0,Mobile,0,54.39,0
+601,2298,45.0,Khulnaa,34,665483.0,68429.92,Cash Withdrawal,2024-12-21 01:23:00,ATM,0,,0,49.6,0
+505,4418,66.0,Rajshai,40,707120.0,21268.78,Online Purchase,2024-03-07 07:58:00,Financial Services,0,Desktop,0,13.53,0
+572,3797,51.0,Chittagong,54,331166.0,16454.55,Money Transfer,2024-12-12 08:33:00,Financial Services,0,Desktop,0,37.67,0
+468,7958,62.0,Gazipur,108,185856.0,4970.69,Cash Withdrawal,2024-02-10 07:04:00,ATM,0,,0,13.13,0
+104,3290,21.0,Rajshahi,106,739622.0,83707.76,Online Purchase,2024-10-25 18:16:00,Retail,0,,0,31.93,0
+455,7293,42.0,Sylhet,1,248387.0,78678.67,POS,2024-08-21 16:45:00,Entertainment,0,Tablet,0,39.75,0
+122,2654,52.0,Rangpur,84,658543.0,63006.75,Money Transfer,2024-07-25 04:39:00,Financial Services,0,Mobile,0,63.28,0
+199,9060,19.0,Narayanganj,14,151113.0,94785.84,Online Purchase,2024-04-29 02:09:00,Electronics,0,Tablet,0,35.88,0
+604,9175,62.0,Rangpur,5,619065.0,11366.14,POS,2024-06-25 02:13:00,Entertainment,0,Tablet,0,33.65,0
+262,4163,,Dhaka,85,247357.0,79625.81,Online Purchase,2024-02-14 19:08:00,ATM,0,Desktop,0,50.09,0
+734,2982,,Khulna,58,592437.0,49986.74,Bill Payment,2024-02-04 21:11:00,Utilities,0,Mobile,0,10.61,0
+474,1612,27.0,Chittagong,12,262818.0,29345.75,Cash Withdrawal,2024-03-23 16:33:00,ATM,2,Tablet,0,9.45,0
+244,1475,61.0,Rangpur,55,758908.0,79223.13,Bill Payment,2024-11-11 11:19:00,Utilities,0,Mobile,0,54.41,0
+494,2992,19.0,Narayanganj,20,402615.0,16134.86,Online Purchase,2024-06-16 04:14:00,Retail,0,Tablet,0,14.35,0
+573,4349,63.0,Gazipur,60,366215.0,98951.01,Cash Withdrawal,2024-03-25 16:45:00,ATM,0,,0,10.83,0
+731,3666,,Rangpur,20,100552.0,27147.21,Cash Withdrawal,2024-01-03 12:49:00,ATM,0,Desktop,0,3.16,0
+650,6098,67.0,Cumilla,57,150929.0,72017.29,Bill Payment,2024-03-19 02:56:00,Utilities,1,Tablet,0,68.36,0
+323,1853,29.0,Khulnaa,1,678816.0,41079.37,Online Purchase,2024-02-26 05:15:00,Entertainment,0,Desktop,0,49.37,0
+661,7342,63.0,Barisal,34,402221.0,31795.02,Money Transfer,2024-02-09 22:08:00,Financial Services,0,Desktop,0,41.69,0
+633,3500,27.0,Khulna,69,905730.0,6248.95,POS,2024-06-27 02:20:00,Financial Services,1,Desktop,0,30.55,0
+658,3761,25.0,Sylhet,90,330592.0,74442.83,Bill Payment,2024-11-12 22:04:00,Utilities,0,,0,10.5,0
+181,5520,40.0,Rangpur,67,,93231.86,Online Purchase,2024-10-08 09:46:00,Entertainment,1,Tablet,0,69.34,0
+679,3338,67.0,Narayanganj,25,780123.0,42674.38,Online Purchase,2024-03-19 10:55:00,Utilities,1,Desktop,0,4.06,0
+329,1673,34.0,Cumilla,113,114002.0,42662.03,Bill Payment,2024-03-13 08:07:00,Utilities,0,,0,60.11,0
+17,3607,34.0,Rajshai,3,98525.0,124990.3,Cash Withdrawal,2024-03-18 20:24:00,ATM,2,,1,9.72,1
+466,9826,52.0,Rajshahi,75,572542.0,76820.66,Cash Withdrawal,2024-12-25 02:15:00,ATM,0,Mobile,0,34.12,0
+511,5762,51.0,Khulnaa,13,862942.0,97526.57,Bill Payment,2024-06-28 17:16:00,Utilities,0,,1,25.39,0
+13,2771,-10.0,Rajshai,2,57227.0,3301.91,Money Transfer,2024-07-23 18:53:00,Financial Services,3,Desktop,1,2.33,1
+212,6159,,Chittagong,118,603347.0,75890.59,Cash Withdrawal,2024-02-18 01:29:00,ATM,0,Tablet,0,17.99,0
+395,9043,54.0,Chittagong,113,383627.0,92875.26,Money Transfer,2024-07-19 19:52:00,Financial Services,0,Desktop,0,44.48,0
+309,8697,28.0,Rangpur,76,666908.0,89703.28,Money Transfer,2024-06-13 01:01:00,Financial Services,0,Tablet,0,53.43,0
+561,5840,25.0,Khulnaa,54,361203.0,33492.24,Online Purchase,2024-03-31 14:20:00,Retail,0,Desktop,0,34.83,0
+655,8074,19.0,Khulna,43,985392.0,55100.19,Bill Payment,2024-05-09 11:52:00,Utilities,0,Desktop,0,56.43,0
+391,6810,44.0,Khulnaa,100,334192.0,43797.7,POS,2024-01-17 04:09:00,Financial Services,0,,0,14.7,0
+410,7465,41.0,Sylhet,76,947989.0,6188.25,Online Purchase,2024-07-16 18:10:00,Food,0,Tablet,0,35.18,0
+60,5609,59.0,Sylhet,10,57855.0,145984.18,Cash Withdrawal,2024-05-27 18:24:00,ATM,2,Desktop,1,0.12,1
+216,7529,67.0,Khulnaa,72,434521.0,86548.13,POS,2024-11-11 23:33:00,Food,0,,0,66.54,0
+441,3235,50.0,Daka,90,34575.0,81796.02,Online Purchase,2024-12-31 13:44:00,Entertainment,0,Mobile,0,69.45,0
+653,8955,49.0,Rangpur,14,886397.0,93916.79,POS,2024-10-16 12:38:00,Entertainment,0,Mobile,0,42.5,0
+35,5295,41.0,Rajshahi,33,13285.0,49809.67,Cash Withdrawal,2024-01-20 06:31:00,ATM,0,Mobile,1,4.48,1
+630,9261,38.0,Cumilla,43,790109.0,10958.53,POS,2024-02-27 17:10:00,Entertainment,0,,0,71.49,0
+361,1406,68.0,Sylhet,16,109288.0,26316.52,POS,2024-10-22 01:36:00,Entertainment,0,Mobile,0,67.41,0
+315,1981,41.0,Rajshahi,88,905126.0,58108.03,Online Purchase,2024-11-20 06:54:00,ATM,0,Desktop,0,43.29,0
+228,1694,33.0,Rangpur,6,561198.0,83756.26,Cash Withdrawal,2024-05-29 14:25:00,ATM,0,Tablet,0,30.42,0
+77,2320,66.0,Rangpur,11,15837.0,47732.13,Bill Payment,2024-02-18 02:58:00,Utilities,0,,1,0.05,1
+187,6689,61.0,Cumilla,90,350984.0,91336.84,Cash Withdrawal,2024-07-13 18:06:00,ATM,0,Tablet,0,18.93,0
+733,9604,41.0,Chittagong,5,604352.0,93060.23,Online Purchase,2024-02-14 08:56:00,Financial Services,0,Desktop,0,63.04,0
+115,2715,28.0,Khulna,71,117627.0,45354.4,POS,2024-09-04 22:01:00,ATM,1,,0,7.29,0
+291,1918,41.0,Chittagong,48,32782.0,38343.49,Money Transfer,2024-08-16 17:05:00,Financial Services,0,,0,20.78,0
+287,9770,29.0,Chittagong,102,269461.0,16328.12,Money Transfer,2024-10-21 04:28:00,Financial Services,0,Mobile,0,70.42,0
+382,4241,32.0,Chittagong,109,207214.0,26690.15,Money Transfer,2024-02-21 00:53:00,Financial Services,0,Mobile,0,15.14,0
+78,1539,19.0,Gazipur,3,79277.0,152090.56,Cash Withdrawal,2024-12-18 18:05:00,ATM,4,,1,0.84,1
+289,5748,66.0,Gazipur,103,970933.0,58980.87,Online Purchase,2024-09-02 01:08:00,Entertainment,0,,0,15.87,0
+710,8427,55.0,Dhaka,112,520277.0,49356.18,Bill Payment,2024-10-08 00:40:00,Utilities,0,Desktop,0,60.2,0
+400,1858,21.0,Khulnaa,32,270127.0,27221.14,Bill Payment,2024-01-15 00:21:00,Utilities,0,Mobile,0,63.52,0
+709,5851,,Khulnaa,48,974001.0,20392.67,Bill Payment,2024-10-11 05:38:00,Utilities,0,Tablet,0,14.24,0
+68,8834,56.0,Chittagong,12,94173.0,71497.18,Online Purchase,2024-02-27 18:53:00,Financial Services,1,Mobile,1,0.12,1
+135,6015,70.0,Sylhet,67,374245.0,57929.8,Cash Withdrawal,2024-06-24 15:22:00,ATM,0,,1,16.15,0
+496,8992,46.0,Chittagong,41,656795.0,51248.93,POS,2024-06-29 11:57:00,Retail,0,Tablet,0,21.13,0
+660,4587,32.0,Khulnaa,2,41783.0,81292.33,Bill Payment,2024-07-31 17:35:00,Utilities,2,Desktop,0,41.82,0
+278,3784,53.0,Chittagong,67,246956.0,78586.35,Bill Payment,2024-05-22 00:46:00,Utilities,0,Desktop,0,41.72,0
+165,6206,39.0,Sylhet,20,402199.0,42557.87,Cash Withdrawal,2024-01-03 10:15:00,ATM,0,,0,25.88,0
+437,4640,24.0,Chittagong,94,637429.0,65184.55,Money Transfer,2024-12-24 18:55:00,Financial Services,0,Mobile,0,12.29,0
+109,6878,19.0,Barisal,73,217377.0,65571.21,Cash Withdrawal,2024-09-08 01:05:00,ATM,0,Mobile,0,0.05,0
+685,4554,54.0,Rajshai,101,964089.0,61789.82,Bill Payment,2024-07-10 20:19:00,Utilities,0,Mobile,0,32.57,0
+751,9473,69.0,Dhaka,47,259683.0,12862.71,Cash Withdrawal,2024-02-17 19:44:00,ATM,0,Tablet,0,21.11,0
+452,7292,24.0,Chittagong,6,976486.0,86848.74,Cash Withdrawal,2024-12-26 14:59:00,ATM,0,Tablet,0,34.14,0
+692,7844,41.0,Rajshahi,67,44583.0,65205.86,Cash Withdrawal,2024-01-27 20:15:00,ATM,0,,0,19.64,0
+515,5747,60.0,Cumilla,103,495904.0,6388.73,POS,2024-03-04 01:31:00,Utilities,0,Mobile,1,9.92,0
+224,3378,54.0,Barisal,69,144138.0,25165.76,Cash Withdrawal,2024-01-16 10:56:00,ATM,1,Tablet,0,67.23,0
+337,3540,51.0,Narayanganj,60,971276.0,63631.04,Cash Withdrawal,2024-12-16 09:53:00,ATM,0,Mobile,0,66.05,0
+141,5395,23.0,Barisal,52,498715.0,36712.57,Bill Payment,2024-08-03 20:56:00,Utilities,0,Mobile,0,60.79,0
+131,5237,53.0,Khulna,116,113637.0,30166.53,Money Transfer,2024-08-03 10:23:00,Financial Services,0,Mobile,0,62.38,0
+261,4961,55.0,Narayanganj,89,348487.0,72777.06,Online Purchase,2024-02-04 00:26:00,Retail,0,Tablet,0,20.4,0
+680,7226,36.0,Rajshahi,25,776213.0,58525.53,Bill Payment,2024-02-05 07:38:00,Utilities,0,Desktop,0,22.86,0
+383,4934,41.0,Narayanganj,80,941056.0,94190.54,Cash Withdrawal,2024-03-07 06:12:00,ATM,0,Tablet,0,70.34,0
+397,2986,22.0,Narayanganj,42,192846.0,34150.74,Online Purchase,2024-08-24 00:04:00,Healthcare,0,Desktop,0,0.77,0
+249,2007,70.0,Gazipur,82,813853.0,20297.09,Bill Payment,2024-09-29 09:24:00,Utilities,0,Desktop,0,22.8,0
+274,6929,52.0,Cumilla,85,75646.0,26402.27,Cash Withdrawal,2024-12-16 15:31:00,ATM,0,Mobile,1,26.22,0
+45,5500,22.0,Cumilla,8,16835.0,183019.42,Money Transfer,2024-01-22 21:58:00,Financial Services,2,Mobile,1,1.52,1
+26,3330,37.0,Rajshai,2,57757.0,121375.04,Cash Withdrawal,2024-08-09 19:20:00,ATM,0,Mobile,0,0.59,1
+695,1376,69.0,Rajshahi,48,619689.0,32133.89,Online Purchase,2024-01-05 23:00:00,Financial Services,0,Desktop,0,69.53,0
+794,8167,,,60,839350.0,8884.83,POS,2024-05-28 06:26:00,Retail,0,Tablet,0,55.37,0
+618,9810,69.0,Gazipur,32,795354.0,25012.97,Cash Withdrawal,2024-04-26 22:45:00,ATM,0,,0,39.74,0
+19,3223,34.0,Rajshahi,10,38065.0,35416.21,Bill Payment,2024-04-24 21:04:00,Utilities,2,Desktop,1,0.02,1
+117,8869,19.0,Daka,11,141119.0,41494.49,Bill Payment,2024-09-07 21:16:00,Utilities,0,Desktop,0,27.46,0
+463,2841,25.0,Sylhet,79,398004.0,12204.56,POS,2024-03-18 05:27:00,Entertainment,0,,0,48.04,0
+280,3174,33.0,Chitagong,40,501592.0,75834.73,Online Purchase,2024-08-20 14:49:00,Travel,0,Tablet,0,50.68,0
+408,2310,41.0,Khulna,55,790627.0,57886.03,Bill Payment,2024-01-11 12:27:00,Utilities,0,Tablet,0,11.0,0
+760,6350,21.0,Gazipur,57,474461.0,68370.62,POS,2024-10-16 16:04:00,Travel,1,,0,45.73,0
+196,4721,46.0,Rangpur,39,,69673.54,Cash Withdrawal,2024-06-25 09:30:00,ATM,0,,0,34.35,0
+23,6764,34.0,Chittagong,1,68464.0,122580.05,Online Purchase,2024-05-31 09:23:00,ATM,1,Desktop,1,1.63,1
+156,5934,54.0,Chittagong,41,212800.0,69242.82,POS,2024-03-22 13:34:00,Entertainment,0,Desktop,0,23.84,0
+755,1692,42.0,Sylhet,103,810897.0,52830.03,Bill Payment,2024-09-25 14:41:00,Utilities,1,,0,37.69,0
+264,5230,34.0,Chittagong,119,431707.0,24452.55,Online Purchase,2024-03-14 17:49:00,ATM,0,,0,7.44,0
+93,8248,5.0,Chittagong,2,41302.0,28203.12,Cash Withdrawal,2024-12-19 22:54:00,ATM,3,Mobile,1,0.39,1
+351,3473,21.0,Chittagong,113,330089.0,55999.2,POS,2024-06-04 23:47:00,Financial Services,1,,0,38.0,0
+795,8753,51.0,Cumilla,83,230684.0,91320.38,Bill Payment,2024-07-18 08:10:00,Utilities,0,Desktop,1,16.88,0
+15,3851,53.0,Sylhet,2,72000.0,46037.38,Money Transfer,2024-11-13 21:05:00,Financial Services,2,Mobile,1,0.02,1
+50,2623,68.0,Dhaka,2,15384.0,28440.88,Money Transfer,2024-09-27 21:07:00,Financial Services,0,Mobile,1,0.62,1
+665,1867,40.0,Khulnaa,79,453807.0,96748.12,Cash Withdrawal,2024-05-07 19:49:00,ATM,0,Desktop,1,66.88,0
+635,3868,55.0,Chittagong,27,532867.0,98137.48,Money Transfer,2024-07-31 06:13:00,Financial Services,2,Tablet,0,36.63,0
+231,6491,60.0,Khulna,23,73802.0,56025.81,Bill Payment,2024-05-27 20:11:00,Utilities,0,Desktop,1,55.11,0
+225,5485,30.0,Khulna,79,655022.0,75384.24,POS,2024-04-28 07:43:00,Electronics,0,,0,60.92,0
+478,5011,53.0,,110,414077.0,21793.01,Online Purchase,2024-04-24 12:55:00,Healthcare,0,,0,64.81,0
+316,7649,27.0,Rajshahi,40,607019.0,58206.2,Online Purchase,2024-04-13 05:17:00,Travel,0,Tablet,0,12.67,0
+497,9691,19.0,Khulnaa,102,277234.0,10542.52,Money Transfer,2024-07-09 04:49:00,Financial Services,0,,0,51.61,0
+459,3973,70.0,Rajshahi,94,315744.0,3789.02,Cash Withdrawal,2024-07-20 21:38:00,ATM,0,,0,65.46,0
+377,8014,57.0,Daka,101,562337.0,44075.78,Online Purchase,2024-02-22 00:38:00,Retail,0,Desktop,0,18.45,0
+498,4502,68.0,Rajshahi,50,242481.0,70130.75,POS,2024-05-22 22:38:00,Retail,0,,0,23.05,0
+393,9591,21.0,Dhaka,111,430103.0,21680.96,Cash Withdrawal,2024-10-01 13:30:00,ATM,0,Desktop,0,14.81,0
+298,2909,19.0,Sylhet,18,952945.0,79387.31,Money Transfer,2024-03-29 22:19:00,Financial Services,0,Desktop,0,49.99,0
+230,6309,63.0,Chittagong,12,491228.0,84145.29,POS,2024-12-28 12:46:00,Entertainment,0,,1,12.3,0
+790,5477,64.0,Rajshahi,31,241257.0,81446.69,Cash Withdrawal,2024-09-27 09:22:00,ATM,0,,0,20.71,0
+682,4678,20.0,Chattogram,120,424807.0,38091.56,Bill Payment,2024-08-18 23:15:00,Utilities,0,Tablet,0,45.84,0
+335,2461,,Rangpur,37,705836.0,21214.06,Bill Payment,2024-08-09 23:51:00,Utilities,1,Desktop,0,6.92,0
+127,1328,67.0,Cumilla,83,859767.0,2131.38,POS,2024-06-05 22:45:00,Utilities,0,Tablet,0,15.71,0
+61,6990,50.0,Daka,3,72568.0,86741.06,Money Transfer,2024-06-02 18:21:00,Financial Services,1,Mobile,1,0.02,1
+334,8423,64.0,Khulnaa,28,860494.0,85391.3,Online Purchase,2024-02-06 17:38:00,ATM,0,Desktop,0,62.32,0
+554,9334,35.0,Chittagong,64,611534.0,68942.73,POS,2024-09-17 13:18:00,Financial Services,0,Desktop,1,68.04,0
+715,7363,30.0,Sylhet,42,431704.0,16684.05,Bill Payment,2024-01-15 14:38:00,Utilities,1,,0,8.11,0
+310,1440,58.0,Chittagong,46,79191.0,87694.42,Cash Withdrawal,2024-11-27 09:37:00,ATM,0,Tablet,0,12.22,0
+356,8309,61.0,Gazipur,100,296502.0,77634.88,Bill Payment,2024-08-13 22:59:00,Utilities,1,,0,10.39,0
+670,3543,39.0,Daka,50,142034.0,88703.45,Money Transfer,2024-05-06 11:09:00,Financial Services,0,Desktop,0,2.99,0
+288,3423,52.0,Narayanganj,118,996296.0,66535.85,Bill Payment,2024-06-12 04:00:00,Utilities,1,Tablet,0,21.28,0
+648,5915,,Narayanganj,27,662900.0,78949.93,Online Purchase,2024-07-29 04:09:00,Healthcare,0,Desktop,0,11.48,0
+424,4586,47.0,Sylhet,86,887960.0,93142.43,Money Transfer,2024-06-07 16:44:00,Financial Services,0,,0,15.53,0
+649,7865,30.0,Barisal,36,440940.0,17255.6,POS,2024-12-10 04:13:00,Healthcare,0,Tablet,1,8.45,0
+476,2428,47.0,Sylhet,36,390533.0,12702.11,Bill Payment,2024-05-12 15:16:00,Utilities,0,Desktop,0,69.96,0
+501,5889,47.0,Daka,16,667995.0,14468.93,Online Purchase,2024-01-06 04:06:00,Financial Services,0,Desktop,0,13.76,0
+522,1403,46.0,Chittagong,62,880116.0,31876.17,POS,2024-05-13 19:43:00,Healthcare,0,,0,1.56,0
+260,6172,61.0,Chittagong,82,905249.0,57656.05,Money Transfer,2024-06-20 08:17:00,Financial Services,0,,0,48.62,0
+188,5413,57.0,Khulna,27,808734.0,49835.51,Bill Payment,2024-05-23 14:11:00,Utilities,0,Desktop,0,51.9,0
+740,3248,23.0,Barisal,79,283814.0,83486.82,Money Transfer,2024-05-27 19:32:00,Financial Services,0,Tablet,0,40.75,0
+191,4259,59.0,Khulna,37,725893.0,67952.75,Bill Payment,2024-02-10 12:39:00,Utilities,0,Desktop,0,46.12,0
+179,1086,70.0,Gazipur,9,408848.0,11550.9,Bill Payment,2024-07-24 19:41:00,Utilities,0,Mobile,0,59.06,0
+10,2188,,Gazipur,1,50745.0,68048.77,Online Purchase,2024-12-26 23:39:00,Travel,1,Mobile,0,5.39,1
+750,7371,41.0,Cumilla,58,113806.0,58350.49,Cash Withdrawal,2024-05-17 11:58:00,ATM,2,Desktop,0,42.16,0
+299,4712,31.0,Chittagong,98,101511.0,3541.47,Bill Payment,2024-01-22 06:06:00,Utilities,0,Mobile,0,65.41,0
+24,5658,29.0,Sylhet,2,87502.0,25065.91,Cash Withdrawal,2024-05-07 21:35:00,ATM,2,Mobile,1,0.45,1
+639,1423,48.0,Rajshai,53,415351.0,79519.25,Cash Withdrawal,2024-03-21 03:00:00,ATM,0,,0,8.09,0
+108,8728,67.0,Rajshahi,13,272867.0,35987.37,Online Purchase,2024-04-22 18:54:00,ATM,0,Desktop,0,42.66,0
+712,6850,44.0,Chittagong,70,456577.0,85202.97,Cash Withdrawal,2024-10-07 02:52:00,ATM,0,Tablet,0,4.07,0
+697,7338,51.0,Rajshai,64,215103.0,62528.81,POS,2024-02-01 14:11:00,Entertainment,0,Desktop,0,63.23,0
+71,1256,5.0,Daka,1,75747.0,107054.35,Cash Withdrawal,2024-10-21 19:36:00,ATM,2,Mobile,1,11.41,1
+738,4681,26.0,Khulnaa,53,812125.0,84290.73,POS,2024-09-23 09:31:00,Retail,0,,1,6.11,0
+365,7669,19.0,Rajshahi,3,634646.0,89496.15,POS,2024-11-29 04:19:00,ATM,0,Desktop,0,10.25,0
+38,2786,57.0,Khulnaa,3,12972.0,175572.8,Money Transfer,2024-08-15 04:57:00,Financial Services,2,,1,0.63,1
+646,1273,65.0,Gazipur,73,570549.0,7239.03,Money Transfer,2024-10-03 07:44:00,Financial Services,1,Tablet,0,48.99,0
+500,7599,,Narayanganj,83,,62598.51,Bill Payment,2024-06-03 08:20:00,Utilities,0,Tablet,0,3.39,0
+333,1425,61.0,Barisal,14,181245.0,4792.11,Bill Payment,2024-08-20 20:17:00,Utilities,0,,0,47.24,0
+427,1886,63.0,Daka,18,525876.0,39241.72,Cash Withdrawal,2024-04-21 23:12:00,ATM,0,,0,41.45,0
+699,9692,,Daka,97,84612.0,9278.39,Online Purchase,2024-11-13 13:05:00,Healthcare,0,Mobile,0,55.54,0
+360,8371,27.0,Barisal,80,449526.0,51778.28,Bill Payment,2024-06-22 17:02:00,Utilities,1,Tablet,0,62.35,0
+568,8919,62.0,Rajshahi,64,410843.0,72712.46,Bill Payment,2024-04-24 18:01:00,Utilities,0,Tablet,0,7.84,0
+72,3869,49.0,Barisal,3,24558.0,32382.35,Online Purchase,2024-06-02 21:09:00,Electronics,1,Mobile,1,2.02,1
+730,1168,55.0,Khulnaa,65,546461.0,24800.32,POS,2024-07-17 17:41:00,Electronics,0,,0,32.52,0
+720,8859,62.0,Chittagong,49,541586.0,57770.05,Bill Payment,2024-03-30 00:36:00,Utilities,0,Tablet,0,51.76,0
+245,8629,23.0,Chittagong,59,695721.0,94165.65,Bill Payment,2024-04-28 07:09:00,Utilities,0,Tablet,0,50.37,0
+204,6690,46.0,Dhaka,46,282874.0,6223.53,Bill Payment,2024-10-13 09:34:00,Utilities,0,Desktop,0,23.31,0
+668,6355,19.0,Gazipur,110,200767.0,25767.65,Bill Payment,2024-04-03 17:13:00,Utilities,1,Desktop,0,41.33,0
+448,5059,64.0,Rajshahi,15,755005.0,33487.63,Bill Payment,2024-04-11 15:45:00,Utilities,0,Desktop,0,61.55,0
+766,3523,19.0,Barisal,31,535753.0,53007.84,Bill Payment,2024-08-08 07:18:00,Utilities,0,Tablet,0,23.55,0
+390,8679,47.0,Chittagong,25,751844.0,55767.96,Bill Payment,2024-10-12 00:23:00,Utilities,0,Tablet,0,0.7,0
+147,5783,41.0,Dhaka,64,771678.0,98394.16,Online Purchase,2024-05-10 19:12:00,Food,0,Desktop,0,56.26,0
+691,2128,57.0,Rangpur,15,849389.0,88693.71,Money Transfer,2024-05-29 22:50:00,Financial Services,1,,1,64.16,0
+344,6681,45.0,,37,512034.0,46111.81,POS,2024-04-22 18:58:00,Financial Services,1,,0,21.12,0
+37,4362,31.0,Rajshai,2,23964.0,37711.99,Online Purchase,2024-03-08 21:22:00,ATM,1,Mobile,0,0.53,1
+160,3519,,Dhaka,7,284144.0,74156.04,Cash Withdrawal,2024-05-12 13:24:00,ATM,0,Tablet,1,48.48,0
+336,7020,49.0,Rangpur,73,114604.0,56463.1,POS,2024-04-05 13:40:00,ATM,0,,0,46.63,0
+367,7228,58.0,Rajshai,6,580033.0,74810.99,Online Purchase,2024-07-21 22:07:00,Travel,0,,0,36.35,0
+562,9014,61.0,Sylhet,28,840854.0,54615.08,Money Transfer,2024-05-13 21:20:00,Financial Services,0,,0,65.69,0
+178,6641,43.0,Rajshai,16,488288.0,92754.92,Online Purchase,2024-04-19 16:25:00,Financial Services,0,Mobile,0,69.45,0
+567,7408,56.0,Khulnaa,66,336831.0,36965.89,Online Purchase,2024-05-15 20:36:00,Healthcare,0,Desktop,0,40.39,0
+676,5466,18.0,Rangpur,108,876397.0,65016.34,Online Purchase,2024-11-16 22:25:00,Electronics,0,Desktop,1,8.24,0
+440,6007,38.0,Daka,94,118181.0,22698.53,Online Purchase,2024-05-26 17:59:00,Healthcare,0,,0,48.75,0
+2,2519,40.0,Khulnaa,20,77357.0,126924.46,Cash Withdrawal,2024-04-26 22:05:00,ATM,3,Mobile,0,2.78,1
+302,9260,48.0,Gazipur,87,209633.0,47605.13,Bill Payment,2024-04-19 16:14:00,Utilities,0,Tablet,0,7.94,0
+62,1436,59.0,Khulnaa,1,99526.0,149758.82,Cash Withdrawal,2024-01-10 16:20:00,ATM,1,Mobile,1,0.47,1
+146,8474,41.0,Rajshai,59,824694.0,82292.0,Money Transfer,2024-08-19 03:06:00,Financial Services,0,Tablet,0,45.62,0
+744,2770,42.0,Khulna,47,77149.0,6462.72,Money Transfer,2024-02-25 17:34:00,Financial Services,0,,0,64.17,0
+320,6049,,Gazipur,95,77328.0,91620.75,Cash Withdrawal,2024-05-09 17:24:00,ATM,0,Tablet,0,49.34,0
+548,2285,32.0,Gazipur,94,788654.0,16975.76,POS,2024-01-27 19:30:00,Entertainment,0,Desktop,0,21.1,0
+703,5549,49.0,Cumilla,110,718130.0,8867.34,Online Purchase,2024-02-04 10:45:00,Healthcare,0,,0,29.98,0
+512,6467,67.0,Rajshai,77,303049.0,90938.93,Online Purchase,2024-03-16 13:54:00,Food,0,,1,41.59,0
+513,8056,65.0,Rangpur,36,731774.0,72512.92,Bill Payment,2024-09-26 05:16:00,Utilities,1,Tablet,0,30.05,0
+782,6757,,Khulnaa,14,833550.0,53772.24,Cash Withdrawal,2024-11-13 20:30:00,ATM,0,Mobile,0,53.61,0
+312,6504,69.0,Barisal,39,477169.0,27493.7,Online Purchase,2024-10-01 06:18:00,Utilities,0,,0,44.97,0
+66,5742,5.0,Barisal,3,71088.0,28973.07,Money Transfer,2024-11-27 09:45:00,Financial Services,2,Mobile,0,0.18,1
+672,4244,58.0,Rangpur,63,129385.0,43197.13,POS,2024-07-18 09:31:00,Utilities,0,Mobile,0,6.42,0
+58,1674,5.0,Khulnaa,3,70278.0,193099.47,Money Transfer,2024-06-01 20:04:00,Financial Services,0,Mobile,1,0.14,1
+525,6861,50.0,Chittagong,66,707781.0,20879.19,POS,2024-06-22 14:45:00,Travel,0,Tablet,0,4.91,0
+787,2291,35.0,Khulnaa,70,103532.0,94483.89,POS,2024-12-19 17:19:00,Entertainment,0,,0,2.93,0
+527,3607,60.0,Daka,98,829231.0,97108.56,Online Purchase,2024-03-30 23:57:00,ATM,0,Mobile,1,18.03,0
+499,4229,,Dhaka,54,494779.0,23491.14,POS,2024-07-15 07:36:00,Electronics,0,Mobile,0,20.47,0
+16,7790,63.0,Cumilla,4,96214.0,185870.75,Cash Withdrawal,2024-03-09 18:42:00,ATM,1,,1,0.82,1
+14,6139,25.0,Gazipur,1,95027.0,101717.42,Cash Withdrawal,2024-06-09 06:54:00,ATM,3,Mobile,1,0.7,1
+591,3286,39.0,Dhaka,40,168332.0,46409.87,Cash Withdrawal,2024-08-23 00:42:00,ATM,0,Tablet,0,13.29,0
+95,9791,23.0,Narayanganj,1,90175.0,30247.65,Cash Withdrawal,2024-02-14 16:07:00,ATM,2,,0,18.63,1
+6,3060,53.0,Narayanganj,7,98447.0,131765.76,Cash Withdrawal,2024-04-25 01:21:00,ATM,1,Mobile,0,0.06,1
+5,5315,50.0,Rajshai,3,26174.0,18437.89,Money Transfer,2024-02-27 23:56:00,Financial Services,3,Mobile,1,0.08,1
+269,1701,31.0,Daka,87,582625.0,20597.11,Cash Withdrawal,2024-02-06 01:47:00,ATM,0,,0,44.52,0
+614,4621,54.0,Sylhet,92,684686.0,40990.53,Bill Payment,2024-12-10 09:09:00,Utilities,0,Desktop,0,61.86,0
+326,4677,30.0,Rajshai,37,420633.0,18108.13,Cash Withdrawal,2024-11-03 06:52:00,ATM,0,,0,57.06,0
+425,5775,42.0,Khulnaa,106,909265.0,97123.44,Cash Withdrawal,2024-12-24 23:03:00,ATM,1,,0,21.54,0
+434,1601,37.0,Rajshahi,78,640529.0,48090.74,POS,2024-08-04 02:35:00,Utilities,0,Desktop,0,5.99,0
+349,1107,69.0,Sylhet,11,769941.0,99980.5,Cash Withdrawal,2024-03-18 16:26:00,ATM,0,,0,29.47,0
+510,3323,60.0,Barisal,34,199018.0,90100.03,Online Purchase,2024-10-31 11:30:00,Electronics,0,Mobile,1,1.25,0
+168,2483,50.0,,31,865718.0,81550.42,POS,2024-03-12 14:10:00,Travel,0,Desktop,0,34.81,0
+255,2279,52.0,Sylhet,116,836344.0,2459.89,POS,2024-08-28 18:46:00,Financial Services,0,Tablet,0,2.54,0
+394,8081,60.0,Gazipur,40,546883.0,95016.48,Money Transfer,2024-04-13 00:09:00,Financial Services,0,Desktop,0,65.54,0
+314,8425,53.0,Dhaka,67,624864.0,66452.3,Bill Payment,2024-05-17 20:34:00,Utilities,0,,0,52.32,0
+435,5164,62.0,Rajshahi,94,683874.0,92395.56,Money Transfer,2024-10-15 21:41:00,Financial Services,0,,0,22.78,0
+40,6400,60.0,Rangpur,4,80748.0,26993.42,Cash Withdrawal,2024-10-11 21:07:00,ATM,1,,0,17.57,1
+564,2478,39.0,Khulnaa,9,563842.0,28621.21,Cash Withdrawal,2024-03-21 17:25:00,ATM,0,Desktop,0,23.87,0
+507,2377,31.0,Narayanganj,43,305830.0,49476.78,Bill Payment,2024-08-04 06:18:00,Utilities,0,Tablet,0,35.54,0
+728,1686,20.0,Barisal,90,856587.0,51374.29,Online Purchase,2024-08-04 22:37:00,Financial Services,1,Mobile,0,69.32,0
+528,1613,22.0,Barisal,108,202522.0,43104.77,Bill Payment,2024-07-12 04:40:00,Utilities,0,Tablet,0,48.88,0
+166,6432,47.0,Khulnaa,71,696909.0,80519.2,Money Transfer,2024-03-12 17:12:00,Financial Services,0,Mobile,0,64.23,0
+495,6710,59.0,Chittagong,56,439369.0,26329.01,Cash Withdrawal,2024-12-17 22:17:00,ATM,1,Tablet,0,14.82,0
+208,9051,23.0,Daka,72,953684.0,55601.2,Online Purchase,2024-11-11 08:33:00,Electronics,0,Mobile,0,69.16,0
+576,2676,51.0,Khulnaa,74,640935.0,80296.72,POS,2024-12-08 15:13:00,Travel,0,Desktop,1,57.84,0
+363,9649,34.0,Chittagong,37,287968.0,12762.42,Bill Payment,2024-12-13 05:03:00,Utilities,0,Mobile,0,21.46,0
+253,7974,47.0,Narayanganj,50,214816.0,56735.46,POS,2024-09-12 23:15:00,Entertainment,0,Tablet,1,2.73,0
+340,8817,43.0,Chittagong,63,872631.0,81873.07,Bill Payment,2024-06-03 02:08:00,Utilities,0,Mobile,0,13.55,0
+429,7498,62.0,Khulna,49,853958.0,88979.85,Bill Payment,2024-11-28 12:17:00,Utilities,0,Mobile,0,5.95,0
+411,7032,59.0,Rangpur,32,986229.0,48434.1,Online Purchase,2024-12-23 21:41:00,Travel,0,Desktop,0,43.35,0
+304,8793,41.0,Daka,14,568051.0,87384.65,Online Purchase,2024-03-14 12:25:00,Retail,0,Desktop,1,70.21,0
+542,9501,42.0,Rajshahi,2,735756.0,36973.55,Cash Withdrawal,2024-10-04 09:21:00,ATM,0,,0,19.35,0
+102,3230,55.0,Chittagong,60,146601.0,71279.83,Cash Withdrawal,2024-08-19 09:29:00,ATM,0,Desktop,0,21.9,0
+311,9821,47.0,Rangpur,116,41393.0,92266.97,Online Purchase,2024-06-11 12:36:00,ATM,0,,0,48.61,0
+608,2610,59.0,Rangpur,82,255082.0,19222.97,POS,2024-02-11 19:36:00,ATM,1,Desktop,0,45.04,0
+412,3644,,Daka,50,634633.0,11582.85,Cash Withdrawal,2024-08-04 05:53:00,ATM,0,,0,52.84,0
+508,8103,21.0,Chittagong,7,623172.0,35911.88,POS,2024-02-21 08:14:00,ATM,0,Tablet,0,12.31,0
+378,7897,57.0,Rajshahi,6,346806.0,77657.58,Money Transfer,2024-06-08 18:56:00,Financial Services,0,,0,24.69,0
+359,9008,,Chittagong,54,344745.0,75200.24,Money Transfer,2024-07-12 15:53:00,Financial Services,0,Desktop,0,33.19,0
+233,4401,,Daka,19,719396.0,76854.8,Money Transfer,2024-06-18 02:03:00,Financial Services,0,Desktop,0,44.0,0
+308,7285,42.0,Dacca,85,337765.0,93560.41,Bill Payment,2024-03-09 09:45:00,Utilities,0,,0,49.35,0
+764,5018,19.0,Sylhet,66,779459.0,54051.13,POS,2024-06-02 08:06:00,Travel,0,Desktop,0,17.91,0
+749,7187,43.0,Barisal,36,324798.0,31300.94,Bill Payment,2024-01-13 21:59:00,Utilities,0,Mobile,0,57.61,0
+53,5476,43.0,Rangpur,1,73062.0,46259.89,Money Transfer,2024-04-02 13:18:00,Financial Services,0,Mobile,1,4.45,1
+471,2264,47.0,Daka,106,77327.0,49754.66,Cash Withdrawal,2024-05-18 03:06:00,ATM,0,Tablet,1,20.32,0
+114,3725,49.0,Barisal,13,847043.0,76831.1,Cash Withdrawal,2024-03-24 14:04:00,ATM,0,,1,18.8,0
+745,1981,,Gazipur,37,261684.0,29954.83,POS,2024-05-16 17:22:00,Food,0,Tablet,0,12.37,0
+775,4222,64.0,Cumilla,76,584964.0,60830.45,Money Transfer,2024-01-10 13:37:00,Financial Services,0,,0,30.04,0
+693,8505,39.0,Khulna,119,790327.0,76190.92,Bill Payment,2024-04-12 15:24:00,Utilities,0,Tablet,0,24.17,0
+301,3630,67.0,Rajshahi,9,626217.0,2884.88,Cash Withdrawal,2024-05-24 05:57:00,ATM,0,,0,66.54,0
+132,2166,30.0,Rajshai,68,76688.0,20775.74,Cash Withdrawal,2024-06-24 13:36:00,ATM,0,Desktop,0,51.53,0
+270,4976,26.0,,81,342266.0,13797.62,Cash Withdrawal,2024-10-29 02:52:00,ATM,0,Desktop,1,14.59,0
+485,8471,40.0,Narayanganj,98,991347.0,24089.88,Money Transfer,2024-03-31 17:38:00,Financial Services,0,Tablet,0,49.58,0
+707,4165,35.0,Barisal,8,254181.0,83977.31,Money Transfer,2024-11-13 15:35:00,Financial Services,0,Tablet,0,22.62,0
+107,1319,68.0,Cumilla,63,613128.0,66881.16,Money Transfer,2024-04-02 00:20:00,Financial Services,0,,0,20.23,0
+111,2655,38.0,Khulna,56,530866.0,86120.73,POS,2024-12-21 19:50:00,Financial Services,0,Desktop,0,52.85,0
+105,3110,69.0,Dhaka,7,621761.0,57856.17,Bill Payment,2024-09-11 00:24:00,Utilities,0,Desktop,0,19.8,0
+123,4892,,Sylhet,3,852204.0,40753.09,Bill Payment,2024-12-22 21:06:00,Utilities,1,Tablet,0,31.9,0
+430,9015,50.0,Gazipur,74,747424.0,98704.46,POS,2024-04-02 12:30:00,ATM,0,Tablet,1,65.44,0
+30,7274,20.0,Cumilla,10,24936.0,179906.02,Online Purchase,2024-08-13 22:33:00,ATM,0,Desktop,1,0.78,1
+328,2196,21.0,Rajshahi,46,723375.0,79481.96,Online Purchase,2024-01-03 08:32:00,ATM,0,Tablet,0,64.24,0
+352,3406,46.0,Narayanganj,80,751351.0,46340.77,Bill Payment,2024-04-11 09:05:00,Utilities,0,Desktop,0,38.94,0
+398,2878,26.0,Chittagong,60,595069.0,87141.23,Bill Payment,2024-03-12 15:52:00,Utilities,0,Mobile,0,12.76,0
+20,4571,41.0,Gazipur,23,8365.0,131848.5,Cash Withdrawal,2024-12-19 06:15:00,ATM,2,Mobile,1,0.98,1
+413,2456,54.0,Barisal,35,995193.0,99118.8,Money Transfer,2024-01-04 05:52:00,Financial Services,0,,0,47.13,0
+353,4501,53.0,Barisal,21,953567.0,71829.25,Cash Withdrawal,2024-06-04 23:27:00,ATM,2,Mobile,0,18.7,0
+473,5626,50.0,Khulnaa,46,756789.0,89441.74,Bill Payment,2024-09-14 03:32:00,Utilities,0,,0,62.55,0
+607,6206,52.0,Rajshai,97,886268.0,59926.7,Cash Withdrawal,2024-07-23 09:00:00,ATM,0,,0,49.2,0
+470,8443,34.0,Narayanganj,30,184417.0,36725.31,POS,2024-07-12 04:47:00,Food,0,,0,59.22,0
+313,2506,55.0,Barisal,73,518355.0,57001.97,Online Purchase,2024-11-29 09:32:00,Utilities,0,Desktop,0,18.09,0
+239,6434,68.0,Khulna,4,413468.0,83171.43,Cash Withdrawal,2024-10-19 19:24:00,ATM,0,Tablet,0,22.64,0
+69,1911,47.0,Narayanganj,2,,107155.45,Cash Withdrawal,2024-01-31 17:59:00,ATM,0,Mobile,1,0.73,1
+444,2755,,Khulna,2,535947.0,26900.47,POS,2024-03-19 13:07:00,Healthcare,0,Tablet,0,28.47,0
+170,9918,42.0,Barisal,115,561760.0,34012.63,Cash Withdrawal,2024-09-21 12:22:00,ATM,0,,0,0.48,0
+142,2699,55.0,Gazipur,24,837012.0,48063.14,Cash Withdrawal,2024-09-04 15:07:00,ATM,0,Mobile,0,22.63,0
+625,7834,,Dhaka,46,166727.0,60961.7,Online Purchase,2024-12-26 06:13:00,Utilities,0,Tablet,0,27.53,0
+637,5500,38.0,Rajshai,73,,68991.58,Bill Payment,2024-01-20 01:38:00,Utilities,0,Tablet,0,29.87,0
+799,6847,33.0,Cumilla,72,,11006.32,Cash Withdrawal,2024-04-28 13:55:00,ATM,0,Mobile,0,71.26,0
+767,7174,24.0,Khulnaa,20,536579.0,13192.44,Cash Withdrawal,2024-01-27 00:30:00,ATM,0,Tablet,0,66.1,0
+506,5552,61.0,Rajshai,14,938758.0,15121.5,Cash Withdrawal,2024-01-09 14:11:00,ATM,0,,0,8.52,0
+124,6257,44.0,Chittagong,28,446949.0,98165.45,POS,2024-07-10 01:32:00,Travel,0,,0,61.29,0
+414,8060,41.0,Khulna,24,135593.0,60125.71,Cash Withdrawal,2024-04-05 06:03:00,ATM,0,Desktop,0,64.96,0
+666,2957,24.0,Gazipur,88,447372.0,51045.64,Cash Withdrawal,2024-06-24 05:06:00,ATM,0,,0,35.98,0
+458,5216,58.0,Rajshahi,29,233824.0,77301.98,Bill Payment,2024-03-20 14:14:00,Utilities,0,Desktop,0,6.75,0
+663,8174,45.0,Khulna,58,80341.0,46608.66,Cash Withdrawal,2024-02-02 21:22:00,ATM,0,Tablet,0,52.4,0
+406,5068,62.0,Gazipur,67,483849.0,83546.6,Bill Payment,2024-02-05 06:03:00,Utilities,0,Desktop,0,12.5,0
+259,2900,47.0,Sylhet,97,265011.0,50849.35,Bill Payment,2024-08-30 08:09:00,Utilities,0,Tablet,0,32.32,0
+272,1666,68.0,Gazipur,21,,64835.07,Online Purchase,2024-04-01 02:45:00,Utilities,0,,0,14.84,0
+577,3400,48.0,Barisal,7,866446.0,58672.54,Bill Payment,2024-06-16 09:32:00,Utilities,0,,0,27.76,0
+263,5150,60.0,Daka,36,745846.0,88576.99,Money Transfer,2024-05-11 05:49:00,Financial Services,0,,0,71.71,0
+779,5230,36.0,Rangpur,55,191869.0,48382.76,Money Transfer,2024-06-07 17:44:00,Financial Services,0,,0,62.87,0
+627,7144,21.0,Sylhet,57,136424.0,62858.43,Online Purchase,2024-06-15 23:26:00,Travel,0,Desktop,0,31.55,0
+628,6371,66.0,Narayanganj,38,167290.0,10000.07,Money Transfer,2024-07-03 14:47:00,Financial Services,0,,0,26.08,0
+457,7047,63.0,Sylhet,53,329220.0,43648.53,Online Purchase,2024-07-01 07:46:00,Utilities,0,Mobile,0,49.54,0
+484,7884,67.0,Rangpur,27,732641.0,76702.51,Money Transfer,2024-07-05 00:19:00,Financial Services,0,Mobile,0,46.72,0
+241,3524,48.0,Narayanganj,42,934147.0,13960.21,POS,2024-12-12 04:13:00,Electronics,0,Mobile,1,67.13,0
+700,6922,56.0,Chittagong,94,492684.0,48012.22,Bill Payment,2024-07-08 15:19:00,Utilities,0,Desktop,0,12.28,0
+687,4240,38.0,Rajshai,98,351575.0,81093.3,POS,2024-09-28 23:40:00,Electronics,0,Mobile,1,66.25,0
+610,4391,47.0,Gazipur,31,503819.0,66628.14,POS,2024-06-18 05:15:00,Healthcare,0,,0,49.11,0
+374,1415,32.0,Rangpur,118,192471.0,44183.08,Online Purchase,2024-01-15 15:27:00,Electronics,0,Tablet,0,17.8,0
+99,4974,55.0,Khulnaa,94,817423.0,33144.06,Bill Payment,2024-01-13 07:34:00,Utilities,0,Mobile,0,0.11,0
+151,6657,26.0,Daka,23,748038.0,84508.24,Online Purchase,2024-06-29 17:30:00,ATM,0,Tablet,0,30.41,0
+420,2895,52.0,Rajshahi,85,130592.0,58101.34,Online Purchase,2024-03-23 10:57:00,ATM,0,Tablet,0,68.51,0
+579,6704,41.0,Khulnaa,94,666944.0,74460.63,Cash Withdrawal,2024-07-14 11:11:00,ATM,1,Desktop,0,37.87,0
+279,3440,18.0,Dhaka,94,55253.0,56850.11,Bill Payment,2024-12-22 03:28:00,Utilities,0,Mobile,0,29.28,0
+532,2225,33.0,Gazipur,52,592461.0,92514.18,POS,2024-08-29 08:41:00,Electronics,0,Desktop,0,55.06,0
+737,3698,66.0,Daka,29,446132.0,8896.24,Online Purchase,2024-06-13 12:01:00,Food,0,,0,60.22,0
+798,4168,64.0,Khulnaa,90,634667.0,27206.88,POS,2024-10-16 18:22:00,Retail,0,Desktop,0,61.76,0
+445,5903,29.0,Sylhet,57,480698.0,22224.99,Bill Payment,2024-01-03 11:56:00,Utilities,0,Desktop,0,9.62,0
+588,2889,58.0,Khulna,42,416267.0,87343.84,Online Purchase,2024-06-14 22:06:00,Financial Services,0,,0,24.1,0
+404,9248,18.0,Gazipur,16,793758.0,57239.72,POS,2024-02-10 01:08:00,Financial Services,0,,0,2.73,0
+207,3926,30.0,Rajshahi,74,427475.0,87283.99,POS,2024-12-25 18:16:00,Electronics,0,Mobile,1,66.31,0
+638,3580,29.0,Khulna,104,402801.0,15416.66,Online Purchase,2024-09-11 06:19:00,ATM,0,Tablet,0,2.05,0
+756,7679,49.0,Dhaka,77,902844.0,40128.55,Bill Payment,2024-07-14 12:19:00,Utilities,0,Desktop,0,15.52,0
+149,8912,67.0,Khulna,23,154618.0,14611.74,POS,2024-11-06 10:32:00,ATM,0,Desktop,0,69.38,0
+449,3436,26.0,Sylhet,119,38519.0,81820.96,Online Purchase,2024-07-13 13:33:00,Utilities,0,Desktop,0,34.5,0
+192,6527,57.0,Rajshai,11,259303.0,42119.69,Money Transfer,2024-12-29 08:38:00,Financial Services,0,,0,67.59,0
+624,8762,68.0,Chittagong,120,999715.0,40832.08,Money Transfer,2024-06-19 23:22:00,Financial Services,0,Tablet,0,28.34,0
+182,8450,54.0,,23,131636.0,74227.24,Money Transfer,2024-06-23 03:51:00,Financial Services,0,Tablet,0,69.56,0
+81,4203,18.0,Barisal,2,90332.0,29913.53,Money Transfer,2024-03-31 12:20:00,Financial Services,2,Mobile,1,0.38,1
+768,6853,23.0,Sylhet,5,106345.0,6240.44,Cash Withdrawal,2024-03-28 12:52:00,ATM,2,Tablet,0,37.88,0
+681,2824,44.0,Dhaka,22,357281.0,49548.84,Online Purchase,2024-12-16 07:00:00,ATM,0,,0,40.82,0
+150,5819,26.0,Gazipur,96,904027.0,93000.78,Money Transfer,2024-12-30 23:59:00,Financial Services,0,Desktop,0,20.92,0
+200,7084,68.0,Chittagong,19,833331.0,52442.14,Bill Payment,2024-04-02 06:57:00,Utilities,0,Mobile,0,55.31,0
+523,3321,60.0,Narayanganj,70,523805.0,39043.94,Online Purchase,2024-10-28 15:23:00,Utilities,0,Mobile,0,58.57,0
+690,7215,67.0,,89,399987.0,58852.49,Cash Withdrawal,2024-08-17 00:31:00,ATM,1,Tablet,0,63.83,0
+237,4478,,Sylhet,9,551302.0,73120.39,Online Purchase,2024-02-28 21:21:00,Financial Services,0,Mobile,0,13.97,0
+530,6582,64.0,Chittagong,64,237553.0,75841.76,POS,2024-06-29 11:39:00,Entertainment,0,,0,27.08,0
+518,8555,42.0,Rajshai,18,747851.0,42109.38,Money Transfer,2024-08-27 11:27:00,Financial Services,0,,1,40.24,0
+399,3034,43.0,Daka,87,482063.0,47952.79,Online Purchase,2024-12-11 17:13:00,Healthcare,0,Mobile,0,22.2,0
+159,2572,67.0,Dhaka,27,831159.0,29027.5,Bill Payment,2024-02-23 06:34:00,Utilities,0,,0,67.66,0
+54,6776,58.0,Dhaka,3,25969.0,58169.72,Money Transfer,2024-07-06 23:24:00,Financial Services,0,Mobile,1,0.44,1
+110,4300,39.0,Khulnaa,42,174887.0,77958.47,Cash Withdrawal,2024-02-26 16:55:00,ATM,0,,0,47.67,0
+688,1864,23.0,Barisal,20,342501.0,9689.29,Money Transfer,2024-10-25 14:30:00,Financial Services,0,Tablet,0,40.46,0
+480,4497,20.0,Khulnaa,120,847912.0,57472.86,Cash Withdrawal,2024-01-28 06:55:00,ATM,0,,0,45.77,0
+620,8836,23.0,Chittagong,28,334531.0,75623.96,Bill Payment,2024-02-27 23:56:00,Utilities,0,,0,18.13,0
+465,8003,35.0,Barisal,24,389737.0,42902.42,Bill Payment,2024-12-21 13:38:00,Utilities,0,Desktop,0,39.55,0
+370,1138,41.0,Cumilla,96,,37916.06,Money Transfer,2024-04-08 02:52:00,Financial Services,0,Desktop,0,35.55,0
+189,4863,42.0,Khulnaa,20,30215.0,24190.15,Cash Withdrawal,2024-11-18 16:34:00,ATM,0,Tablet,0,61.81,0
+587,7318,54.0,Chittagong,83,854951.0,38859.74,POS,2024-10-09 23:50:00,Utilities,0,Tablet,0,18.78,0
+483,6185,,Khulna,41,726682.0,54291.28,Online Purchase,2024-08-18 04:40:00,Healthcare,0,Mobile,0,70.49,0
+722,7017,48.0,Barisal,48,587035.0,20128.07,Money Transfer,2024-07-27 05:37:00,Financial Services,0,Tablet,0,10.63,0
+746,7279,57.0,,21,796424.0,81592.87,Money Transfer,2024-09-05 03:06:00,Financial Services,0,Desktop,0,11.93,0
+578,8773,51.0,Chittagong,108,194185.0,84152.36,Cash Withdrawal,2024-08-11 17:28:00,ATM,0,Mobile,0,31.35,0
+475,5765,45.0,Chittagong,50,660037.0,80551.5,Cash Withdrawal,2024-10-17 20:31:00,ATM,0,,0,22.29,0
+11,3546,63.0,Daka,2,11658.0,40788.41,Cash Withdrawal,2024-03-07 08:16:00,ATM,1,Mobile,1,0.95,1
+82,9939,19.0,Cumilla,11,58627.0,180954.87,Money Transfer,2024-07-12 23:28:00,Financial Services,1,Mobile,0,3.72,1
+541,5301,55.0,Dhaka,107,927796.0,57117.26,Online Purchase,2024-02-25 17:24:00,Utilities,0,,0,51.78,0
+209,2591,32.0,Rajshahi,85,675700.0,24503.84,POS,2024-07-31 23:06:00,Financial Services,0,,0,12.01,0
+708,9786,69.0,Gazipur,38,791222.0,26603.35,POS,2024-05-24 07:50:00,ATM,0,Mobile,0,14.71,0
+534,2320,48.0,Sylhet,14,552261.0,30588.03,Bill Payment,2024-09-01 09:50:00,Utilities,0,Mobile,0,1.9,0
+342,8947,46.0,Rajshahi,107,73395.0,44758.79,Bill Payment,2024-07-31 15:47:00,Utilities,0,Tablet,1,28.78,0
+343,9410,57.0,Rajshai,30,573971.0,3534.2,Money Transfer,2024-10-10 02:17:00,Financial Services,0,,0,44.83,0
+605,3554,28.0,Gazipur,98,317677.0,74007.41,Cash Withdrawal,2024-07-11 17:08:00,ATM,0,Mobile,1,15.72,0
+293,3243,42.0,Cumilla,106,633635.0,40883.41,Bill Payment,2024-04-24 00:50:00,Utilities,0,,0,47.95,0
+647,4707,66.0,Narayanganj,79,232018.0,37497.89,Bill Payment,2024-05-31 12:57:00,Utilities,0,,0,9.8,0
+582,2956,58.0,Barisal,70,913990.0,26516.51,Online Purchase,2024-06-19 21:54:00,Financial Services,0,Tablet,0,67.72,0
+372,2065,54.0,Narayanganj,36,730912.0,4129.2,POS,2024-11-10 08:43:00,Entertainment,0,,0,48.46,0
+580,1091,39.0,Barisal,65,656249.0,36789.35,Money Transfer,2024-11-24 15:25:00,Financial Services,0,Tablet,0,4.12,0
+641,4215,50.0,Khulna,11,772110.0,53959.23,POS,2024-02-23 07:14:00,Utilities,0,Tablet,0,33.27,0
+317,1691,49.0,Dhaka,11,332453.0,9423.06,Bill Payment,2024-07-05 21:42:00,Utilities,0,Desktop,0,41.11,0
+791,5080,25.0,Sylhet,64,,16062.55,Cash Withdrawal,2024-05-09 22:08:00,ATM,0,Mobile,0,17.91,0
+357,3082,47.0,Chittagong,68,242971.0,60741.34,Cash Withdrawal,2024-10-13 11:58:00,ATM,1,,0,26.61,0
+73,2514,21.0,Daka,5,93008.0,196589.7,Cash Withdrawal,2024-01-08 09:59:00,ATM,2,,0,0.7,1
+611,7657,48.0,Chittagong,34,583443.0,16928.58,POS,2024-11-27 17:45:00,Electronics,0,Mobile,0,28.68,0
+345,7395,61.0,Barisal,103,189896.0,82526.72,Online Purchase,2024-12-07 15:08:00,Travel,0,Mobile,0,67.9,0
+80,8061,44.0,Chittagong,1,16101.0,196695.96,Cash Withdrawal,2024-03-12 12:19:00,ATM,0,Mobile,1,0.78,1
+125,1474,30.0,Rajshahi,7,758862.0,27124.4,Bill Payment,2024-09-15 12:40:00,Utilities,1,Desktop,0,42.77,0
+736,4498,48.0,Rajshahi,50,677488.0,72047.87,Online Purchase,2024-03-15 21:08:00,Entertainment,0,,0,71.09,0
+205,8674,56.0,Narayanganj,68,330035.0,35571.16,Bill Payment,2024-01-01 20:32:00,Utilities,0,Mobile,0,26.21,0
+735,3182,43.0,,8,32756.0,15830.46,Money Transfer,2024-10-26 16:00:00,Financial Services,0,Tablet,0,61.96,0
+332,5654,28.0,Rajshai,115,242713.0,77585.8,Online Purchase,2024-09-26 18:11:00,ATM,1,,0,63.89,0
+504,2504,36.0,Barisal,112,698569.0,97458.59,Online Purchase,2024-02-08 15:03:00,Food,0,,0,7.53,0
+97,5006,,Khulna,110,862127.0,94662.07,Bill Payment,2024-04-24 10:15:00,Utilities,0,Tablet,0,41.15,0
+392,7400,42.0,Chittagong,58,339443.0,13238.14,POS,2024-03-31 01:52:00,Healthcare,0,,0,16.78,0
+368,6215,39.0,Khulnaa,35,357262.0,45799.06,POS,2024-06-17 00:58:00,Travel,0,,0,64.9,0
+194,7504,23.0,Gazipur,84,428783.0,41571.94,Money Transfer,2024-08-14 20:08:00,Financial Services,0,Mobile,1,25.69,0
+759,8855,39.0,Narayanganj,13,765647.0,74634.96,Online Purchase,2024-09-17 06:40:00,Entertainment,0,Tablet,0,33.14,0
+265,2194,64.0,Cumilla,64,691440.0,1206.29,Bill Payment,2024-05-16 04:44:00,Utilities,0,Mobile,0,67.67,0
+128,5950,70.0,Gazipur,66,904247.0,50107.15,POS,2024-11-07 09:19:00,Retail,0,Tablet,0,62.03,0
+671,1960,48.0,Daka,108,908955.0,69145.1,Money Transfer,2024-09-26 18:36:00,Financial Services,0,Desktop,0,9.75,0
+451,2650,34.0,Barisal,15,34325.0,90572.18,Cash Withdrawal,2024-06-18 11:47:00,ATM,0,Tablet,0,19.87,0
+256,5981,54.0,Daka,22,708201.0,39320.89,POS,2024-01-14 09:31:00,Retail,0,,0,18.15,0
+243,3580,18.0,Narayanganj,27,596051.0,42771.11,Money Transfer,2024-10-20 07:10:00,Financial Services,0,Tablet,0,3.65,0
+723,9102,44.0,Rangpur,33,368970.0,48075.55,Bill Payment,2024-10-03 21:10:00,Utilities,0,Desktop,0,38.9,0
+281,1022,22.0,Chittagong,5,809460.0,36430.81,POS,2024-10-04 18:50:00,Food,0,Tablet,0,3.95,0
+669,8220,67.0,Khulna,57,60657.0,71550.82,Online Purchase,2024-06-08 09:06:00,Financial Services,0,Desktop,0,35.83,0
+537,5001,26.0,Cumilla,85,282352.0,72276.59,Money Transfer,2024-04-22 14:45:00,Financial Services,0,Tablet,0,17.58,0
+439,1866,58.0,Chittagong,87,761119.0,61021.31,Money Transfer,2024-08-27 16:18:00,Financial Services,0,Desktop,0,61.77,0
+599,2829,20.0,Rangpur,11,152177.0,96275.46,Bill Payment,2024-08-08 08:22:00,Utilities,1,Desktop,0,65.06,0
+133,2324,58.0,Barisal,1,239553.0,23156.63,Cash Withdrawal,2024-09-07 02:08:00,ATM,0,,0,34.37,0
+732,3992,61.0,Cumilla,57,975939.0,16226.15,Cash Withdrawal,2024-03-08 23:38:00,ATM,0,Tablet,0,30.96,0
+772,8753,41.0,Rajshahi,7,914506.0,34091.96,Bill Payment,2024-08-25 21:25:00,Utilities,0,,0,23.54,0
+134,1076,,Barisal,115,893703.0,70622.06,Online Purchase,2024-11-16 23:15:00,Food,0,Desktop,0,36.24,0
+558,9307,47.0,Narayanganj,10,350102.0,6070.34,POS,2024-06-11 06:53:00,Entertainment,0,Mobile,0,45.16,0
+536,1949,23.0,Rajshahi,97,851710.0,71339.8,Online Purchase,2024-05-07 01:04:00,Electronics,0,Mobile,0,43.37,0
+509,4335,36.0,Sylhet,13,971878.0,92874.21,Money Transfer,2024-12-18 07:10:00,Financial Services,0,,0,64.79,0
+469,3295,62.0,Cumilla,44,696171.0,92128.32,Online Purchase,2024-03-20 01:56:00,Electronics,0,Desktop,1,59.95,0
+771,3419,46.0,Chittagong,99,355492.0,76949.93,Bill Payment,2024-08-10 13:07:00,Utilities,1,Tablet,0,15.1,0
+683,8850,27.0,Barisal,37,202822.0,52014.91,Cash Withdrawal,2024-07-07 23:01:00,ATM,0,Mobile,0,51.17,0
+64,7220,40.0,Khulnaa,1,90979.0,117307.8,Cash Withdrawal,2024-10-14 07:17:00,ATM,2,Mobile,1,4.19,1
+271,7586,61.0,Khulna,102,67800.0,78753.34,Online Purchase,2024-03-02 08:09:00,ATM,0,Desktop,0,66.65,0
+428,3418,45.0,Khulna,13,516894.0,24638.51,Online Purchase,2024-09-20 20:21:00,ATM,1,,0,8.55,0
+652,9102,45.0,Daka,99,779223.0,97029.59,Money Transfer,2024-11-23 16:21:00,Financial Services,0,Tablet,1,7.28,0
+402,1196,47.0,Daka,84,66073.0,9913.55,Bill Payment,2024-06-03 19:31:00,Utilities,2,Desktop,0,6.82,0
+698,4102,62.0,Rajshahi,42,258777.0,22328.47,POS,2024-05-31 19:26:00,Entertainment,0,Tablet,0,52.95,0
+49,3655,26.0,Dhaka,12,21341.0,124817.53,Cash Withdrawal,2024-08-11 10:58:00,ATM,1,Mobile,1,0.5,1
+275,4433,39.0,Khulnaa,14,989787.0,71449.59,Online Purchase,2024-09-05 16:07:00,Retail,0,Tablet,0,53.79,0
+741,6710,30.0,Narayanganj,36,464436.0,88841.91,POS,2024-03-12 22:18:00,Food,0,Tablet,0,33.31,0
+67,2421,150.0,Rajshahi,7,44576.0,28576.21,Cash Withdrawal,2024-06-06 20:25:00,ATM,3,,1,12.62,1
+129,5278,59.0,Khulna,31,864554.0,79687.41,Money Transfer,2024-12-14 04:46:00,Financial Services,0,Tablet,0,30.14,0
+190,1781,62.0,Rajshahi,61,120979.0,60037.46,Money Transfer,2024-07-03 11:35:00,Financial Services,0,Tablet,1,8.73,0
+18,1320,42.0,Barisal,10,84069.0,107860.56,Cash Withdrawal,2024-12-08 15:51:00,ATM,0,Mobile,1,2.97,1
+364,2617,44.0,Sylhet,106,74398.0,27572.96,POS,2024-10-27 07:31:00,Entertainment,0,Mobile,0,22.92,0
+616,8950,51.0,Cumilla,2,87898.0,45896.48,Cash Withdrawal,2024-04-24 04:17:00,ATM,0,Mobile,0,25.67,0
+421,3016,52.0,Cumilla,89,254677.0,76569.63,POS,2024-02-03 20:21:00,ATM,1,,0,56.53,0
+651,1671,34.0,Cumilla,22,745024.0,64946.85,Cash Withdrawal,2024-09-24 03:05:00,ATM,2,Tablet,0,61.2,0
+213,5198,23.0,Gazipur,94,360464.0,64263.29,POS,2024-02-18 19:41:00,Utilities,0,,1,4.03,0
+417,1937,39.0,Dhaka,90,896002.0,19203.57,Online Purchase,2024-09-28 08:44:00,Food,0,,0,47.54,0
+657,4728,37.0,Chittagong,52,541344.0,84835.62,Bill Payment,2024-04-13 08:54:00,Utilities,0,,0,54.34,0
+482,7866,52.0,Khulna,56,746559.0,75790.91,Online Purchase,2024-10-14 19:12:00,Retail,0,Desktop,0,71.02,0
+41,5381,,Khulnaa,2,91159.0,22377.18,Cash Withdrawal,2024-09-28 16:24:00,ATM,1,,0,1.42,1
+43,6802,20.0,Cumilla,2,42947.0,1700.19,Online Purchase,2024-08-23 14:58:00,Financial Services,0,Mobile,1,0.87,1
+673,9893,38.0,Narayanganj,39,388852.0,71490.24,Bill Payment,2024-09-17 16:54:00,Utilities,0,Mobile,0,7.1,0
+175,9835,67.0,Rangpur,48,751531.0,70486.9,Bill Payment,2024-07-14 11:37:00,Utilities,0,Mobile,0,18.33,0
+318,9196,51.0,Gazipur,120,540566.0,12852.81,Online Purchase,2024-06-09 10:53:00,ATM,0,,0,7.69,0
+375,8759,39.0,Rajshai,102,96452.0,79699.96,Online Purchase,2024-11-16 14:37:00,Retail,0,,1,22.56,0
+689,3490,25.0,Gazipur,72,512377.0,92830.33,Cash Withdrawal,2024-02-28 21:09:00,ATM,1,Mobile,0,27.43,0
+379,7042,51.0,Daka,31,895744.0,74413.87,Bill Payment,2024-06-25 06:12:00,Utilities,0,Mobile,0,48.09,0
+617,8525,58.0,Rajshai,105,569577.0,31007.14,Money Transfer,2024-12-06 01:25:00,Financial Services,0,Mobile,0,69.24,0
+234,3906,65.0,Dhaka,39,961128.0,50750.03,Bill Payment,2024-10-08 02:18:00,Utilities,0,Tablet,0,29.79,0
+524,3427,,Gazipur,75,696445.0,86341.32,POS,2024-08-15 01:58:00,Financial Services,1,,0,70.69,0
+276,6336,25.0,Chittagong,53,413774.0,29929.35,POS,2024-09-05 01:56:00,ATM,0,,0,26.89,0
+153,4675,53.0,Narayanganj,103,746596.0,88100.7,Bill Payment,2024-07-17 13:50:00,Utilities,1,Mobile,1,18.1,0
+423,4110,45.0,Barisal,120,564998.0,88058.16,Cash Withdrawal,2024-02-24 12:00:00,ATM,0,Desktop,0,21.37,0
+242,2426,20.0,Khulnaa,40,815338.0,41976.89,Cash Withdrawal,2024-06-13 06:12:00,ATM,0,,0,19.63,0
+126,3909,48.0,Barisal,108,805342.0,91298.04,Online Purchase,2024-07-16 01:10:00,Food,0,Desktop,0,29.48,0
+788,7884,39.0,Dhaka,13,636881.0,1535.68,Bill Payment,2024-01-22 15:51:00,Utilities,0,Tablet,0,67.66,0
+415,7697,57.0,Daka,38,150738.0,37281.43,Online Purchase,2024-10-26 07:30:00,Healthcare,0,Mobile,0,68.78,0
+592,4331,64.0,Daka,100,520531.0,21917.47,Bill Payment,2024-10-08 21:25:00,Utilities,0,,0,50.85,0
+543,5104,69.0,Dhaka,73,896609.0,35754.76,Bill Payment,2024-08-24 00:28:00,Utilities,0,,0,45.92,0
+754,1339,21.0,Khulna,20,273677.0,80901.43,POS,2024-05-22 14:15:00,Healthcare,0,Desktop,0,43.63,0
+529,4694,28.0,Narayanganj,25,45420.0,83554.98,Online Purchase,2024-04-14 01:51:00,Travel,0,,0,62.24,0
+371,6947,,Chittagong,27,,84720.61,Money Transfer,2024-10-18 16:31:00,Financial Services,0,Desktop,1,9.23,0
+785,7973,24.0,Sylhet,18,875316.0,50851.93,Money Transfer,2024-06-23 13:04:00,Financial Services,1,,0,21.59,0
+350,8516,51.0,Barisal,57,30431.0,95140.62,Online Purchase,2024-02-13 10:20:00,ATM,2,Mobile,0,2.67,0
+354,9314,21.0,Chittagong,74,495159.0,45528.3,POS,2024-10-16 22:57:00,Entertainment,0,Tablet,0,56.5,0
+387,7981,45.0,Khulnaa,35,208288.0,58915.38,Online Purchase,2024-07-02 02:18:00,Entertainment,0,Tablet,0,7.09,0
+252,6902,27.0,Rajshai,18,,85986.57,Bill Payment,2024-12-02 13:08:00,Utilities,0,,0,64.34,0
+584,1052,53.0,Barisal,108,613692.0,61695.82,Online Purchase,2024-04-03 23:05:00,Travel,0,Mobile,0,56.79,0
+3,2169,64.0,Cumilla,12,12331.0,46968.12,Cash Withdrawal,2024-10-17 10:20:00,ATM,1,Mobile,1,0.14,1
+51,9443,36.0,Gazipur,10,52265.0,67839.83,Money Transfer,2024-07-18 19:02:00,Financial Services,4,Mobile,0,4.66,1
+631,2197,45.0,Cumilla,113,179598.0,86287.04,Cash Withdrawal,2024-11-27 18:21:00,ATM,0,,0,28.91,0
+593,2569,38.0,Khulna,42,879613.0,89513.04,Bill Payment,2024-11-01 12:34:00,Utilities,0,Mobile,0,43.81,0
+479,8616,29.0,Rangpur,26,87603.0,42621.24,POS,2024-09-05 06:44:00,Healthcare,0,Desktop,0,10.48,0
+726,4085,68.0,Khulnaa,19,748694.0,41204.18,Bill Payment,2024-06-04 06:34:00,Utilities,0,Desktop,1,2.24,0
+520,8540,23.0,Rajshai,14,122130.0,39142.54,Money Transfer,2024-02-01 03:47:00,Financial Services,0,Mobile,0,37.17,0
+42,2336,49.0,Rangpur,3,93930.0,177606.53,Money Transfer,2024-01-04 23:19:00,Financial Services,2,Mobile,1,0.5,1
+481,2369,35.0,Sylhet,58,570269.0,29129.96,Money Transfer,2024-04-04 01:05:00,Financial Services,0,Tablet,0,25.15,0
+589,2641,40.0,Cumilla,97,868530.0,81865.64,POS,2024-12-21 13:46:00,ATM,0,Tablet,0,34.74,0
+322,2312,49.0,Rangpur,43,939350.0,14241.44,Money Transfer,2024-09-16 02:22:00,Financial Services,0,Tablet,0,1.97,0
+44,2868,67.0,Chittagong,3,27740.0,90150.28,Money Transfer,2024-10-15 20:28:00,Financial Services,3,Desktop,1,2.58,1
+514,5526,20.0,Chittagong,79,853966.0,60697.67,Money Transfer,2024-05-27 03:00:00,Financial Services,0,,0,37.67,0
+296,2258,67.0,Khulnaa,97,358277.0,42528.68,Money Transfer,2024-05-18 21:44:00,Financial Services,0,Tablet,0,0.93,0
+716,7348,65.0,Rajshahi,73,333115.0,91473.42,POS,2024-06-04 11:29:00,Electronics,0,Tablet,0,1.71,0
+155,2955,45.0,Sylhet,75,25919.0,44373.63,Cash Withdrawal,2024-01-21 04:59:00,ATM,0,,0,44.32,0
+79,6347,,Cumilla,2,91595.0,22879.31,Cash Withdrawal,2024-03-19 21:45:00,ATM,0,Mobile,1,0.94,1
+535,4214,42.0,Chattogram,7,415552.0,92164.52,Bill Payment,2024-10-08 04:07:00,Utilities,0,Tablet,0,24.71,0
+629,4260,63.0,Gazipur,3,693437.0,54883.73,Bill Payment,2024-01-25 16:03:00,Utilities,1,Mobile,0,71.69,0
+295,7114,54.0,,34,81352.0,20185.97,Cash Withdrawal,2024-07-01 05:03:00,ATM,0,Tablet,1,21.0,0
+489,1845,54.0,Daka,94,968092.0,42748.73,Bill Payment,2024-04-28 03:45:00,Utilities,0,,0,45.17,0
+553,8354,58.0,Rajshai,97,161144.0,97151.35,POS,2024-09-17 02:09:00,Electronics,0,,0,31.58,0
+623,9221,67.0,Chittagong,119,618745.0,89080.46,Cash Withdrawal,2024-04-08 12:50:00,ATM,0,Desktop,0,37.19,0
+559,5029,42.0,Rajshahi,34,528042.0,25597.36,Money Transfer,2024-03-08 06:40:00,Financial Services,0,Desktop,1,4.84,0
+88,7010,66.0,Narayanganj,5,44021.0,58530.67,Money Transfer,2024-03-01 21:13:00,Financial Services,1,,1,0.17,1
+164,1891,53.0,Narayanganj,86,122972.0,26947.56,Bill Payment,2024-06-18 11:08:00,Utilities,0,Tablet,0,64.81,0
+636,8486,,Rangpur,110,397898.0,41712.65,Bill Payment,2024-11-29 09:14:00,Utilities,2,,0,1.14,0
+300,1709,60.0,,13,984792.0,79898.54,Cash Withdrawal,2024-04-04 21:22:00,ATM,0,Tablet,0,25.04,0
+297,9489,67.0,Barisal,21,182062.0,67001.11,Cash Withdrawal,2024-10-13 19:44:00,ATM,0,Mobile,0,65.95,0
+517,2607,37.0,Khulna,87,863453.0,76794.92,Cash Withdrawal,2024-05-08 04:26:00,ATM,0,Mobile,0,66.75,0
+118,4056,34.0,Sylhet,35,178471.0,99665.65,Online Purchase,2024-02-13 21:22:00,Entertainment,0,Desktop,0,60.54,0
+389,6679,43.0,Rajshai,84,,86784.26,Cash Withdrawal,2024-07-22 07:14:00,ATM,0,Desktop,0,56.59,0
+321,9763,46.0,Rangpur,118,114634.0,31891.74,Cash Withdrawal,2024-08-12 20:20:00,ATM,0,,0,19.73,0
+362,3944,35.0,Rajshahi,108,485808.0,12174.69,POS,2024-06-13 12:37:00,Electronics,0,Tablet,0,29.88,0
+154,8259,58.0,Daka,76,652697.0,26828.61,Cash Withdrawal,2024-05-30 14:11:00,ATM,2,,0,52.93,0
+27,3870,35.0,Gazipur,2,92835.0,77489.37,Cash Withdrawal,2024-07-24 16:02:00,ATM,1,Desktop,1,0.51,1
+59,7532,53.0,Rajshahi,2,55351.0,28228.38,Money Transfer,2024-04-07 23:31:00,Financial Services,1,Mobile,1,0.39,1
+381,6431,42.0,Khulna,1,97312.0,47911.0,Online Purchase,2024-03-13 09:28:00,Food,0,Tablet,1,2.14,0
+644,9429,39.0,Khulna,104,829508.0,72990.63,Online Purchase,2024-12-08 10:48:00,Entertainment,0,,0,69.46,0
+450,9353,21.0,Sylhet,45,278965.0,43011.51,Cash Withdrawal,2024-01-21 00:03:00,ATM,0,Tablet,0,65.41,0
+101,2565,58.0,Chittagong,8,157057.0,32063.17,Money Transfer,2024-07-20 22:53:00,Financial Services,0,Tablet,0,67.94,0
+493,6137,46.0,Khulna,116,614850.0,83794.67,Online Purchase,2024-03-01 10:22:00,Healthcare,2,Mobile,0,53.4,0
+195,6328,47.0,Narayanganj,71,751510.0,71702.7,POS,2024-08-21 20:47:00,ATM,0,Tablet,0,34.68,0
+85,4022,43.0,,3,97371.0,26823.87,Cash Withdrawal,2024-02-22 14:11:00,ATM,0,Mobile,1,0.97,1
+84,2406,27.0,Barisal,1,99633.0,168687.02,Cash Withdrawal,2024-06-24 20:06:00,ATM,0,Mobile,1,0.16,1
+696,8549,39.0,Chittagong,8,229213.0,98880.66,Cash Withdrawal,2024-02-16 22:05:00,ATM,0,Desktop,0,51.62,0
+615,5215,19.0,Gazipur,75,,48803.11,POS,2024-07-26 15:39:00,Travel,1,Tablet,0,27.21,0
+331,4766,48.0,Chittagong,15,992246.0,65872.08,Money Transfer,2024-12-29 17:31:00,Financial Services,0,Desktop,0,6.74,0
+642,9518,35.0,Khulna,48,627511.0,97615.46,Online Purchase,2024-07-16 20:03:00,Food,1,,0,60.15,0
+32,3950,-10.0,Rajshahi,3,38466.0,16312.76,Cash Withdrawal,2024-08-14 13:37:00,ATM,4,Mobile,1,1.0,1
+25,1986,66.0,Rajshahi,1,5350.0,157113.15,Money Transfer,2024-12-25 20:04:00,Financial Services,3,Mobile,1,15.8,1
+761,3358,30.0,Rangpur,29,337624.0,2682.36,Cash Withdrawal,2024-08-02 18:12:00,ATM,0,Desktop,0,40.91,0
+12,3426,200.0,Khulnaa,9,51357.0,14390.95,Online Purchase,2024-05-01 21:51:00,Travel,0,Mobile,0,5.32,1
+34,7807,52.0,Barisal,29,43684.0,138799.53,Money Transfer,2024-04-25 20:46:00,Financial Services,1,Mobile,1,2.32,1
+31,6383,42.0,Daka,12,94705.0,125343.84,Money Transfer,2024-02-21 20:10:00,Financial Services,3,,0,0.29,1
+346,9089,31.0,Dhaka,34,186309.0,23982.79,POS,2024-01-17 02:21:00,ATM,0,Desktop,0,71.54,0
+283,4437,66.0,Barisal,65,310607.0,8144.34,Money Transfer,2024-08-19 15:32:00,Financial Services,0,Tablet,0,26.51,0
+762,4450,,Rajshai,94,89299.0,29763.83,Cash Withdrawal,2024-12-10 15:07:00,ATM,0,Tablet,0,70.52,0
+742,9521,64.0,Sylhet,27,684214.0,45238.31,Bill Payment,2024-07-10 07:25:00,Utilities,0,,0,10.54,0
+330,6907,36.0,Sylhet,98,562085.0,42069.58,Cash Withdrawal,2024-06-10 23:31:00,ATM,0,,1,10.7,0
+83,9796,24.0,Daka,49,57378.0,136935.86,Cash Withdrawal,2024-09-22 20:37:00,ATM,0,Mobile,1,0.69,1
+560,4416,20.0,Sylhet,81,688692.0,46753.42,Cash Withdrawal,2024-06-02 07:56:00,ATM,0,,0,39.13,0
+433,1001,20.0,Narayanganj,38,486532.0,19388.71,Money Transfer,2024-09-24 11:38:00,Financial Services,0,Mobile,0,3.22,0
+74,5637,40.0,Barisal,11,46973.0,103304.25,Cash Withdrawal,2024-03-15 18:16:00,ATM,1,Mobile,1,10.42,1
+453,4309,27.0,Rajshahi,92,939680.0,74542.51,Money Transfer,2024-08-17 20:45:00,Financial Services,0,,0,67.06,0
+152,1209,19.0,Dhaka,26,843690.0,22192.35,Money Transfer,2024-03-15 01:44:00,Financial Services,0,Mobile,0,32.59,0
+656,6316,58.0,Khulnaa,72,593862.0,86004.19,Bill Payment,2024-06-27 05:54:00,Utilities,0,Tablet,0,53.27,0
+92,9510,200.0,Rajshai,1,18425.0,30280.71,Money Transfer,2024-03-09 07:43:00,Financial Services,1,,1,0.44,1
+226,8680,41.0,Rangpur,18,257264.0,5264.86,Online Purchase,2024-05-18 13:14:00,Food,0,,0,70.97,0
+144,1894,,Narayanganj,110,193438.0,10887.14,Money Transfer,2024-05-03 10:17:00,Financial Services,0,,0,16.92,0
+211,4504,53.0,Sylhet,58,436379.0,1097.63,Money Transfer,2024-11-01 00:33:00,Financial Services,0,Mobile,0,15.98,0
+503,3257,25.0,Rajshai,75,958975.0,55234.69,Online Purchase,2024-09-24 16:15:00,Healthcare,0,Tablet,0,34.75,0
+769,5660,47.0,Sylhet,100,120789.0,66126.65,Money Transfer,2024-01-17 12:54:00,Financial Services,0,,0,25.83,0
+792,1658,33.0,Chittagong,51,248731.0,37342.94,POS,2024-01-02 20:13:00,Retail,0,,0,14.86,0
+183,8923,66.0,Khulnaa,59,923896.0,4632.2,Money Transfer,2024-02-04 12:40:00,Financial Services,0,Desktop,0,29.69,0
+140,5850,21.0,Khulna,110,860534.0,89736.27,Online Purchase,2024-02-18 01:00:00,Travel,0,Tablet,0,68.77,0
+563,5396,32.0,Rajshai,58,620315.0,22881.6,Online Purchase,2024-11-10 19:21:00,Travel,0,,0,57.77,0
+341,1439,59.0,Rajshahi,81,584744.0,26031.61,Bill Payment,2024-03-16 15:27:00,Utilities,0,Desktop,0,32.06,0
+268,8175,26.0,Dhaka,76,427652.0,9335.27,Money Transfer,2024-09-12 17:53:00,Financial Services,0,Mobile,1,4.04,0
+266,9039,43.0,Khulnaa,9,23468.0,51482.42,Bill Payment,2024-03-03 18:34:00,Utilities,1,Tablet,0,45.52,0
+800,9987,26.0,Rajshahi,13,32266.0,78044.91,Money Transfer,2024-11-25 18:56:00,Financial Services,0,Tablet,0,44.05,0
+551,3431,58.0,Rajshahi,113,194872.0,16873.86,POS,2024-12-30 15:47:00,Retail,0,,0,49.68,0
+538,5383,52.0,Dhaka,53,672079.0,64755.98,Cash Withdrawal,2024-03-11 16:14:00,ATM,0,Mobile,0,58.78,0
+348,2727,25.0,Barisal,38,818977.0,67357.84,Online Purchase,2024-03-19 20:23:00,Financial Services,0,Desktop,0,29.93,0
+86,6766,70.0,Khulnaa,3,45026.0,26049.08,Money Transfer,2024-03-11 16:24:00,Financial Services,1,Desktop,0,1.83,1
+566,7190,26.0,Sylhet,10,777190.0,93283.24,Bill Payment,2024-01-11 00:47:00,Utilities,0,Desktop,1,42.35,0
+654,2615,25.0,Rajshahi,87,653136.0,56371.53,Online Purchase,2024-06-26 20:50:00,Healthcare,0,Mobile,0,58.55,0
+248,2276,63.0,Cumilla,77,602051.0,13881.2,Cash Withdrawal,2024-06-06 12:04:00,ATM,0,,0,46.44,0
+76,8916,-10.0,,47,,162881.63,Cash Withdrawal,2024-04-08 12:33:00,ATM,1,Mobile,0,2.22,1
+557,8288,47.0,Chittagong,118,485992.0,57706.33,Online Purchase,2024-03-11 08:46:00,Retail,1,Desktop,0,23.55,0
+622,8988,,Narayanganj,21,817376.0,57692.3,Online Purchase,2024-08-14 10:40:00,Entertainment,0,Mobile,0,15.35,0
+521,9115,61.0,Khulna,40,26764.0,64626.37,Cash Withdrawal,2024-02-28 02:00:00,ATM,0,Mobile,0,7.46,0
+52,6447,39.0,Khulna,3,22675.0,66561.16,Money Transfer,2024-01-22 13:59:00,Financial Services,1,Mobile,1,2.43,1
+793,3365,59.0,Rajshai,53,564070.0,90197.51,Cash Withdrawal,2024-11-21 04:13:00,ATM,0,Desktop,0,68.34,0
+667,4023,30.0,Daka,44,118595.0,69689.78,POS,2024-02-01 17:03:00,Financial Services,0,,0,0.91,0
+238,8849,69.0,Khulna,81,927253.0,71470.59,Bill Payment,2024-07-30 23:03:00,Utilities,0,Tablet,0,1.35,0
+552,2196,51.0,Rangpur,52,273162.0,94350.34,Money Transfer,2024-06-21 18:38:00,Financial Services,0,Mobile,1,66.29,0
+185,4115,30.0,Rajshahi,27,895498.0,33811.63,Money Transfer,2024-03-20 03:07:00,Financial Services,1,,0,55.03,0
+531,2161,26.0,Sylhet,64,650707.0,71882.09,Cash Withdrawal,2024-05-28 08:24:00,ATM,0,,0,69.7,0
+55,5566,65.0,Narayanganj,5,33124.0,124875.57,Cash Withdrawal,2024-03-29 23:28:00,ATM,3,Desktop,1,0.71,1
+139,8875,18.0,,12,895804.0,76321.9,Cash Withdrawal,2024-02-16 16:04:00,ATM,0,Tablet,0,32.89,0
+595,5668,61.0,Dhaka,54,437559.0,90486.73,Online Purchase,2024-08-26 02:22:00,Retail,0,Mobile,0,9.27,0
+405,8270,39.0,Barisal,98,850241.0,55444.8,Money Transfer,2024-01-13 07:54:00,Financial Services,0,Desktop,0,65.28,0
+491,6867,59.0,Sylhet,108,837919.0,50636.04,Online Purchase,2024-05-20 02:59:00,Travel,0,Mobile,0,66.76,0
+574,2098,18.0,Rajshahi,13,367115.0,13420.11,Bill Payment,2024-10-31 05:04:00,Utilities,0,Desktop,0,1.02,0
+116,4367,44.0,Chittagong,70,315198.0,40003.75,Online Purchase,2024-07-20 18:35:00,Healthcare,0,,1,59.32,0
+547,1510,20.0,Khulna,4,241752.0,42090.08,POS,2024-10-24 22:22:00,Food,0,Desktop,0,71.84,0
+236,9132,58.0,Khulnaa,79,324598.0,26369.16,Online Purchase,2024-08-26 20:50:00,Retail,0,,0,24.03,0
+56,3852,25.0,Khulnaa,2,77305.0,84057.82,Money Transfer,2024-09-02 21:26:00,Financial Services,3,,0,3.25,1
+130,7361,55.0,Gazipur,44,253164.0,91010.46,Bill Payment,2024-12-09 11:32:00,Utilities,0,Desktop,0,33.9,0
+119,9561,52.0,Cumilla,31,102790.0,52837.28,Online Purchase,2024-09-14 18:57:00,Entertainment,0,Desktop,0,54.52,0
+596,9306,47.0,,84,441216.0,56449.14,Money Transfer,2024-08-05 08:47:00,Financial Services,0,,0,56.23,0
+94,7322,56.0,Dhaka,6,52895.0,42473.45,Money Transfer,2024-01-09 00:04:00,Financial Services,0,Desktop,1,0.29,1
+477,8999,,Rangpur,80,155249.0,58816.67,POS,2024-06-09 11:05:00,ATM,0,Mobile,0,46.36,0
+549,4998,69.0,Barisal,41,141023.0,91866.1,Bill Payment,2024-07-04 02:22:00,Utilities,0,,0,34.86,0
+385,3743,66.0,Khulnaa,64,207693.0,43253.25,POS,2024-12-21 15:45:00,Healthcare,0,Mobile,0,64.43,0
+743,2180,42.0,Rangpur,25,287188.0,65932.48,POS,2024-10-25 08:32:00,ATM,0,,0,70.68,0
+416,1685,51.0,Rangpur,98,529530.0,63102.69,POS,2024-08-07 10:23:00,Financial Services,2,Tablet,0,27.25,0
+783,9099,47.0,Daka,116,494909.0,25652.37,Money Transfer,2024-01-09 21:59:00,Financial Services,0,Mobile,0,62.06,0
+21,9289,-10.0,Chittagong,2,73386.0,40228.49,Online Purchase,2024-10-30 22:20:00,Travel,0,Mobile,1,0.61,1
+220,5444,59.0,Chittagong,35,977212.0,87556.02,Online Purchase,2024-01-10 09:55:00,ATM,0,Mobile,0,34.9,0
+621,7671,49.0,Barisal,66,696624.0,40300.42,POS,2024-05-07 10:17:00,Entertainment,0,Mobile,0,68.09,0
+267,2485,39.0,Cumilla,38,205197.0,73679.93,Bill Payment,2024-12-04 06:19:00,Utilities,0,Tablet,0,63.74,0
+324,6233,65.0,Khulna,106,315485.0,27047.44,Money Transfer,2024-04-03 12:56:00,Financial Services,0,Desktop,1,1.65,0
+286,9686,46.0,Gazipur,102,847607.0,35101.68,Money Transfer,2024-05-27 01:09:00,Financial Services,0,Desktop,0,11.58,0
+456,3803,52.0,Dhaka,114,159430.0,36533.34,Online Purchase,2024-11-24 07:52:00,Food,0,,0,43.57,0
+626,4267,57.0,Rajshai,10,361293.0,95792.97,POS,2024-08-28 01:49:00,ATM,0,,0,71.06,0
+752,8141,29.0,Sylhet,9,116753.0,82393.21,Cash Withdrawal,2024-05-27 17:30:00,ATM,1,Desktop,1,69.22,0
+436,8104,56.0,Sylhet,15,446541.0,9677.94,Online Purchase,2024-07-04 10:49:00,Utilities,0,Tablet,1,27.16,0
+460,7594,51.0,Khulnaa,78,422643.0,3726.0,Online Purchase,2024-11-25 01:08:00,Food,0,Mobile,0,0.68,0
+221,9709,30.0,Cumilla,92,279409.0,70421.49,Bill Payment,2024-07-20 23:10:00,Utilities,0,Tablet,0,17.01,0
+581,1498,48.0,Daka,23,937437.0,85950.06,Online Purchase,2024-01-20 11:01:00,Travel,0,Desktop,1,60.05,0
+677,3603,49.0,Narayanganj,95,733981.0,94812.06,Bill Payment,2024-05-25 17:18:00,Utilities,0,Mobile,0,28.43,0
+717,1202,29.0,Rajshahi,93,363260.0,61113.42,POS,2024-03-25 15:30:00,Entertainment,0,Desktop,1,7.72,0
+609,2490,19.0,Khulnaa,71,222408.0,22197.78,Cash Withdrawal,2024-03-30 15:59:00,ATM,0,Desktop,0,64.4,0
+711,1565,38.0,Gazipur,66,772112.0,94554.19,Online Purchase,2024-02-04 04:09:00,Retail,0,Desktop,1,25.94,0
+796,8961,53.0,Khulna,93,287188.0,91436.88,POS,2024-06-07 23:25:00,Electronics,0,Mobile,0,20.36,0
+338,9411,45.0,Cumilla,73,392724.0,34463.56,POS,2024-01-09 03:47:00,Healthcare,0,,1,29.97,0
+600,9577,20.0,Barisal,78,688796.0,14292.19,Online Purchase,2024-06-21 20:47:00,Utilities,0,,0,18.49,0
+606,2812,29.0,Khulnaa,95,596790.0,54580.2,Cash Withdrawal,2024-08-02 19:17:00,ATM,0,Mobile,0,49.45,0
+544,4569,55.0,Sylhet,71,87154.0,58746.98,Money Transfer,2024-05-12 15:08:00,Financial Services,0,Mobile,0,47.13,0
+694,9398,68.0,Chittagong,45,599215.0,26332.88,Money Transfer,2024-02-12 14:58:00,Financial Services,0,Tablet,0,64.5,0
+569,6089,69.0,Chittagong,22,533604.0,78804.0,Cash Withdrawal,2024-07-25 19:53:00,ATM,0,Desktop,1,35.53,0
+533,3282,70.0,Khulnaa,113,537530.0,10636.57,POS,2024-11-08 22:53:00,Electronics,0,,0,53.23,0
+273,5439,44.0,Khulna,5,772037.0,66582.2,Online Purchase,2024-11-17 09:22:00,ATM,0,Mobile,0,70.33,0
+171,3276,32.0,Daka,20,399818.0,79979.73,Online Purchase,2024-12-04 07:26:00,Financial Services,0,,0,42.54,0
+773,7919,66.0,Chittagong,112,282773.0,55508.32,Money Transfer,2024-03-16 01:56:00,Financial Services,0,,0,65.33,0
+446,7898,20.0,Rajshahi,86,144562.0,56241.91,Bill Payment,2024-12-15 22:08:00,Utilities,0,,0,66.5,0
+763,8682,34.0,Narayanganj,105,682201.0,88187.65,Cash Withdrawal,2024-12-07 21:53:00,ATM,0,Tablet,0,56.04,0
+426,3608,53.0,Rangpur,45,430059.0,10466.78,Money Transfer,2024-05-24 22:59:00,Financial Services,0,,1,23.29,0
+727,2983,70.0,Chittagong,58,462412.0,47926.16,Online Purchase,2024-12-23 19:19:00,Financial Services,0,,0,66.21,0
+75,6530,64.0,Cumilla,3,29123.0,192200.91,Cash Withdrawal,2024-12-08 00:48:00,ATM,0,Mobile,1,7.09,1
+217,2467,44.0,Barisal,45,45382.0,40969.93,Money Transfer,2024-11-11 14:39:00,Financial Services,0,,0,14.38,0
+162,1504,52.0,Chittagong,103,329307.0,84119.41,Money Transfer,2024-01-06 17:55:00,Financial Services,0,Mobile,0,28.37,0
+87,1878,49.0,Rajshai,3,59477.0,166356.09,Money Transfer,2024-05-29 10:17:00,Financial Services,0,Mobile,0,0.5,1
+112,5825,64.0,,90,430623.0,75384.24,POS,2024-06-11 19:14:00,Retail,1,Mobile,0,70.73,0
+431,9806,70.0,Rangpur,69,575837.0,65042.39,POS,2024-10-02 22:52:00,Retail,0,Mobile,0,43.14,0
+701,6781,47.0,Khulnaa,52,962763.0,61913.22,Cash Withdrawal,2024-07-16 13:01:00,ATM,0,,0,45.52,0
+180,9099,30.0,Khulnaa,25,648636.0,67969.58,Cash Withdrawal,2024-11-10 05:43:00,ATM,0,Mobile,0,6.25,0
+546,2268,38.0,Rajshai,54,467191.0,38118.31,Money Transfer,2024-11-06 11:21:00,Financial Services,1,Tablet,0,70.09,0
+36,7797,57.0,Sylhet,2,52537.0,76142.78,Cash Withdrawal,2024-07-22 23:12:00,ATM,3,Mobile,1,40.01,1
+384,1756,55.0,Narayanganj,20,75846.0,83583.56,Cash Withdrawal,2024-09-17 18:56:00,ATM,0,,0,44.27,0
+176,4809,23.0,Narayanganj,25,,98549.94,POS,2024-09-24 03:33:00,Electronics,0,Tablet,0,7.67,0
+8,8260,24.0,Narayanganj,1,57565.0,65409.04,Online Purchase,2024-08-20 20:27:00,Travel,2,Mobile,1,0.22,1
+388,2168,52.0,Rajshahi,33,875181.0,90676.54,Cash Withdrawal,2024-12-27 19:08:00,ATM,2,Tablet,1,21.56,0
+486,8167,62.0,Rajshai,12,128854.0,12813.96,POS,2024-07-29 03:31:00,Entertainment,0,Mobile,0,61.32,0
+163,9970,37.0,Chittagong,45,969619.0,85748.15,Cash Withdrawal,2024-03-23 05:14:00,ATM,0,Mobile,0,57.58,0
+65,2647,53.0,Khulna,2,47096.0,2946.95,Money Transfer,2024-09-30 22:46:00,Financial Services,0,Mobile,0,0.93,1
+705,1290,44.0,Barisal,117,347718.0,84173.57,Bill Payment,2024-05-23 17:21:00,Utilities,0,Desktop,0,69.51,0
+158,6258,68.0,Rangpur,93,975604.0,68828.21,Money Transfer,2024-09-20 16:28:00,Financial Services,0,Desktop,0,5.93,0
+443,5337,65.0,Rangpur,40,694206.0,68653.57,Online Purchase,2024-08-25 19:54:00,Healthcare,0,,0,21.48,0
+704,1212,58.0,Daka,80,147766.0,79539.94,Money Transfer,2024-06-23 23:23:00,Financial Services,0,Tablet,0,34.09,0
+307,2253,51.0,Khulnaa,38,534064.0,67190.17,Money Transfer,2024-10-03 17:01:00,Financial Services,1,,0,65.88,0
+758,7812,33.0,Daka,38,387583.0,62050.94,Bill Payment,2024-02-09 19:18:00,Utilities,0,,1,70.66,0
+376,3089,69.0,Sylhet,56,730477.0,8367.93,Money Transfer,2024-07-14 12:06:00,Financial Services,0,Mobile,0,33.42,0
+210,3955,50.0,Khulna,77,389438.0,42362.01,Money Transfer,2024-07-09 13:48:00,Financial Services,0,Tablet,0,40.55,0
+121,6343,51.0,Rajshai,90,567945.0,56008.25,Cash Withdrawal,2024-03-16 18:37:00,ATM,0,Mobile,0,40.51,0
+33,5847,60.0,Dhaka,4,42512.0,110343.01,Cash Withdrawal,2024-12-03 07:53:00,ATM,0,Mobile,0,0.03,1
+138,9381,25.0,Khulnaa,26,835749.0,35554.15,Cash Withdrawal,2024-07-02 22:26:00,ATM,0,,0,14.95,0
+634,5441,31.0,Dhaka,116,149090.0,50168.54,Cash Withdrawal,2024-07-13 01:28:00,ATM,0,,0,8.97,0
+232,1200,49.0,Dhaka,64,637466.0,87485.57,Bill Payment,2024-08-14 02:38:00,Utilities,0,Tablet,0,40.14,0
+461,2742,70.0,Chittagong,18,610192.0,59319.55,Money Transfer,2024-06-18 15:09:00,Financial Services,0,Tablet,0,8.86,0
+678,4311,53.0,Rajshahi,5,134655.0,15624.86,Bill Payment,2024-04-04 02:48:00,Utilities,0,,0,26.7,0
+63,6325,42.0,Khulna,3,99493.0,119324.65,Money Transfer,2024-04-25 12:49:00,Financial Services,0,Mobile,1,4.98,1
+472,9873,31.0,Khulnaa,25,689399.0,5266.03,Online Purchase,2024-10-18 18:02:00,Healthcare,0,Tablet,1,25.68,0
+303,3226,41.0,Narayanganj,11,141343.0,51462.36,POS,2024-06-08 21:53:00,Healthcare,0,,0,5.01,0
+136,3149,19.0,Khulna,92,59178.0,50264.65,Money Transfer,2024-09-30 19:03:00,Financial Services,0,,0,60.2,0
+203,8786,27.0,Chittagong,64,668696.0,45450.08,Online Purchase,2024-01-31 11:41:00,Travel,0,Desktop,0,22.81,0
+215,3509,64.0,Cumilla,74,252873.0,57642.98,Bill Payment,2024-03-16 04:21:00,Utilities,0,Mobile,0,18.9,0
+201,5078,46.0,Dhaka,95,566453.0,88392.21,Bill Payment,2024-07-18 21:19:00,Utilities,1,Mobile,0,39.57,0
+184,6785,18.0,Sylhet,12,805161.0,45832.6,Cash Withdrawal,2024-08-31 10:22:00,ATM,0,Desktop,0,49.18,0
+47,3112,37.0,Daka,12,52425.0,54800.42,Online Purchase,2024-09-05 23:14:00,ATM,0,Mobile,1,3.63,1
+240,1518,23.0,Rajshahi,107,246639.0,69855.23,Online Purchase,2024-07-10 01:49:00,Food,1,Mobile,0,65.16,0
+161,9762,,Chittagong,75,909455.0,10549.77,POS,2024-02-24 09:50:00,Utilities,0,,0,59.19,0
+177,7980,34.0,Narayanganj,47,733666.0,53170.5,Bill Payment,2024-10-09 17:30:00,Utilities,0,,0,22.08,0
+198,4924,69.0,Khulnaa,35,799015.0,70802.88,Bill Payment,2024-04-06 02:11:00,Utilities,0,,0,19.59,0
+282,6963,25.0,Cumilla,47,699658.0,74311.49,POS,2024-12-29 06:08:00,Financial Services,0,,0,54.16,0
+684,9871,43.0,Daka,52,458017.0,61442.34,Bill Payment,2024-07-17 14:23:00,Utilities,0,Desktop,0,14.83,0
+22,4475,35.0,Chittagong,46,99381.0,36078.06,Money Transfer,2024-09-08 01:50:00,Financial Services,0,Mobile,1,0.37,1
+586,4084,30.0,Sylhet,57,533682.0,47607.87,Money Transfer,2024-11-24 16:28:00,Financial Services,0,Desktop,1,60.1,0
+643,4896,38.0,,62,380607.0,25670.87,POS,2024-07-26 14:13:00,Healthcare,0,Mobile,0,47.19,0
+100,7164,64.0,Rajshahi,31,82804.0,19732.17,Online Purchase,2024-01-23 07:57:00,Entertainment,0,,0,6.11,0
+757,3411,55.0,Chittagong,102,276368.0,19654.64,Cash Withdrawal,2024-08-12 08:31:00,ATM,0,Tablet,0,33.36,0
+28,4073,49.0,Khulnaa,21,96521.0,2005.89,Cash Withdrawal,2024-03-22 00:35:00,ATM,1,,1,0.95,1
+169,1662,49.0,Sylhet,6,563042.0,48387.81,Bill Payment,2024-01-24 01:41:00,Utilities,0,Tablet,0,18.96,0
+784,2396,24.0,Narayanganj,76,538358.0,73658.61,Money Transfer,2024-03-02 19:51:00,Financial Services,0,Tablet,0,38.67,0
+570,7747,39.0,Dhaka,73,933758.0,1756.81,Cash Withdrawal,2024-10-14 15:34:00,ATM,0,Desktop,0,51.04,0
+464,5940,36.0,Chittagong,64,998197.0,35867.07,Online Purchase,2024-01-02 04:49:00,Travel,0,,0,8.15,0
+366,9854,68.0,Rangpur,72,21049.0,61998.11,POS,2024-05-28 20:10:00,Electronics,0,Tablet,0,60.44,0
+358,5744,,Barisal,48,529529.0,4746.12,Cash Withdrawal,2024-10-28 13:03:00,ATM,1,Tablet,0,58.98,0
+714,7798,20.0,Dhaka,75,386353.0,92997.06,Money Transfer,2024-09-17 05:25:00,Financial Services,0,Tablet,0,26.95,0
+438,7382,69.0,Khulnaa,77,442210.0,63562.23,Money Transfer,2024-01-05 21:32:00,Financial Services,0,Desktop,0,52.95,0
+1,2824,,Rajshahi,1,17280.0,27679.12,Money Transfer,2024-12-25 10:26:00,Financial Services,1,Mobile,0,0.7,1
+285,9870,48.0,Cumilla,3,86007.0,3975.18,Cash Withdrawal,2024-09-23 20:21:00,ATM,0,Tablet,0,47.94,0
+590,7572,32.0,Narayanganj,55,625540.0,53586.31,Cash Withdrawal,2024-09-19 05:59:00,ATM,0,Desktop,0,40.9,0
+235,4438,57.0,Gazipur,81,111928.0,64466.41,POS,2024-12-27 09:27:00,Financial Services,0,Tablet,0,44.23,0
+597,6489,41.0,Khulna,69,932590.0,89444.0,Online Purchase,2024-06-21 22:37:00,Utilities,0,,0,33.46,0
+516,5641,50.0,Khulnaa,12,169573.0,97101.67,POS,2024-02-11 09:14:00,Electronics,0,,0,69.62,0
+91,8529,,Khulna,25,90196.0,129168.04,Cash Withdrawal,2024-12-06 03:10:00,ATM,2,,1,0.09,1
+103,1660,38.0,Chittagong,46,71328.0,89788.88,Cash Withdrawal,2024-01-16 12:54:00,ATM,0,Desktop,1,7.34,0
+339,5876,64.0,Daka,104,982710.0,25556.11,Online Purchase,2024-11-05 08:55:00,Retail,0,,0,0.96,0
+422,8159,32.0,Sylhet,12,640967.0,25736.46,Online Purchase,2024-10-20 11:08:00,Financial Services,1,Mobile,0,42.48,0
+222,9212,21.0,Rangpur,105,601896.0,37747.56,Money Transfer,2024-07-20 21:08:00,Financial Services,0,Desktop,0,41.25,0
+502,7043,52.0,Chittagong,34,65168.0,15527.8,Money Transfer,2024-02-08 08:21:00,Financial Services,0,,0,12.26,0
+7,5562,26.0,Gazipur,1,61498.0,142948.91,Money Transfer,2024-11-26 15:03:00,Financial Services,1,Mobile,1,11.01,1
+747,3843,35.0,Rajshahi,56,648848.0,51729.62,Cash Withdrawal,2024-02-21 02:26:00,ATM,0,,0,54.05,0
+713,1396,62.0,Daka,20,164360.0,66643.95,Bill Payment,2024-11-20 21:25:00,Utilities,0,,1,51.46,0
+776,8594,56.0,Barisal,29,334869.0,86551.22,Cash Withdrawal,2024-12-08 18:16:00,ATM,0,,0,15.97,0
+674,4042,63.0,Chittagong,27,662794.0,3047.52,Bill Payment,2024-04-15 22:07:00,Utilities,1,,0,58.58,0
+172,7732,,Gazipur,18,61094.0,76022.69,Cash Withdrawal,2024-05-12 05:33:00,ATM,1,Mobile,0,52.41,0
+555,4451,35.0,Gazipur,45,144309.0,38755.38,Bill Payment,2024-04-24 05:18:00,Utilities,1,Mobile,0,47.98,0
+284,2075,47.0,Rangpur,37,100685.0,15350.48,Online Purchase,2024-12-22 04:31:00,Travel,0,Mobile,0,69.81,0
+706,4750,57.0,Rajshai,73,40339.0,42136.1,Online Purchase,2024-07-15 04:39:00,Financial Services,0,Tablet,1,28.05,0
+488,7794,18.0,Rangpur,4,412592.0,69103.0,POS,2024-06-11 10:10:00,ATM,0,Desktop,0,28.32,0
+46,9266,-10.0,Narayanganj,36,49350.0,63736.45,Money Transfer,2024-05-25 22:46:00,Financial Services,4,Mobile,1,5.58,1
+247,5949,43.0,Rajshahi,71,525806.0,51313.61,Cash Withdrawal,2024-12-21 18:27:00,ATM,0,Tablet,0,17.0,0
+780,1054,22.0,Khulnaa,35,138877.0,60184.75,POS,2024-09-30 14:32:00,Retail,0,Mobile,0,6.63,0
+645,3068,47.0,Chittagong,38,384510.0,41288.26,POS,2024-02-12 16:11:00,ATM,0,Desktop,0,49.0,0
+765,3510,62.0,Barisal,52,367302.0,40209.11,Cash Withdrawal,2024-11-15 15:59:00,ATM,0,Mobile,0,58.68,0
+550,4774,44.0,Rajshai,17,276842.0,54494.41,Cash Withdrawal,2024-11-06 08:50:00,ATM,0,Mobile,0,36.36,0
+613,2591,62.0,Chittagong,32,379077.0,39772.92,Money Transfer,2024-08-18 22:16:00,Financial Services,0,Desktop,0,20.77,0
+257,5603,34.0,,15,974342.0,78637.9,Bill Payment,2024-07-08 05:16:00,Utilities,0,Desktop,0,62.07,0
+96,9568,34.0,Khulna,2,73662.0,28665.61,Money Transfer,2024-01-29 18:54:00,Financial Services,1,Mobile,1,2.14,1
