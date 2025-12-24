@@ -1,0 +1,801 @@
+Transaction_Amount,Account_Balance,Customer_Tenure_Months,Daily_Transaction_Count,Transaction_Hour,Failed_Login_Attempts,Transaction_Type,Merchant_Category,Device_Type,Country,Account_Type,KYC_Status,High_Risk_Transaction
+5993.43,3684.99,42,3,19,1,transfer,gambling,mobile,IN,savings,unverified,No
+4723.47,35809.54,115,3,9,0,Cash_Out,gambling,mobile,IN,current,verified,No
+6295.38,5628.33,78,6,22,0,transfer,gambling,mobile,IN,current,Verified ,No
+8046.06,7777.62,10,5,8,0,cash_out,travel,desktop,india,savings,verified,No
+4531.69,9775.65,111,2,1,0,TRANSFER,GAMBLING,desktop,BD,business,Verified ,No
+45317.299999999996,40799.46,115,3,13,0,TRANSFER,food,mobile,india,savings,unverified,No
+8158.43,24933.83,36,6,15,0,Cash_Out,electronics,Mobile ,BD,savings,verified,No
+6534.87,29654.08,34,1,0,3,Transfer,electronics,desktop,BD,savings,verified,No
+4061.05,21961.68,73,2,1,1,cash_out,GAMBLING,mobile,Bangladesh,business,verified,No
+6085.12,13981.13,106,1,6,0,Cash_Out,gambling,Mobile ,BD,savings,verified,No
+4073.16,,28,3,9,1,Cash_Out,gambling,Mobile ,IN,savings,Verified ,No
+4068.54,4433.84,11,4,21,0,TRANSFER,gambling,mobile,IN,current,Verified ,No
+5483.92,9047.17,78,5,19,0,transfer,gambling,desktop,IN,savings,unverified,No
+1173.44,27329.75,39,3,0,0,cash_out,gambling,Mobile ,Bangladesh,current,unverified,No
+1550.16,6427.45,119,2,12,1,transfer,GAMBLING,desktop,Bangladesh,current,unverified,No
+3875.42,18109.19,47,5,0,1,cash_out,travel,desktop,india,current,unverified,No
+2974.34,18564.88,118,1,4,1,Transfer,food,Mobile ,BD,business,verified,No
+5628.49,14713.38,19,3,15,0,TRANSFER,gambling,mobile,BD,current,Verified ,No
+3183.95,488.82,118,2,14,1,Transfer,travel,Mobile ,IN,savings,Verified ,No
+2175.39,13710.71,15,2,16,1,Cash_Out,electronics,Mobile ,IN,savings,Verified ,No
+7931.3,11750.32,28,1,22,1,,GAMBLING,desktop,IN,current,Verified ,No
+4548.45,21614.4,24,1,15,0,Cash_Out,travel,mobile,IN,current,unverified,No
+5135.06,21104.91,72,6,12,0,Transfer,gambling,desktop,IN,savings,verified,No
+2150.5,23779.61,107,3,10,1,cash_out,gambling,Mobile ,IN,current,Verified ,No
+3911.23,13240.14,9,1,16,0,Cash_Out,gambling,mobile,BD,business,verified,Yes
+5221.85,25227.78,47,6,16,1,,travel,mobile,Bangladesh,current,verified,No
+2698.01,4439.93,33,3,1,1,cash_out,gambling,mobile,IN,business,verified,No
+5751.4,1780.95,62,4,12,0,cash_out,travel,mobile,BD,business,verified,No
+3798.72,-3355.73,97,0,13,1,Transfer,gambling,mobile,IN,business,Verified ,No
+4416.61,15007.03,19,1,10,0,Transfer,electronics,Mobile ,india,current,Verified ,No
+3796.59,12467.02,67,3,9,0,TRANSFER,electronics,Mobile ,india,business,Verified ,Yes
+8704.56,27893.16,74,4,2,0,TRANSFER,food,Mobile ,BD,business,unverified,No
+4973.01,13513.37,40,2,16,0,transfer,gambling,desktop,Bangladesh,current,Verified ,Yes
+2884.58,22733.76,47,1,14,0,cash_out,gambling,mobile,india,business,unverified,No
+6645.09,28132.97,106,2,8,0,transfer,travel,mobile,india,current,unverified,Yes
+2558.31,13136.81,65,7,9,0,transfer,travel,Mobile ,Bangladesh,savings,unverified,No
+5417.73,22980.52,29,3,7,1,Transfer,gambling,mobile,india,business,Verified ,No
+1080.66,30019.28,50,1,20,0,transfer,food,desktop,IN,current,Verified ,No
+2343.63,7618.37,98,2,12,2,transfer,gambling,mobile,Bangladesh,savings,Verified ,No
+5393.72,20248.52,115,1,17,1,Cash_Out,travel,mobile,india,business,unverified,No
+6476.93,13179.66,13,4,4,1,TRANSFER,gambling,desktop,Bangladesh,business,unverified,No
+,8255.1,118,3,5,0,TRANSFER,travel,Mobile ,IN,current,verified,No
+4768.7,4635.48,1,3,16,1,cash_out,gambling,Mobile ,india,savings,unverified,No
+4397.79,8093.51,34,3,10,0,TRANSFER,GAMBLING,mobile,BD,current,unverified,Yes
+2042.96,20600.29,93,3,19,0,cash_out,travel,desktop,india,business,Verified ,No
+3560.31,3891.56,48,4,15,0,Cash_Out,food,Mobile ,india,business,verified,No
+4078.72,14492.73,111,0,8,1,TRANSFER,GAMBLING,Mobile ,IN,business,verified,No
+7114.24,28131.94,77,2,1,0,Cash_Out,gambling,Mobile ,BD,business,verified,No
+5687.24,24490.11,48,3,4,0,TRANSFER,travel,mobile,BD,savings,Verified ,No
+1473.92,14694.92,49,5,0,1,TRANSFER,GAMBLING,desktop,BD,savings,verified,No
+5648.17,36896.9,117,3,3,1,Cash_Out,food,mobile,IN,current,verified,No
+4229.84,38930.36,64,5,3,0,transfer,travel,Mobile ,IN,current,Verified ,No
+3646.16,20261.22,61,5,21,0,transfer,GAMBLING,desktop,IN,current,verified,No
+6223.35,-4685.43,29,3,2,0,transfer,GAMBLING,mobile,IN,business,unverified,Yes
+7062.0,28864.48,39,2,8,0,transfer,GAMBLING,Mobile ,IN,current,unverified,No
+6862.56,-2939.76,88,2,21,0,TRANSFER,electronics,Mobile ,BD,savings,unverified,No
+33215.6,34761.46,26,2,22,0,Transfer,gambling,mobile,Bangladesh,current,unverified,No
+4381.58,30835.85,17,3,11,0,Cash_Out,travel,Mobile ,IN,current,unverified,No
+5662.53,37742.13,71,1,9,0,Transfer,travel,Mobile ,Bangladesh,savings,unverified,No
+6951.09,22602.66,13,3,1,0,Transfer,travel,desktop,india,savings,unverified,Yes
+4041.65,16386.14,69,1,10,0,cash_out,GAMBLING,Mobile ,india,business,unverified,No
+4628.68,15498.99,26,0,9,0,transfer,gambling,mobile,IN,savings,unverified,No
+2787.33,14537.4,49,5,21,0,TRANSFER,food,desktop,india,savings,Verified ,No
+2607.59,149053.44999999998,67,2,5,1,transfer,travel,mobile,Bangladesh,current,Verified ,No
+6625.05,27122.71,7,3,17,0,transfer,gambling,Mobile ,india,savings,unverified,No
+7712.48,21202.26,58,3,1,0,Transfer,gambling,desktop,india,business,Verified ,No
+4855.98,12778.19,49,6,1,0,cash_out,electronics,desktop,Bangladesh,current,Verified ,Yes
+7007.07,46292.13,103,4,9,1,transfer,travel,desktop,india,business,unverified,Yes
+5723.27,29123.75,53,5,15,0,Cash_Out,GAMBLING,desktop,IN,savings,unverified,No
+3709.76,4022.88,65,3,11,1,Cash_Out,gambling,mobile,Bangladesh,business,Verified ,No
+5722.79,14837.44,113,2,0,0,transfer,gambling,Mobile ,Bangladesh,business,unverified,No
+8076.07,146588.8,62,3,20,0,Transfer,food,Mobile ,BD,savings,unverified,No
+4928.35,12004.61,17,5,7,1,Transfer,electronics,desktop,BD,savings,unverified,No
+8129.29,23515.48,43,1,15,2,TRANSFER,gambling,Mobile ,Bangladesh,current,unverified,No
+-239.49,29507.96,25,2,17,0,cash_out,gambling,mobile,Bangladesh,current,Verified ,Yes
+6643.81,-13884.28,3,4,12,0,Transfer,GAMBLING,Mobile ,BD,current,verified,No
+5174.09,18919.62,79,2,14,2,TRANSFER,GAMBLING,mobile,IN,savings,Verified ,No
+4401.99,19312.09,29,3,20,1,Cash_Out,food,mobile,india,business,verified,No
+5183.52,15879.28,117,5,11,0,Cash_Out,food,Mobile ,india,business,verified,No
+1024.86,23016.95,107,3,7,2,Cash_Out,food,mobile,india,current,verified,No
+4560.66,26575.2,32,1,9,2,transfer,GAMBLING,mobile,Bangladesh,current,Verified ,No
+5714.23,21420.51,26,3,13,2,cash_out,GAMBLING,mobile,IN,savings,Verified ,No
+7955.79,16261.73,16,1,4,1,TRANSFER,electronics,mobile,BD,business,Verified ,No
+3963.46,26326.21,25,2,17,1,cash_out,travel,desktop,IN,current,Verified ,No
+3383.01,20490.53,54,2,18,1,transfer,travel,Mobile ,IN,savings,Verified ,No
+3996.49,17693.0,28,1,14,0,TRANSFER,electronics,desktop,india,current,verified,No
+6830.8,6877.21,73,1,5,0,TRANSFER,travel,mobile,BD,savings,Verified ,No
+5657.5,4373.45,56,2,10,2,Transfer,GAMBLING,Mobile ,IN,business,verified,No
+3940.48,6687.7,65,7,20,2,cash_out,travel,mobile,BD,savings,Verified ,No
+6026.53,22783.29,93,3,10,0,cash_out,GAMBLING,Mobile ,Bangladesh,current,Verified ,No
+5194.16,19209.21,86,3,19,1,Transfer,electronics,desktop,india,current,unverified,No
+6937.29,5197.16,80,3,19,2,Cash_Out,food,Mobile ,BD,business,verified,No
+3595.89,26459.18,41,4,20,1,transfer,electronics,mobile,Bangladesh,business,Verified ,No
+4344.68,33743.1,115,1,17,0,cash_out,travel,Mobile ,Bangladesh,current,Verified ,No
+4215.78,14015.06,108,4,17,0,Transfer,GAMBLING,Mobile ,Bangladesh,current,Verified ,No
+2072.97,2590.18,51,2,9,0,TRANSFER,travel,desktop,IN,current,unverified,No
+5592.24,12908.74,118,2,1,0,Transfer,travel,mobile,IN,business,verified,No
+5522.11,28544.61,105,0,8,1,Cash_Out,food,Mobile ,india,current,Verified ,Yes
+5010.23,25485.3,71,1,13,0,transfer,travel,desktop,india,business,Verified ,No
+4530.83,10775.67,78,2,18,0,Cash_Out,food,Mobile ,Bangladesh,current,Verified ,No
+2169.26,35211.72,29,2,9,0,TRANSFER,GAMBLING,mobile,india,savings,unverified,No
+4158.71,33482.8,83,5,22,0,TRANSFER,GAMBLING,Mobile ,IN,savings,Verified ,No
+4314.57,12669.94,19,4,3,0,TRANSFER,food,Mobile ,india,current,verified,Yes
+3395.45,12567.1,66,2,5,1,TRANSFER,electronics,Mobile ,BD,savings,verified,Yes
+4677.43,14071.72,41,2,13,1,Transfer,GAMBLING,Mobile ,IN,business,verified,No
+5808.1,14926.67,45,3,3,3,TRANSFER,electronics,mobile,Bangladesh,savings,verified,No
+8772.37,29505.38,15,5,14,2,TRANSFER,GAMBLING,desktop,Bangladesh,savings,Verified ,No
+5349.16,24253.29,3,1,15,0,Transfer,GAMBLING,desktop,india,business,unverified,Yes
+5515.1,28770.79,11,2,6,0,TRANSFER,gambling,Mobile ,IN,savings,unverified,No
+4851.11,26735.65,53,3,16,0,Cash_Out,travel,mobile,Bangladesh,savings,unverified,No
+1162.46,37145.27,46,0,18,0,Cash_Out,travel,mobile,Bangladesh,current,Verified ,Yes
+4946.97,9406.14,30,2,18,0,cash_out,electronics,mobile,IN,business,unverified,No
+5120.46,23803.59,57,5,16,2,Cash_Out,travel,mobile,IN,business,verified,No
+9926.48,-1738.21,104,2,5,0,transfer,electronics,mobile,Bangladesh,current,Verified ,No
+4615.28,6830.44,18,3,10,1,transfer,GAMBLING,mobile,india,current,unverified,No
+5603.09,19251.47,51,2,15,1,transfer,gambling,Mobile ,india,savings,verified,No
+4930.58,24182.07,48,0,7,1,Transfer,gambling,desktop,india,savings,verified,No
+2662.64,18981.84,66,7,10,1,Cash_Out,GAMBLING,desktop,BD,savings,Verified ,No
+7285.65,14328.08,96,5,6,0,transfer,food,Mobile ,IN,current,Verified ,No
+6503.87,16105.82,8,0,23,0,cash_out,food,desktop,Bangladesh,business,unverified,No
+6582.06,33694.41,22,3,21,0,Transfer,travel,mobile,BD,savings,unverified,No
+3181.23,16159.68,6,8,18,2,cash_out,electronics,,india,current,unverified,No
+7805.59,37492.42,76,4,9,0,Cash_Out,gambling,desktop,BD,business,Verified ,No
+2196.3,27940.17,111,3,8,0,TRANSFER,travel,mobile,Bangladesh,current,unverified,No
+6173.71,24575.37,57,2,3,1,cash_out,GAMBLING,mobile,Bangladesh,savings,unverified,No
+9380.91,8064.03,104,4,22,0,TRANSFER,gambling,desktop,IN,current,verified,No
+3018.93,29352.38,36,5,14,1,Transfer,electronics,Mobile ,india,current,verified,No
+3867.4,15062.29,79,3,12,3,cash_out,electronics,desktop,india,current,verified,Yes
+5199.3,8055.6,92,0,1,0,cash_out,food,,BD,current,unverified,No
+3993.05,25128.44,116,2,1,1,Transfer,travel,desktop,india,business,Verified ,No
+1898.67,6120.54,57,4,15,0,Transfer,GAMBLING,desktop,BD,savings,verified,No
+,12377.59,49,5,8,0,transfer,gambling,Mobile ,Bangladesh,business,Verified ,No
+2875.39,19898.84,45,2,12,1,Cash_Out,electronics,Mobile ,Bangladesh,current,unverified,Yes
+5947.18,42184.21,82,3,2,0,cash_out,gambling,mobile,Bangladesh,current,unverified,No
+3161.15,65654.2,66,1,8,0,cash_out,GAMBLING,mobile,Bangladesh,savings,verified,No
+8099.87,15417.83,77,4,12,0,Transfer,gambling,desktop,Bangladesh,savings,Verified ,No
+34334.899999999994,27323.45,45,5,20,0,Transfer,travel,mobile,BD,business,verified,No
+4355.88,7617.04,118,2,21,2,Cash_Out,food,Mobile ,Bangladesh,business,unverified,No
+6627.03,24428.06,79,4,1,2,Transfer,gambling,mobile,BD,savings,Verified ,No
+2538.27,32059.27,20,5,7,2,TRANSFER,food,mobile,Bangladesh,business,verified,Yes
+,16929.05,64,2,8,0,TRANSFER,GAMBLING,mobile,BD,current,unverified,Yes
+7614.29,30261.54,93,2,15,1,TRANSFER,food,desktop,BD,current,verified,No
+1785.03,22914.5,106,6,1,0,TRANSFER,gambling,mobile,BD,savings,Verified ,No
+5369.27,12693.18,93,0,5,0,Cash_Out,gambling,Mobile ,india,business,Verified ,No
+5519.77,18021.95,67,3,21,0,cash_out,electronics,Mobile ,BD,current,Verified ,No
+6563.65,16202.43,83,3,7,1,TRANSFER,gambling,Mobile ,BD,savings,Verified ,Yes
+2526.1,19123.62,3,4,4,0,Transfer,food,Mobile ,Bangladesh,business,Verified ,No
+2359.09,21527.18,54,10,8,1,TRANSFER,electronics,mobile,BD,current,verified,No
+6043.88,25882.0,78,5,0,0,Cash_Out,gambling,desktop,BD,business,verified,No
+5593.97,25086.68,64,4,8,0,Transfer,gambling,Mobile ,IN,business,verified,Yes
+5500.99,-4317.14,40,3,9,1,TRANSFER,GAMBLING,Mobile ,india,business,verified,No
+5692.9,19026.92,59,1,22,1,cash_out,electronics,desktop,IN,savings,unverified,No
+3639.95,4905.78,55,2,3,0,Transfer,GAMBLING,desktop,Bangladesh,current,unverified,No
+5464.51,17242.73,62,4,2,0,Transfer,GAMBLING,Mobile ,india,savings,verified,No
+5586.14,18762.1,4,4,9,0,cash_out,GAMBLING,Mobile ,india,current,unverified,Yes
+3571.3,29761.48,60,2,14,1,Transfer,travel,desktop,IN,current,unverified,Yes
+8731.55,19698.85,116,1,10,1,,GAMBLING,Mobile ,india,savings,Verified ,No
+5947.67,22592.18,75,2,13,1,Transfer,food,Mobile ,IN,savings,verified,No
+2617.39,27930.56,95,2,5,1,TRANSFER,gambling,mobile,BD,current,unverified,No
+6313.11,32277.52,107,1,11,0,cash_out,travel,desktop,IN,current,unverified,No
+3050.64,18769.86,96,3,12,0,transfer,GAMBLING,mobile,india,current,verified,Yes
+6574.17,20941.79,91,1,16,1,cash_out,gambling,mobile,india,business,Verified ,No
+7317.19,,30,1,15,1,TRANSFER,electronics,desktop,Bangladesh,current,verified,No
+3358.64,14574.01,107,4,2,0,Cash_Out,electronics,mobile,Bangladesh,savings,Verified ,No
+6926.75,12308.85,2,4,1,1,cash_out,gambling,Mobile ,Bangladesh,savings,unverified,No
+5825.56,-2718.86,62,3,10,1,Cash_Out,food,mobile,Bangladesh,savings,Verified ,No
+66441.2,9233.39,49,2,8,0,Cash_Out,gambling,desktop,india,current,Verified ,No
+8793.59,2213.69,9,4,2,0,TRANSFER,gambling,Mobile ,Bangladesh,current,verified,No
+4509.22,32551.98,92,4,17,1,TRANSFER,travel,Mobile ,IN,business,unverified,No
+3492.53,21884.16,31,5,19,0,transfer,electronics,Mobile ,BD,business,verified,No
+3220.97,18740.61,98,4,14,1,Transfer,electronics,Mobile ,india,savings,verified,No
+3368.38,12825.15,61,1,13,4,cash_out,GAMBLING,mobile,Bangladesh,business,unverified,No
+4845.8,20297.79,79,2,1,0,TRANSFER,gambling,mobile,india,business,verified,No
+5682.3,11520.2,48,1,16,1,cash_out,gambling,Mobile ,Bangladesh,savings,verified,No
+5553.38,21740.19,25,1,21,0,Cash_Out,food,desktop,india,current,Verified ,No
+6654.37,22457.34,36,4,7,1,Transfer,electronics,Mobile ,Bangladesh,business,verified,No
+5026.0,11386.16,8,2,9,3,transfer,food,mobile,BD,current,unverified,No
+7907.07,11195.38,73,2,17,2,cash_out,travel,Mobile ,Bangladesh,savings,verified,Yes
+4470.69,29621.99,58,3,18,0,Transfer,GAMBLING,mobile,IN,savings,Verified ,No
+10440.34,19471.4,101,0,7,2,transfer,food,Mobile ,india,business,verified,No
+6251.33,12189.8,112,2,7,0,cash_out,electronics,desktop,india,savings,verified,No
+32856.799999999996,16294.94,45,1,2,1,Transfer,travel,Mobile ,IN,savings,verified,No
+2858.22,9894.06,62,1,2,2,TRANSFER,gambling,desktop,IN,savings,Verified ,Yes
+5964.94,19328.16,39,6,11,1,cash_out,travel,desktop,BD,business,unverified,No
+4553.07,28316.28,96,1,21,1,Transfer,food,Mobile ,india,business,unverified,No
+6428.0,19723.29,58,2,16,1,transfer,electronics,desktop,BD,business,Verified ,Yes
+5946.48,43636.33,116,5,3,0,Transfer,food,desktop,india,savings,Verified ,No
+4854.34,24213.6,81,2,16,0,TRANSFER,gambling,mobile,india,current,verified,No
+3306.41,22299.54,99,0,13,0,cash_out,gambling,mobile,BD,savings,unverified,No
+1970.31,10916.98,101,4,18,0,cash_out,electronics,desktop,india,business,Verified ,No
+4106.97,17614.67,83,5,8,0,cash_out,GAMBLING,Mobile ,india,current,unverified,No
+6712.8,12209.86,64,3,20,0,TRANSFER,travel,desktop,BD,current,verified,No
+5428.19,-1656.45,44,6,11,3,transfer,travel,Mobile ,Bangladesh,business,Verified ,No
+2508.52,29742.62,29,1,4,0,cash_out,gambling,mobile,BD,current,unverified,No
+5346.36,14885.49,59,1,10,0,transfer,food,Mobile ,india,current,unverified,Yes
+5770.63,12396.0,71,2,19,0,Transfer,food,desktop,IN,business,verified,No
+3232.29,22105.7,92,2,2,2,transfer,GAMBLING,desktop,Bangladesh,current,Verified ,No
+5307.45,25125.0,9,4,20,0,transfer,food,desktop,IN,current,unverified,No
+5116.42,16792.25,92,0,14,0,cash_out,travel,desktop,Bangladesh,business,verified,No
+2714.06,19973.98,6,1,13,1,Cash_Out,food,desktop,IN,current,unverified,No
+5715.57,27461.87,29,4,10,0,Cash_Out,GAMBLING,Mobile ,Bangladesh,current,verified,Yes
+6121.57,16398.06,58,1,19,0,TRANSFER,travel,desktop,BD,current,unverified,No
+7166.1,23023.34,17,3,7,1,TRANSFER,food,mobile,Bangladesh,current,unverified,No
+7107.6,3407.55,16,4,3,0,Cash_Out,travel,desktop,Bangladesh,business,verified,No
+2244.66,7586.81,87,6,11,1,Transfer,gambling,Mobile ,Bangladesh,savings,Verified ,No
+3124.35,26055.4,95,2,7,2,cash_out,gambling,desktop,india,savings,verified,No
+6030.07,7064.41,3,2,5,0,cash_out,gambling,desktop,IN,current,Verified ,No
+6027.57,22341.38,21,3,14,1,Transfer,food,Mobile ,BD,business,unverified,No
+6030.1,18530.01,64,4,11,2,Transfer,GAMBLING,desktop,IN,business,unverified,No
+12705.46,16355.33,90,3,15,0,,travel,Mobile ,IN,current,verified,Yes
+6141.78,58576.850000000006,36,3,15,0,TRANSFER,electronics,desktop,BD,savings,verified,No
+7271.13,29093.4,106,3,20,1,Transfer,gambling,mobile,india,current,Verified ,No
+6908.0,37298.91,101,2,19,2,TRANSFER,gambling,desktop,Bangladesh,business,Verified ,No
+6302.78,23001.92,117,5,19,1,transfer,electronics,Mobile ,india,business,Verified ,No
+4369.46,23224.91,86,2,3,0,cash_out,electronics,mobile,india,savings,verified,No
+6517.94,13176.69,62,1,10,2,Cash_Out,food,Mobile ,Bangladesh,business,unverified,Yes
+3454.35,8039.03,42,3,12,1,cash_out,travel,desktop,IN,business,verified,No
+4526.36,19602.61,76,4,8,0,Cash_Out,gambling,mobile,Bangladesh,business,unverified,No
+4029.27,10262.5,42,2,3,0,transfer,GAMBLING,Mobile ,BD,savings,verified,No
+5163.75,2273.9,61,2,11,1,cash_out,food,mobile,Bangladesh,business,verified,No
+9629.32,28034.46,13,2,8,0,transfer,food,mobile,IN,current,Verified ,No
+1265.47,28521.67,11,3,12,0,Cash_Out,GAMBLING,Mobile ,india,savings,unverified,Yes
+6372.52,11411.61,54,1,15,1,Transfer,GAMBLING,mobile,india,current,verified,No
+1774.57,22439.64,16,2,5,0,cash_out,GAMBLING,Mobile ,Bangladesh,current,verified,No
+4056.14,30019.52,8,0,9,0,transfer,electronics,mobile,BD,savings,unverified,No
+7177.9,22050.27,104,2,12,1,cash_out,gambling,mobile,IN,current,verified,No
+5128.56,8068.45,59,2,6,0,cash_out,electronics,mobile,india,savings,unverified,No
+2844.51,17671.07,57,2,18,1,cash_out,gambling,desktop,Bangladesh,current,Verified ,No
+3569.39,33268.09,40,4,23,1,TRANSFER,electronics,desktop,BD,savings,Verified ,No
+6359.2,22470.27,109,2,18,0,transfer,travel,Mobile ,BD,business,unverified,No
+3539.27,126956.6,59,3,16,0,transfer,gambling,mobile,india,business,Verified ,Yes
+5432.92,23416.29,2,2,12,2,cash_out,food,Mobile ,india,current,unverified,No
+5091.14,11444.89,94,5,12,1,Transfer,gambling,desktop,IN,business,verified,No
+3696.8,13791.55,94,0,20,0,cash_out,gambling,desktop,BD,savings,verified,No
+9287.89,23388.65,76,4,1,0,TRANSFER,gambling,,IN,current,unverified,No
+6267.84,28168.72,10,2,9,1,Cash_Out,travel,desktop,BD,business,verified,No
+949.71,30999.05,44,6,21,0,TRANSFER,electronics,Mobile ,BD,business,Verified ,Yes
+5372.91,11418.94,11,2,12,0,Transfer,food,mobile,Bangladesh,current,verified,Yes
+3676.43,24331.21,79,2,8,0,cash_out,electronics,Mobile ,india,business,verified,No
+6704.87,31870.44,80,1,0,0,transfer,electronics,mobile,BD,business,unverified,No
+3414.96,10129.18,81,1,13,0,cash_out,GAMBLING,desktop,IN,current,Verified ,No
+4770.53,34867.47,90,2,15,0,Transfer,travel,mobile,india,business,verified,No
+6009.97,36389.41,2,1,19,0,transfer,GAMBLING,desktop,IN,business,verified,No
+6731.51,46250.86,50,5,14,0,TRANSFER,travel,Mobile ,india,business,unverified,No
+2599.41,22309.33,12,3,0,0,Cash_Out,electronics,mobile,india,business,unverified,No
+4331.0,22364.25,115,2,16,0,Cash_Out,electronics,Mobile ,BD,current,Verified ,No
+4050.11,28269.94,90,3,23,0,cash_out,travel,desktop,Bangladesh,savings,verified,No
+3693.34,27978.03,23,2,12,1,TRANSFER,electronics,Mobile ,BD,savings,unverified,No
+8530.91,31263.67,18,2,14,1,Transfer,electronics,desktop,india,business,unverified,No
+5809.96,27840.33,62,1,15,0,Cash_Out,food,desktop,BD,business,unverified,Yes
+2478.23,18939.38,96,7,15,0,TRANSFER,GAMBLING,desktop,BD,savings,Verified ,No
+6835.72,32219.97,113,2,1,0,cash_out,GAMBLING,Mobile ,india,business,unverified,Yes
+9244.31,9287.46,62,4,16,0,transfer,GAMBLING,Mobile ,india,savings,Verified ,Yes
+7064.93,20058.52,38,6,10,1,cash_out,gambling,mobile,BD,current,Verified ,Yes
+1961.26,35637.36,111,3,7,0,cash_out,food,mobile,BD,current,verified,No
+4031.53,,67,1,19,1,TRANSFER,GAMBLING,Mobile ,BD,current,verified,No
+7533.82,13225.24,38,2,2,1,Cash_Out,GAMBLING,Mobile ,IN,current,Verified ,No
+,26717.47,67,1,11,1,TRANSFER,food,Mobile ,BD,current,verified,No
+5887.64,23939.12,94,0,19,0,transfer,electronics,Mobile ,IN,current,verified,No
+6549.27,11249.75,61,1,15,1,TRANSFER,GAMBLING,desktop,Bangladesh,savings,unverified,No
+3146.14,15838.06,1,4,13,0,Transfer,electronics,desktop,IN,business,verified,No
+4880.95,8192.18,94,4,15,1,cash_out,GAMBLING,desktop,BD,savings,Verified ,No
+-1482.53,29804.85,45,6,20,0,Cash_Out,travel,Mobile ,Bangladesh,current,verified,No
+2951.22,17441.19,96,1,16,1,transfer,gambling,desktop,IN,business,unverified,No
+4494.86,37921.56,28,5,10,2,cash_out,GAMBLING,desktop,IN,business,Verified ,No
+2504.43,20811.0,21,7,16,0,TRANSFER,travel,mobile,india,current,verified,No
+8264.82,17802.6,110,2,18,0,Transfer,food,mobile,Bangladesh,current,Verified ,No
+2139.72,16831.78,13,2,21,0,TRANSFER,travel,desktop,india,current,verified,No
+41199.1,17558.0,27,1,0,1,cash_out,food,desktop,Bangladesh,current,unverified,No
+5261.48,21108.21,100,3,11,0,transfer,GAMBLING,desktop,IN,current,verified,No
+7882.55,45124.08,7,4,14,2,Cash_Out,food,Mobile ,india,current,Verified ,No
+2128.28,16611.4,22,3,17,0,cash_out,travel,mobile,BD,business,Verified ,No
+7326.33,16936.47,74,2,22,2,transfer,gambling,mobile,IN,current,Verified ,No
+5020.47,20655.94,103,2,13,0,cash_out,electronics,mobile,Bangladesh,current,verified,No
+3036.98,30902.75,53,2,0,0,Transfer,electronics,desktop,Bangladesh,business,verified,No
+5924.21,5790.15,79,4,12,0,TRANSFER,gambling,Mobile ,india,savings,verified,No
+5398.12,24550.93,79,6,14,0,Cash_Out,electronics,mobile,india,current,unverified,No
+3799.57,11825.75,4,1,6,3,transfer,GAMBLING,mobile,Bangladesh,business,unverified,No
+,25532.73,96,5,14,2,Cash_Out,GAMBLING,Mobile ,IN,business,unverified,No
+42293.7,15062.4,23,0,19,0,Cash_Out,travel,desktop,india,savings,Verified ,No
+5227.03,-3041.02,119,4,9,0,Cash_Out,travel,desktop,BD,current,Verified ,No
+6324.26,23695.78,70,4,13,1,transfer,food,mobile,Bangladesh,current,Verified ,No
+8172.03,23611.45,88,5,5,1,transfer,travel,mobile,BD,current,Verified ,No
+2524.37,14209.2,84,1,13,1,Cash_Out,GAMBLING,Mobile ,Bangladesh,business,Verified ,No
+9266.07,13616.56,101,5,23,1,TRANSFER,travel,mobile,BD,current,verified,No
+1095.82,6886.27,84,2,21,1,cash_out,electronics,Mobile ,IN,current,Verified ,No
+4696.43,27731.0,76,2,11,0,Cash_Out,food,mobile,Bangladesh,current,verified,No
+6176.63,28822.16,33,6,10,1,Transfer,food,mobile,IN,current,unverified,Yes
+5561.98,11209.49,28,1,19,0,Cash_Out,GAMBLING,mobile,india,savings,unverified,No
+3754.6,14600.66,8,3,21,0,transfer,travel,desktop,Bangladesh,savings,unverified,No
+4583.76,19367.11,1,5,23,1,cash_out,electronics,Mobile ,IN,savings,unverified,Yes
+40140.0,42708.65,37,3,18,1,Transfer,travel,Mobile ,BD,current,unverified,No
+3821.27,25451.22,63,0,1,0,cash_out,gambling,desktop,IN,current,Verified ,No
+6699.2,10565.84,22,4,21,1,cash_out,travel,desktop,Bangladesh,business,Verified ,No
+5714.03,23037.8,70,2,19,1,Transfer,GAMBLING,desktop,IN,business,Verified ,No
+3614.18,6233.08,21,1,0,0,Cash_Out,travel,Mobile ,BD,business,unverified,No
+6799.2,27179.9,96,6,7,1,Cash_Out,food,mobile,BD,current,unverified,No
+5614.6,36755.47,35,5,13,0,Cash_Out,electronics,desktop,BD,savings,verified,No
+6625.72,36797.92,79,4,8,0,TRANSFER,GAMBLING,desktop,india,savings,Verified ,No
+6259.26,27348.94,5,1,1,1,Cash_Out,gambling,desktop,Bangladesh,savings,unverified,No
+3342.01,14165.88,60,2,22,1,Transfer,electronics,mobile,BD,current,unverified,No
+3879.64,6990.98,46,2,4,0,TRANSFER,electronics,mobile,india,savings,unverified,No
+6494.59,5997.95,50,2,22,1,Cash_Out,food,desktop,BD,business,verified,No
+6220.74,-8062.17,48,2,7,0,TRANSFER,food,mobile,IN,business,unverified,Yes
+4958.2,26938.56,6,0,15,1,Transfer,food,desktop,Bangladesh,savings,verified,No
+5234.65,18971.64,89,8,21,0,Cash_Out,GAMBLING,mobile,IN,business,verified,No
+,29092.16,56,4,15,1,transfer,travel,Mobile ,india,savings,Verified ,No
+3816.86,34280.31,110,2,12,0,Transfer,electronics,Mobile ,IN,savings,unverified,No
+6094.19,20999.06,59,3,19,0,cash_out,travel,mobile,IN,business,verified,No
+4595.61,21459.62,104,4,14,0,,travel,Mobile ,BD,business,unverified,No
+4564.64,15356.8,29,3,0,1,Transfer,food,Mobile ,IN,business,Verified ,No
+7197.55,16539.16,71,5,21,0,cash_out,travel,Mobile ,BD,business,Verified ,No
+6650.83,27284.7,104,6,2,1,Transfer,electronics,desktop,BD,savings,verified,No
+6627.02,18256.25,77,9,5,0,transfer,electronics,mobile,Bangladesh,business,Verified ,No
+76109.6,16809.92,102,4,21,1,Transfer,gambling,mobile,india,business,Verified ,No
+5042.01,19816.83,18,5,13,2,Cash_Out,GAMBLING,mobile,india,current,Verified ,No
+6363.91,28863.3,2,3,3,0,Cash_Out,travel,Mobile ,india,business,unverified,No
+4379.47,13073.38,8,2,17,0,TRANSFER,GAMBLING,desktop,BD,business,unverified,Yes
+5648.33,19334.71,75,1,14,0,cash_out,GAMBLING,mobile,india,savings,verified,No
+4739.71,22452.78,97,3,8,0,cash_out,GAMBLING,Mobile ,BD,savings,verified,No
+5193.99,31602.22,54,2,17,1,Transfer,GAMBLING,desktop,Bangladesh,current,Verified ,Yes
+6190.31,17607.03,38,3,2,0,cash_out,electronics,desktop,india,business,Verified ,Yes
+3363.56,12821.77,48,3,9,1,Cash_Out,travel,mobile,BD,business,verified,No
+9184.77,15156.39,27,4,16,2,transfer,gambling,mobile,india,business,Verified ,No
+2987.97,30530.57,20,1,6,0,Transfer,GAMBLING,Mobile ,india,business,verified,No
+2571.62,40333.05,12,4,14,0,cash_out,gambling,mobile,Bangladesh,business,unverified,No
+7316.22,6862.42,43,2,0,1,Cash_Out,electronics,Mobile ,IN,business,Verified ,No
+6583.33,9046.98,61,3,10,1,TRANSFER,electronics,desktop,india,current,Verified ,No
+6248.24,18312.03,31,2,16,0,cash_out,food,desktop,Bangladesh,business,Verified ,No
+6256.69,21109.56,91,2,4,1,transfer,GAMBLING,desktop,india,business,unverified,No
+4975.51,27869.7,96,4,6,1,transfer,food,desktop,india,business,unverified,No
+3205.49,11088.67,61,4,18,1,cash_out,gambling,mobile,india,current,Verified ,No
+5151.61,9368.91,74,7,23,1,cash_out,travel,mobile,india,business,verified,No
+3645.68,21380.87,67,0,14,0,Cash_Out,food,Mobile ,IN,current,unverified,No
+6950.24,17415.99,109,2,2,0,cash_out,electronics,Mobile ,IN,savings,Verified ,No
+4705.89,29267.21,91,1,14,0,TRANSFER,GAMBLING,Mobile ,india,business,Verified ,No
+3349.01,24873.6,35,5,4,1,Cash_Out,gambling,Mobile ,india,current,unverified,No
+4357.23,25553.79,95,2,22,0,Transfer,electronics,Mobile ,Bangladesh,savings,verified,No
+5825.86,18955.19,15,0,11,0,TRANSFER,travel,desktop,Bangladesh,current,Verified ,No
+3872.55,43555.8,16,1,19,0,Cash_Out,GAMBLING,desktop,BD,current,verified,Yes
+3355.56,11622.52,13,4,4,0,Cash_Out,travel,desktop,IN,savings,verified,No
+5487.37,26108.1,113,6,2,0,transfer,travel,Mobile ,india,business,unverified,No
+5489.93,7303.1,35,1,8,0,Cash_Out,GAMBLING,desktop,IN,business,Verified ,No
+3986.11,9265.32,116,2,8,0,TRANSFER,GAMBLING,desktop,Bangladesh,current,Verified ,Yes
+4057.92,13926.54,75,4,6,0,cash_out,travel,desktop,IN,savings,verified,No
+5464.1,36293.23,59,5,1,1,TRANSFER,gambling,desktop,IN,business,unverified,No
+2103.83,22638.94,21,2,22,0,Transfer,GAMBLING,mobile,india,current,unverified,No
+,14095.22,115,3,22,1,Cash_Out,electronics,Mobile ,india,savings,unverified,No
+3563.11,23744.36,54,4,20,0,Cash_Out,food,Mobile ,Bangladesh,current,verified,No
+4573.11,20351.48,75,4,15,1,Cash_Out,gambling,mobile,india,savings,verified,No
+5621.82,15080.27,30,2,8,0,Cash_Out,GAMBLING,desktop,Bangladesh,business,Verified ,No
+7950.71,6033.71,48,6,12,0,transfer,GAMBLING,desktop,Bangladesh,business,unverified,No
+6715.32,34385.42,117,3,18,0,transfer,gambling,desktop,BD,current,verified,No
+4680.12,22098.18,35,1,19,0,cash_out,food,Mobile ,BD,business,unverified,No
+4961.97,41737.38,86,4,16,0,Cash_Out,travel,Mobile ,BD,business,verified,No
+2994.94,29403.22,38,1,5,1,Transfer,electronics,Mobile ,IN,savings,Verified ,No
+4962.97,25513.2,31,4,3,0,cash_out,GAMBLING,Mobile ,BD,business,unverified,No
+4422.68,15647.96,78,2,0,0,Cash_Out,food,Mobile ,india,savings,verified,No
+5645.44,9046.54,24,2,17,0,transfer,electronics,mobile,india,savings,unverified,No
+3345.54,17822.69,114,2,18,1,Transfer,gambling,Mobile ,BD,current,verified,No
+6038.69,8757.07,49,3,8,1,cash_out,GAMBLING,desktop,IN,savings,verified,No
+8065.48,26501.9,96,6,12,0,Transfer,travel,Mobile ,Bangladesh,business,verified,No
+4782.48,36326.52,100,2,7,1,Cash_Out,gambling,mobile,IN,savings,unverified,No
+5803.42,17390.88,32,4,22,0,TRANSFER,GAMBLING,desktop,IN,savings,verified,No
+6380.29,29444.91,55,1,12,1,Transfer,food,mobile,Bangladesh,current,Verified ,No
+4197.56,13107.71,79,0,14,2,Transfer,electronics,desktop,Bangladesh,business,unverified,No
+5448.18,16975.33,107,1,10,0,transfer,electronics,Mobile ,Bangladesh,business,Verified ,No
+5025.18,11850.36,58,3,11,0,Cash_Out,GAMBLING,mobile,india,business,Verified ,Yes
+5195.35,-1331.33,99,3,13,0,Transfer,gambling,desktop,Bangladesh,savings,unverified,No
+3453.98,19634.67,3,3,3,1,Cash_Out,travel,Mobile ,Bangladesh,business,verified,No
+5049.02,21284.52,80,4,0,0,transfer,food,desktop,IN,business,Verified ,No
+5996.0,30658.61,69,4,23,0,Cash_Out,GAMBLING,mobile,IN,savings,unverified,No
+7902.29,27954.38,85,3,3,0,,food,,BD,current,verified,No
+6918.54,28089.53,10,4,18,0,transfer,electronics,mobile,IN,current,unverified,Yes
+9306.36,10259.64,83,3,8,1,cash_out,travel,mobile,Bangladesh,savings,unverified,No
+3465.3,24594.97,25,5,9,1,Cash_Out,food,Mobile ,india,current,unverified,No
+6744.64,35825.94,68,4,3,1,TRANSFER,GAMBLING,desktop,IN,current,verified,No
+5366.68,23798.68,61,1,19,1,cash_out,travel,Mobile ,IN,current,Verified ,No
+9379.61,38285.94,29,1,8,1,transfer,gambling,mobile,Bangladesh,business,Verified ,No
+3383.4,40189.66,19,1,12,0,TRANSFER,GAMBLING,desktop,IN,current,unverified,No
+3320.56,17315.32,43,2,11,1,Transfer,food,mobile,IN,business,unverified,No
+3801.21,13030.6,66,2,10,0,Transfer,travel,Mobile ,Bangladesh,current,verified,No
+752.21,12385.38,74,4,11,1,cash_out,GAMBLING,Mobile ,IN,business,unverified,No
+3948.49,4838.64,61,2,17,0,TRANSFER,travel,Mobile ,india,savings,unverified,No
+3481.73,14815.97,43,3,11,0,Cash_Out,travel,desktop,BD,savings,unverified,Yes
+5300.79,32076.65,25,4,15,1,TRANSFER,travel,desktop,IN,current,Verified ,Yes
+5683.51,-2040.38,20,4,4,1,cash_out,food,mobile,india,business,unverified,No
+8752.34,9625.47,48,4,19,0,Cash_Out,GAMBLING,desktop,IN,savings,Verified ,No
+6900.85,18728.69,83,5,11,1,Cash_Out,electronics,desktop,BD,savings,verified,No
+3846.19,11228.15,87,3,20,1,Transfer,electronics,Mobile ,Bangladesh,savings,verified,No
+3203.17,14727.14,24,6,10,0,TRANSFER,food,mobile,BD,savings,Verified ,Yes
+5983.84,14876.7,11,2,8,0,Cash_Out,food,Mobile ,IN,current,Verified ,No
+23595.300000000003,17424.6,110,4,17,0,cash_out,travel,mobile,BD,business,Verified ,Yes
+8662.92,12705.45,98,3,2,2,Transfer,GAMBLING,mobile,BD,savings,Verified ,No
+7358.88,11887.87,55,2,19,0,Cash_Out,GAMBLING,desktop,Bangladesh,current,unverified,No
+4061.65,29343.1,28,5,16,1,TRANSFER,gambling,Mobile ,IN,savings,Verified ,No
+1573.73,30496.54,69,2,13,0,Transfer,gambling,desktop,BD,savings,Verified ,No
+7707.74,6194.57,63,1,0,4,TRANSFER,electronics,desktop,BD,savings,Verified ,Yes
+4770.92,-7595.97,59,2,16,0,TRANSFER,gambling,desktop,Bangladesh,savings,unverified,No
+7475.63,,5,2,7,0,TRANSFER,gambling,mobile,india,current,unverified,Yes
+1811.14,7712.0,51,6,4,0,Transfer,electronics,Mobile ,IN,business,unverified,No
+3801.25,22127.45,21,2,4,1,Cash_Out,electronics,Mobile ,india,current,verified,No
+5010.49,4343.28,12,3,8,4,transfer,gambling,desktop,india,current,unverified,No
+5093.96,32977.55,50,3,2,1,Cash_Out,GAMBLING,mobile,Bangladesh,current,Verified ,No
+4099.87,45436.68,4,4,18,0,,gambling,Mobile ,Bangladesh,savings,unverified,Yes
+6245.7,21828.07,118,2,22,2,transfer,travel,Mobile ,IN,business,unverified,No
+2864.76,19058.97,113,2,8,0,transfer,travel,desktop,india,savings,Verified ,No
+4715.24,16778.6,42,3,21,1,transfer,travel,mobile,BD,current,unverified,No
+5240.59,27817.99,84,4,17,1,cash_out,food,desktop,india,savings,verified,No
+6028.88,25676.87,38,5,15,0,Transfer,travel,Mobile ,Bangladesh,business,unverified,No
+6423.23,30034.98,25,6,0,0,cash_out,GAMBLING,mobile,BD,business,verified,No
+2750.72,13720.83,14,0,1,0,transfer,food,desktop,BD,savings,verified,No
+1931.77,23401.18,75,3,13,0,cash_out,food,Mobile ,Bangladesh,current,verified,No
+7555.35,14575.32,32,2,13,1,cash_out,travel,desktop,BD,savings,Verified ,No
+5664.63,9422.84,11,5,0,0,Transfer,gambling,desktop,india,current,unverified,No
+3503.03,19589.85,61,4,15,0,TRANSFER,electronics,desktop,Bangladesh,business,verified,No
+8102.3,10774.87,18,1,14,0,cash_out,gambling,mobile,IN,savings,verified,Yes
+5231.35,31737.27,27,1,14,1,cash_out,gambling,Mobile ,Bangladesh,business,unverified,No
+7358.59,11380.8,55,2,11,1,transfer,food,Mobile ,IN,current,Verified ,No
+5135.04,23635.46,54,2,15,0,transfer,food,Mobile ,IN,current,Verified ,No
+9121.5,13965.78,82,2,13,0,transfer,food,Mobile ,Bangladesh,savings,verified,No
+8510.68,22770.63,87,3,23,0,Cash_Out,GAMBLING,mobile,Bangladesh,savings,Verified ,No
+4502.07,14760.03,75,0,14,1,cash_out,GAMBLING,desktop,IN,savings,unverified,No
+6943.14,7427.89,21,0,22,1,transfer,electronics,Mobile ,IN,business,Verified ,No
+6290.75,24837.73,44,3,14,2,Transfer,food,mobile,BD,current,unverified,Yes
+7737.26,17645.84,5,2,18,0,Cash_Out,travel,desktop,Bangladesh,current,verified,Yes
+3070.15,22859.85,87,5,7,1,TRANSFER,food,mobile,Bangladesh,business,unverified,No
+6372.1,15711.57,41,4,1,0,cash_out,GAMBLING,mobile,BD,savings,verified,No
+7116.85,6720.63,59,1,1,0,cash_out,food,Mobile ,Bangladesh,savings,unverified,No
+1482.52,154158.95,89,4,9,1,Transfer,GAMBLING,Mobile ,BD,business,unverified,No
+2633.48,27367.58,105,6,2,0,TRANSFER,food,desktop,BD,current,Verified ,No
+921.54,14330.39,54,2,22,0,TRANSFER,travel,desktop,Bangladesh,current,unverified,No
+4461.19,20697.79,74,1,16,1,Cash_Out,electronics,Mobile ,india,current,verified,No
+6435.08,30420.19,22,4,7,0,cash_out,travel,mobile,IN,current,unverified,No
+,15429.62,83,6,22,0,transfer,GAMBLING,Mobile ,Bangladesh,business,verified,No
+5148.19,16981.15,65,2,3,1,Transfer,gambling,desktop,india,current,verified,No
+8257.23,22436.33,64,5,13,1,Transfer,travel,mobile,BD,business,unverified,No
+2239.8,15409.09,71,2,20,1,Transfer,food,mobile,india,savings,Verified ,No
+1593.24,28570.92,4,1,9,0,Transfer,electronics,mobile,Bangladesh,business,unverified,No
+4888.9,18310.99,65,1,0,0,transfer,food,Mobile ,Bangladesh,current,unverified,No
+5768.13,12159.64,15,1,3,0,transfer,food,Mobile ,india,savings,Verified ,No
+4934.61,26086.39,104,1,0,0,Cash_Out,travel,desktop,Bangladesh,business,verified,No
+865.12,8578.69,76,2,16,1,cash_out,electronics,mobile,IN,business,unverified,No
+4821.76,40148.79,22,2,16,1,transfer,gambling,,india,business,Verified ,No
+2391.06,35824.96,86,1,6,0,Cash_Out,food,Mobile ,BD,savings,Verified ,No
+6339.35,25134.95,114,1,22,0,TRANSFER,electronics,desktop,india,business,verified,No
+5733.2,24293.31,47,3,19,0,cash_out,gambling,desktop,india,current,Verified ,No
+3120.24,23824.41,81,3,14,0,transfer,food,mobile,india,savings,verified,No
+3972.27,15109.05,93,1,12,1,TRANSFER,electronics,Mobile ,india,savings,unverified,No
+2881.57,22973.1,46,3,1,0,Cash_Out,travel,mobile,BD,business,Verified ,No
+4874.64,10768.67,14,4,18,2,transfer,food,Mobile ,BD,current,unverified,No
+6910.28,25038.18,50,3,23,1,transfer,food,desktop,BD,savings,Verified ,No
+3028.55,28678.47,20,3,12,2,TRANSFER,electronics,mobile,india,business,Verified ,No
+6008.09,16219.14,50,5,23,1,transfer,food,mobile,IN,current,unverified,No
+3939.48,14048.98,112,2,10,1,Transfer,gambling,mobile,IN,business,Verified ,No
+3414.25,7875.23,33,1,21,0,transfer,food,desktop,BD,business,unverified,No
+4785.94,34579.55,119,1,14,0,cash_out,GAMBLING,mobile,IN,savings,unverified,No
+2929.52,14843.36,59,3,9,2,TRANSFER,gambling,desktop,IN,savings,verified,No
+3892.7,18012.61,43,2,8,1,cash_out,electronics,Mobile ,IN,business,unverified,No
+2604.24,23001.56,79,6,8,0,Cash_Out,gambling,desktop,IN,savings,verified,No
+8929.45,,12,0,19,0,cash_out,GAMBLING,Mobile ,IN,savings,unverified,Yes
+5070.53,27465.6,40,3,0,1,Transfer,GAMBLING,desktop,Bangladesh,current,Verified ,No
+3600.55,81033.5,118,4,16,0,Transfer,food,desktop,BD,current,unverified,No
+5427.96,8613.32,20,5,11,2,cash_out,food,mobile,india,business,Verified ,No
+4775.34,6863.35,94,1,9,1,Cash_Out,travel,desktop,IN,business,verified,No
+4558.06,14207.45,38,2,4,0,transfer,gambling,mobile,Bangladesh,business,Verified ,No
+6228.33,10481.5,3,2,17,1,Transfer,travel,Mobile ,india,business,unverified,Yes
+6515.02,16963.83,28,2,14,1,cash_out,GAMBLING,Mobile ,Bangladesh,current,Verified ,No
+3939.0,33075.79,56,4,5,0,cash_out,food,mobile,IN,savings,verified,No
+3848.36,16227.22,90,3,6,0,cash_out,food,Mobile ,IN,current,Verified ,No
+4449.9,16223.49,94,2,16,1,transfer,food,desktop,IN,business,Verified ,No
+396.16,19836.01,13,1,5,0,TRANSFER,electronics,mobile,IN,business,unverified,No
+1969.62,15943.75,77,2,7,0,Cash_Out,GAMBLING,mobile,india,current,unverified,No
+7733.75,19326.09,66,4,11,1,TRANSFER,food,mobile,india,current,Verified ,Yes
+8289.94,25408.69,37,3,20,0,Cash_Out,GAMBLING,Mobile ,Bangladesh,business,verified,No
+4501.93,28847.51,49,4,13,0,Cash_Out,food,Mobile ,BD,savings,Verified ,Yes
+6153.11,30032.13,102,2,11,1,cash_out,gambling,desktop,IN,business,verified,No
+5622.5,40568.52,66,3,22,0,Transfer,GAMBLING,desktop,Bangladesh,current,verified,No
+11157.76,25693.59,36,0,9,0,cash_out,travel,mobile,Bangladesh,business,verified,No
+7239.15,42344.79,54,3,21,0,transfer,electronics,desktop,Bangladesh,business,Verified ,No
+4744.16,12235.18,26,3,19,1,Cash_Out,travel,Mobile ,IN,savings,verified,Yes
+3088.92,40912.85,75,3,14,2,Transfer,GAMBLING,desktop,IN,business,Verified ,Yes
+1787.11,16196.24,72,1,6,1,Cash_Out,food,Mobile ,Bangladesh,business,verified,No
+5406.93,17179.81,108,3,8,1,Cash_Out,GAMBLING,desktop,IN,business,verified,Yes
+3487.3,18801.27,40,1,9,0,cash_out,electronics,Mobile ,Bangladesh,current,Verified ,No
+2155.49,17813.79,43,4,9,0,Transfer,GAMBLING,Mobile ,india,current,unverified,No
+3706.85,20858.4,22,0,15,1,Transfer,food,desktop,IN,savings,unverified,No
+2836.9,14199.72,20,4,6,0,Cash_Out,travel,desktop,india,business,Verified ,No
+8374.28,28299.62,8,3,4,0,Transfer,gambling,Mobile ,BD,current,Verified ,No
+6763.28,14471.65,29,2,22,0,Transfer,travel,mobile,IN,savings,unverified,No
+4984.05,26556.1,40,2,2,0,cash_out,food,desktop,BD,business,unverified,No
+7959.89,35277.24,90,4,17,0,TRANSFER,food,Mobile ,Bangladesh,savings,unverified,No
+5154.74,16428.98,30,3,10,0,transfer,electronics,desktop,IN,savings,Verified ,No
+3277.43,27943.83,81,3,14,1,TRANSFER,GAMBLING,desktop,IN,savings,verified,No
+8046.25,25591.59,84,3,20,1,Transfer,GAMBLING,desktop,IN,savings,Verified ,No
+6077.82,42528.87,116,7,19,0,Cash_Out,travel,desktop,BD,savings,unverified,Yes
+2925.51,14951.69,55,6,4,2,transfer,gambling,desktop,BD,savings,verified,No
+4619.32,27950.72,16,2,23,3,transfer,gambling,mobile,Bangladesh,savings,Verified ,No
+3248.76,3739.89,46,0,11,0,Cash_Out,electronics,mobile,india,business,unverified,Yes
+2234.4,15041.42,62,3,3,1,transfer,food,mobile,india,business,Verified ,Yes
+6852.36,23533.93,107,4,14,0,Cash_Out,electronics,Mobile ,BD,savings,verified,No
+8818.83,33931.6,7,1,8,1,transfer,GAMBLING,mobile,IN,business,unverified,No
+2202.86,7740.67,80,1,6,0,TRANSFER,food,mobile,india,savings,Verified ,No
+6125.94,27860.91,45,6,9,0,transfer,electronics,Mobile ,india,business,verified,No
+3698.71,19367.77,59,8,22,1,cash_out,travel,mobile,BD,current,verified,No
+4025.75,4784.72,111,1,12,1,Cash_Out,GAMBLING,desktop,Bangladesh,savings,Verified ,No
+3815.21,21815.87,56,2,7,2,transfer,gambling,mobile,BD,current,verified,No
+3272.02,37091.61,48,4,11,1,Cash_Out,electronics,mobile,BD,savings,unverified,No
+5097.04,8795.77,27,4,21,0,cash_out,GAMBLING,mobile,IN,savings,verified,No
+3338.1,18900.62,53,4,23,0,transfer,GAMBLING,desktop,BD,current,Verified ,No
+5540.91,10133.61,87,2,18,0,transfer,gambling,desktop,IN,current,unverified,No
+4899.52,15314.17,88,5,0,1,cash_out,gambling,desktop,Bangladesh,current,verified,No
+4522.1,34321.7,73,5,15,0,cash_out,gambling,desktop,IN,savings,verified,No
+3184.87,17284.76,35,2,21,0,cash_out,electronics,Mobile ,Bangladesh,current,unverified,No
+3846.46,34015.66,51,2,16,0,Cash_Out,gambling,desktop,Bangladesh,current,unverified,Yes
+6510.78,31090.54,84,6,17,0,cash_out,travel,desktop,Bangladesh,business,verified,No
+6001.83,16372.62,37,7,10,1,Cash_Out,GAMBLING,desktop,BD,business,unverified,No
+3044.89,14974.01,106,2,17,0,TRANSFER,gambling,desktop,IN,current,Verified ,No
+5198.66,11040.01,81,3,6,1,transfer,GAMBLING,Mobile ,india,current,verified,No
+6502.77,10691.19,111,2,17,0,transfer,food,mobile,BD,current,Verified ,No
+1661.19,23532.07,95,6,7,1,Transfer,food,mobile,Bangladesh,current,verified,No
+6086.72,19802.15,119,1,5,0,TRANSFER,gambling,desktop,india,business,Verified ,No
+3674.75,13763.95,57,4,6,0,cash_out,GAMBLING,desktop,BD,savings,Verified ,No
+6141.2,4512.37,8,1,22,0,cash_out,food,desktop,india,current,unverified,No
+3473.48,21061.79,79,1,21,1,TRANSFER,gambling,mobile,Bangladesh,current,verified,No
+1390.24,15304.48,95,3,9,0,cash_out,GAMBLING,mobile,india,business,unverified,No
+1744.92,18047.02,117,4,10,1,Transfer,gambling,desktop,india,current,unverified,No
+5096.17,23046.62,94,5,12,0,Cash_Out,GAMBLING,mobile,Bangladesh,current,verified,No
+5519.45,-5018.03,110,2,8,1,transfer,food,Mobile ,india,business,Verified ,No
+3191.37,4667.25,20,4,6,1,TRANSFER,gambling,desktop,BD,current,verified,No
+6277.18,42964.43,103,3,8,1,transfer,food,desktop,india,current,verified,Yes
+1676.96,14933.89,53,3,12,1,Cash_Out,gambling,Mobile ,IN,business,verified,No
+4867.84,-5174.33,119,1,2,1,TRANSFER,electronics,Mobile ,BD,savings,unverified,Yes
+2577.97,5500.6,12,4,2,0,Cash_Out,food,mobile,india,current,verified,No
+,44844.67,49,1,0,0,cash_out,food,Mobile ,IN,current,verified,No
+5094.8,12970.03,17,4,20,2,cash_out,travel,desktop,IN,savings,verified,No
+3279.17,31590.15,64,1,19,0,cash_out,food,mobile,IN,business,Verified ,Yes
+4230.89,21211.18,42,1,1,1,Cash_Out,GAMBLING,Mobile ,india,savings,Verified ,No
+7012.59,15150.33,94,2,2,2,Cash_Out,gambling,mobile,Bangladesh,current,Verified ,No
+3846.22,27754.45,29,0,14,0,Cash_Out,electronics,mobile,IN,savings,Verified ,No
+6671.38,-3843.57,19,1,23,0,transfer,GAMBLING,mobile,Bangladesh,business,unverified,No
+2740.59,5588.67,110,2,5,1,Cash_Out,GAMBLING,mobile,BD,current,unverified,No
+6059.61,15076.49,11,2,12,1,cash_out,GAMBLING,Mobile ,Bangladesh,business,verified,Yes
+7883.14,6570.96,98,0,20,0,Transfer,GAMBLING,desktop,Bangladesh,business,unverified,No
+56.71,14192.22,50,3,0,0,Cash_Out,electronics,desktop,Bangladesh,savings,Verified ,No
+3406.21,28537.13,71,3,19,1,Transfer,travel,Mobile ,Bangladesh,savings,verified,No
+6154.14,21321.37,108,3,18,0,cash_out,food,desktop,Bangladesh,business,verified,No
+4593.91,33306.17,58,1,0,0,Cash_Out,GAMBLING,mobile,BD,business,Verified ,No
+5742.29,21953.75,34,1,20,0,transfer,food,mobile,BD,current,Verified ,Yes
+3792.03,29924.61,20,6,21,1,transfer,food,mobile,Bangladesh,business,Verified ,No
+5173.18,19359.3,50,0,1,0,Transfer,GAMBLING,Mobile ,Bangladesh,business,unverified,No
+4688.65,14097.25,102,2,14,0,transfer,travel,mobile,IN,savings,verified,No
+7335.56,34805.68,88,4,13,0,transfer,food,mobile,BD,business,Verified ,No
+5508.84,12906.5,10,5,18,0,transfer,gambling,Mobile ,india,business,verified,No
+5675.21,23438.45,32,3,10,0,cash_out,food,mobile,BD,savings,verified,No
+4176.25,27688.97,52,2,14,1,transfer,GAMBLING,mobile,india,current,unverified,No
+4024.79,28414.93,15,2,5,0,TRANSFER,electronics,desktop,IN,savings,verified,No
+4134.88,8345.57,101,4,19,0,Cash_Out,food,Mobile ,Bangladesh,savings,Verified ,No
+5788.9,30519.5,84,4,8,1,transfer,travel,mobile,IN,business,Verified ,No
+4158.03,10210.45,3,1,4,1,transfer,gambling,mobile,Bangladesh,business,verified,No
+5579.55,28107.04,37,5,19,1,transfer,gambling,mobile,BD,current,verified,No
+9150.8,25351.73,40,1,1,1,TRANSFER,electronics,mobile,Bangladesh,business,unverified,No
+6742.25,28186.31,72,4,5,0,transfer,electronics,desktop,india,current,Verified ,No
+4347.95,7949.96,40,2,17,1,transfer,food,desktop,india,current,Verified ,No
+7402.43,25879.3,108,5,22,1,Cash_Out,GAMBLING,,IN,current,verified,No
+4183.85,30855.94,56,2,18,4,TRANSFER,travel,desktop,BD,current,verified,No
+923.75,21933.96,23,6,8,1,TRANSFER,gambling,Mobile ,india,business,verified,Yes
+2983.83,11813.83,104,2,20,0,transfer,electronics,mobile,IN,savings,Verified ,No
+1258.42,29197.48,11,1,23,2,TRANSFER,travel,desktop,BD,savings,verified,No
+4296.97,21139.2,110,3,5,2,Transfer,GAMBLING,mobile,BD,business,unverified,No
+5036.84,3255.56,64,4,13,0,TRANSFER,gambling,Mobile ,IN,business,unverified,No
+8352.87,11038.11,8,3,23,0,TRANSFER,gambling,mobile,india,current,verified,No
+5653.85,14737.05,93,5,12,0,TRANSFER,GAMBLING,mobile,india,business,unverified,No
+4561.8,35058.18,94,4,10,0,cash_out,gambling,desktop,IN,savings,unverified,No
+6658.81,33301.83,56,3,11,2,cash_out,GAMBLING,desktop,india,business,unverified,No
+577.73,33269.69,60,1,18,0,cash_out,gambling,Mobile ,IN,business,unverified,No
+5471.23,22323.6,10,3,18,0,TRANSFER,food,mobile,india,current,unverified,No
+6541.73,29135.95,39,1,20,0,Transfer,GAMBLING,desktop,india,current,Verified ,No
+2042.83,8592.21,28,1,18,0,TRANSFER,travel,desktop,IN,current,verified,No
+7287.51,20068.03,49,4,23,0,transfer,food,desktop,IN,current,unverified,No
+5676.99,24516.33,36,3,12,0,Transfer,travel,Mobile ,india,savings,verified,No
+4169.42,9251.01,13,3,13,0,cash_out,gambling,mobile,IN,business,unverified,No
+6265.56,22099.12,96,2,23,1,Cash_Out,travel,desktop,india,business,Verified ,Yes
+9541.39,36866.39,36,6,17,0,Transfer,food,mobile,Bangladesh,current,Verified ,No
+5363.73,25587.7,101,3,11,0,cash_out,GAMBLING,Mobile ,BD,savings,unverified,Yes
+5496.44,29175.45,26,1,3,0,Transfer,electronics,mobile,BD,savings,unverified,No
+4081.28,-4524.07,86,4,9,1,Transfer,travel,desktop,india,business,unverified,No
+3300.31,35579.69,4,0,16,0,TRANSFER,electronics,mobile,BD,current,Verified ,No
+6660.67,18138.78,95,5,3,1,transfer,travel,mobile,india,business,Verified ,No
+3287.83,12313.14,82,5,11,1,Cash_Out,travel,Mobile ,IN,business,verified,No
+51431.3,18253.62,64,1,12,0,cash_out,GAMBLING,Mobile ,Bangladesh,savings,Verified ,No
+4044.69,5149.78,38,1,3,2,Transfer,gambling,mobile,BD,savings,unverified,No
+5957.96,30479.42,88,2,9,0,Cash_Out,food,mobile,BD,business,verified,No
+5667.32,16646.04,87,4,2,0,Transfer,food,mobile,IN,current,Verified ,No
+7075.08,12613.69,22,3,14,1,transfer,food,Mobile ,Bangladesh,current,Verified ,No
+3979.97,18319.45,2,4,1,0,Cash_Out,gambling,Mobile ,Bangladesh,business,unverified,No
+4460.25,31180.16,31,4,16,0,cash_out,electronics,mobile,Bangladesh,business,verified,No
+30424.699999999997,21314.58,119,3,5,0,Transfer,food,Mobile ,IN,current,Verified ,No
+4111.41,5903.06,11,1,7,0,transfer,electronics,desktop,BD,current,Verified ,Yes
+5754.6,24649.81,92,3,2,0,Cash_Out,gambling,Mobile ,BD,current,unverified,No
+6513.98,53551.0,46,2,17,0,Transfer,gambling,Mobile ,Bangladesh,business,verified,No
+3155.67,-1561.01,96,3,21,1,Transfer,GAMBLING,Mobile ,IN,savings,verified,No
+6739.21,34960.07,62,4,0,0,cash_out,food,desktop,IN,current,verified,No
+7711.28,24572.3,69,4,15,0,,GAMBLING,desktop,IN,current,verified,No
+5826.87,19217.29,64,4,6,0,TRANSFER,food,desktop,Bangladesh,current,unverified,No
+8753.59,16543.9,102,0,2,0,Transfer,gambling,mobile,IN,business,Verified ,No
+3452.42,33970.8,10,0,22,1,Cash_Out,gambling,mobile,Bangladesh,savings,Verified ,No
+2510.69,50871.55,40,7,3,1,cash_out,travel,desktop,Bangladesh,savings,verified,Yes
+1442.56,24487.81,110,3,8,0,cash_out,travel,mobile,Bangladesh,current,verified,No
+7992.09,9703.65,24,4,4,1,Transfer,gambling,mobile,india,business,verified,No
+6308.73,18455.34,99,4,18,0,Transfer,gambling,mobile,Bangladesh,savings,Verified ,No
+48888.3,24305.73,44,3,14,0,Transfer,electronics,desktop,IN,business,Verified ,No
+5559.94,-3495.28,112,5,7,0,TRANSFER,electronics,Mobile ,india,savings,verified,No
+2749.02,23344.99,60,1,5,1,Transfer,GAMBLING,desktop,BD,current,unverified,No
+9891.5,24364.25,62,4,17,0,transfer,travel,desktop,BD,business,Verified ,No
+5258.44,,87,1,18,0,Cash_Out,travel,mobile,IN,current,Verified ,No
+5218.79,32221.23,17,4,23,1,Transfer,gambling,mobile,IN,savings,verified,No
+6451.53,21111.72,65,4,14,1,TRANSFER,gambling,Mobile ,IN,savings,unverified,No
+5962.02,35146.37,119,1,6,2,Cash_Out,GAMBLING,Mobile ,IN,current,verified,No
+5447.77,40356.78,95,2,9,0,cash_out,travel,Mobile ,india,savings,verified,No
+3419.05,20279.51,95,3,5,0,Transfer,electronics,Mobile ,IN,current,unverified,No
+5942.94,24181.87,106,2,13,1,Cash_Out,food,desktop,Bangladesh,current,unverified,No
+8764.05,2327.03,57,4,16,0,cash_out,GAMBLING,Mobile ,BD,current,unverified,No
+7690.84,5490.27,55,2,8,3,TRANSFER,food,desktop,IN,savings,Verified ,No
+8186.37,11618.04,106,8,18,0,transfer,electronics,mobile,Bangladesh,business,verified,No
+3977.57,15563.82,53,4,4,0,Transfer,electronics,Mobile ,IN,current,Verified ,No
+3020.79,,56,4,22,0,transfer,food,mobile,Bangladesh,business,unverified,No
+4748.43,19640.05,98,1,6,0,TRANSFER,GAMBLING,mobile,india,savings,Verified ,No
+5111.45,15862.91,9,3,18,0,Cash_Out,food,desktop,BD,savings,unverified,Yes
+7188.38,30708.95,22,3,19,0,Cash_Out,GAMBLING,Mobile ,BD,business,unverified,No
+1615.07,15252.26,13,3,6,0,TRANSFER,GAMBLING,desktop,india,current,verified,No
+8059.1,-2867.18,89,7,23,2,TRANSFER,gambling,mobile,Bangladesh,savings,verified,No
+4683.98,21257.51,48,3,1,1,Transfer,travel,Mobile ,IN,current,verified,No
+4146.24,19858.02,18,2,22,2,cash_out,travel,mobile,Bangladesh,current,Verified ,Yes
+2975.79,11379.5,115,1,15,2,transfer,electronics,mobile,BD,business,verified,No
+16902.9,20950.0,76,3,12,0,transfer,gambling,Mobile ,india,savings,unverified,Yes
+6646.34,9247.35,40,3,7,0,Cash_Out,travel,Mobile ,india,business,verified,No
+5146.64,23298.4,17,0,5,0,Cash_Out,GAMBLING,Mobile ,Bangladesh,savings,Verified ,No
+2420.08,46329.24,15,3,5,0,Transfer,GAMBLING,desktop,Bangladesh,business,verified,No
+2409.84,1943.95,106,5,8,0,TRANSFER,food,desktop,india,savings,verified,No
+4328.43,14837.58,15,4,3,0,transfer,food,mobile,BD,savings,verified,No
+8338.04,13234.95,79,4,10,0,Transfer,GAMBLING,Mobile ,IN,savings,Verified ,No
+4480.82,15667.4,63,5,4,1,Cash_Out,GAMBLING,mobile,IN,current,unverified,No
+19937.1,30199.25,119,2,16,1,Cash_Out,food,mobile,Bangladesh,current,unverified,Yes
+4508.51,25428.27,39,3,19,0,transfer,travel,mobile,india,business,unverified,No
+44545.5,28487.67,13,3,6,1,,electronics,mobile,india,business,verified,No
+-393.77,20304.96,81,4,14,0,Cash_Out,food,mobile,india,savings,verified,No
+4891.41,6779.01,32,1,14,0,cash_out,travel,Mobile ,BD,savings,Verified ,No
+4538.13,8853.15,9,2,13,0,TRANSFER,travel,desktop,Bangladesh,current,unverified,No
+6392.41,27462.6,40,3,12,0,Cash_Out,travel,Mobile ,Bangladesh,current,verified,No
+8697.91,21708.32,20,2,10,0,cash_out,gambling,Mobile ,Bangladesh,current,verified,No
+7253.13,32602.07,90,3,12,0,Transfer,gambling,Mobile ,BD,business,verified,No
+4462.22,114663.09999999999,91,5,21,0,Cash_Out,travel,desktop,Bangladesh,current,Verified ,No
+2786.95,8169.85,85,1,23,0,Transfer,GAMBLING,desktop,IN,business,unverified,No
+10146.72,14780.98,82,1,8,1,Cash_Out,gambling,desktop,Bangladesh,current,Verified ,No
+5118.44,25648.14,77,1,9,0,transfer,food,Mobile ,Bangladesh,current,unverified,No
+5027.86,27103.32,80,1,3,0,cash_out,gambling,desktop,Bangladesh,savings,unverified,No
+4951.75,28551.09,73,1,16,0,cash_out,GAMBLING,mobile,BD,business,verified,No
+5396.17,9514.76,63,1,13,0,transfer,electronics,,IN,current,verified,No
+4711.28,7989.7,76,3,23,1,TRANSFER,gambling,Mobile ,IN,savings,verified,Yes
+38526.799999999996,18101.97,44,2,17,2,cash_out,travel,Mobile ,india,business,verified,No
+3906.28,34400.74,38,5,10,0,Transfer,travel,mobile,india,business,verified,No
+4934.49,13061.32,83,5,15,2,cash_out,travel,desktop,IN,current,unverified,No
+3913.15,24549.72,60,2,0,2,TRANSFER,electronics,desktop,Bangladesh,business,verified,No
+3574.31,24550.61,71,2,6,1,Transfer,GAMBLING,mobile,Bangladesh,savings,verified,No
+5212.86,27607.73,99,4,9,0,Transfer,food,Mobile ,Bangladesh,savings,Verified ,No
+4490.05,36644.4,48,0,8,2,transfer,GAMBLING,Mobile ,BD,business,Verified ,No
+8007.99,35619.06,18,2,2,0,Cash_Out,electronics,desktop,Bangladesh,savings,unverified,Yes
+-301.94,,16,3,21,1,transfer,travel,desktop,BD,business,unverified,No
+7183.01,-978.95,55,3,22,2,Cash_Out,GAMBLING,desktop,IN,savings,Verified ,No
+7492.17,13214.71,39,3,13,0,transfer,food,desktop,Bangladesh,business,Verified ,No
+853.22,20756.72,68,1,14,0,Cash_Out,travel,desktop,Bangladesh,business,verified,No
+4314.62,16383.55,59,3,1,0,cash_out,food,Mobile ,india,business,verified,No
+4257.12,39678.99,89,1,23,1,Transfer,gambling,Mobile ,IN,savings,unverified,No
+2184.98,20187.8,96,2,13,0,Cash_Out,food,Mobile ,Bangladesh,business,Verified ,No
+3444.37,26537.12,62,2,15,0,cash_out,travel,Mobile ,BD,business,unverified,No
+2778.85,22172.14,104,1,6,0,TRANSFER,gambling,mobile,IN,current,verified,No
+8504.54,16533.67,13,6,3,0,transfer,travel,Mobile ,india,current,unverified,No
+6871.36,751.88,109,2,17,0,TRANSFER,travel,mobile,IN,business,unverified,No
+7543.11,19213.82,81,7,23,0,cash_out,gambling,Mobile ,BD,current,unverified,No
+6443.34,52546.47,113,8,4,0,TRANSFER,food,desktop,india,business,verified,No
+2741.9,7555.42,101,2,5,0,TRANSFER,electronics,desktop,BD,current,unverified,No
+3950.96,1851.27,6,2,6,0,cash_out,electronics,desktop,IN,savings,verified,No
+5978.75,39363.89,83,6,14,0,Transfer,electronics,mobile,india,savings,Verified ,No
+2555.74,27420.83,77,3,0,1,Cash_Out,electronics,Mobile ,BD,business,unverified,No
+6426.0,21874.2,60,1,23,1,transfer,GAMBLING,Mobile ,IN,business,unverified,No
+4519.35,33626.74,90,3,3,0,Cash_Out,electronics,mobile,BD,savings,verified,No
+4250.36,11684.98,14,0,0,0,transfer,gambling,mobile,Bangladesh,savings,unverified,No
+6421.92,18934.05,95,6,10,3,Cash_Out,electronics,mobile,IN,current,verified,No
+5888.53,29551.54,54,2,17,0,TRANSFER,travel,mobile,india,business,unverified,Yes
+4278.07,41103.54,4,1,13,0,Transfer,electronics,mobile,india,savings,Verified ,No
+7318.66,8314.56,39,3,21,0,TRANSFER,food,desktop,Bangladesh,savings,Verified ,No
+2837.87,32807.34,72,3,10,0,Transfer,gambling,Mobile ,BD,business,Verified ,No
+6231.87,,25,5,9,0,cash_out,gambling,mobile,BD,current,unverified,No
+6186.2,21630.61,77,1,16,1,transfer,GAMBLING,desktop,india,current,unverified,No
+43809.1,19922.71,32,2,3,0,transfer,travel,mobile,BD,current,Verified ,No
+5652.27,6153.53,59,3,23,2,cash_out,gambling,desktop,IN,current,Verified ,No
+2497.77,29630.89,102,6,14,2,Cash_Out,food,mobile,IN,savings,verified,No
+6848.05,12177.31,63,2,15,0,cash_out,electronics,,india,business,verified,No
+4630.2,9203.09,38,3,20,0,cash_out,gambling,mobile,IN,business,Verified ,Yes
+3954.55,28854.59,92,4,12,0,Transfer,food,mobile,india,savings,Verified ,No
+7098.02,27891.34,53,5,8,0,cash_out,electronics,Mobile ,BD,savings,unverified,No
+3591.31,20790.0,94,1,10,2,transfer,GAMBLING,Mobile ,BD,savings,Verified ,No
+2183.08,30795.44,67,4,10,2,TRANSFER,gambling,mobile,BD,business,verified,Yes
+1886.74,34259.37,28,4,5,0,Transfer,gambling,Mobile ,Bangladesh,business,verified,No
+6212.02,33082.24,3,1,0,1,Transfer,food,Mobile ,india,business,verified,No
+2439.14,14717.21,109,6,21,0,Cash_Out,travel,desktop,IN,current,verified,No
+8509.59,30141.05,118,5,5,1,TRANSFER,GAMBLING,Mobile ,BD,savings,verified,No
+836.14,22116.41,98,5,12,0,Transfer,travel,Mobile ,Bangladesh,savings,verified,No
+8392.91,37259.08,80,6,21,1,cash_out,gambling,mobile,IN,savings,Verified ,No
+5422.03,18762.72,22,3,23,1,Transfer,travel,mobile,IN,business,verified,No
+4806.57,16435.28,96,1,21,1,Transfer,electronics,desktop,IN,savings,verified,No
+3910.16,13862.03,38,1,4,1,Transfer,GAMBLING,mobile,BD,savings,verified,No
+5798.27,21892.88,72,6,14,0,Cash_Out,travel,Mobile ,IN,current,verified,No
+4924.73,24667.25,119,2,17,0,Transfer,electronics,,india,business,Verified ,No
+7206.6,24859.62,72,4,19,0,Transfer,food,Mobile ,Bangladesh,savings,unverified,No
+5228.46,23491.73,62,3,13,0,Cash_Out,travel,mobile,IN,business,unverified,No
+5300.6,26710.37,57,7,14,0,,GAMBLING,Mobile ,IN,business,unverified,No
+4272.78,17774.58,6,2,4,1,transfer,electronics,Mobile ,india,business,unverified,No
+4886.11,11274.85,78,4,3,0,Cash_Out,travel,desktop,IN,current,verified,No
+5615.6,10401.72,32,0,1,1,Cash_Out,food,desktop,BD,business,unverified,No
+1579.66,29750.51,99,1,6,0,Transfer,travel,desktop,BD,business,unverified,No
+2303.63,24703.22,10,2,9,0,Transfer,electronics,mobile,BD,business,Verified ,No
+6486.53,1441.62,3,7,15,0,transfer,travel,Mobile ,IN,savings,Verified ,No
+53417.299999999996,,59,5,9,0,Transfer,GAMBLING,Mobile ,Bangladesh,current,Verified ,No
+4632.03,38804.35,76,3,17,1,cash_out,gambling,Mobile ,Bangladesh,savings,verified,No
+5036.87,12840.83,49,7,16,0,Transfer,electronics,desktop,IN,current,verified,No
+56951.6,23361.6,59,2,20,0,Transfer,electronics,Mobile ,Bangladesh,current,verified,Yes
+3920.48,15265.42,31,3,12,1,cash_out,electronics,Mobile ,Bangladesh,business,Verified ,No
+3443.39,26283.07,93,1,0,3,transfer,electronics,Mobile ,IN,business,unverified,Yes
+5391.69,8339.91,69,3,0,0,cash_out,travel,Mobile ,BD,savings,Verified ,No
+3043.25,19285.54,62,3,14,1,Cash_Out,GAMBLING,Mobile ,IN,current,verified,Yes
+5816.51,29813.14,52,4,0,1,cash_out,food,mobile,BD,business,Verified ,No
+1594.83,32357.12,89,3,5,1,TRANSFER,GAMBLING,Mobile ,BD,business,unverified,No
+7058.31,24264.96,41,4,12,2,Cash_Out,electronics,mobile,Bangladesh,business,verified,No
+5945.19,16609.55,31,2,0,0,Transfer,travel,Mobile ,Bangladesh,business,unverified,Yes
+5512.06,4073.99,85,4,4,1,Cash_Out,travel,mobile,BD,savings,unverified,No
+6965.38,12424.5,84,6,8,0,transfer,electronics,Mobile ,BD,savings,verified,No
+8330.95,15307.27,103,3,16,0,transfer,travel,Mobile ,Bangladesh,business,unverified,No
+7028.74,13022.66,22,4,15,0,cash_out,electronics,Mobile ,india,business,Verified ,No
+1318.25,20595.53,4,1,7,0,Cash_Out,GAMBLING,Mobile ,BD,business,unverified,No
+2440.85,16581.12,13,6,16,2,Transfer,gambling,desktop,BD,business,unverified,No
+3750.36,21721.21,45,4,14,0,transfer,travel,Mobile ,BD,business,unverified,No
+5052.18,32026.27,42,2,23,1,Transfer,electronics,mobile,Bangladesh,current,Verified ,Yes
+6035.32,15935.38,114,0,0,0,TRANSFER,electronics,desktop,IN,current,unverified,No
+3548.51,6171.33,49,2,11,0,transfer,travel,desktop,BD,current,unverified,No
+5373.53,12982.92,20,4,4,0,cash_out,food,Mobile ,BD,current,Verified ,No
+3489.23,25835.88,116,3,23,0,TRANSFER,electronics,mobile,BD,business,verified,No
+3776.96,26779.44,77,4,5,0,Cash_Out,travel,mobile,IN,current,verified,No
+2186.68,24060.85,81,4,0,0,Transfer,electronics,desktop,IN,current,verified,No
+3153.53,33007.37,54,6,0,0,transfer,food,mobile,BD,savings,unverified,No
+2296.63,18136.37,36,3,9,1,TRANSFER,gambling,Mobile ,BD,current,verified,No
+3048.25,40521.66,97,2,9,1,TRANSFER,food,Mobile ,india,current,Verified ,No
+7107.28,28181.87,1,5,2,3,transfer,GAMBLING,Mobile ,IN,business,unverified,No
+3101.2,-5234.87,15,5,16,0,Cash_Out,travel,Mobile ,india,current,unverified,No
+10264.76,38006.59,77,4,18,0,Cash_Out,food,Mobile ,BD,current,unverified,No
+5986.64,12330.13,17,2,10,0,cash_out,gambling,desktop,BD,business,verified,No
+5369.67,9658.99,24,1,17,0,Cash_Out,electronics,Mobile ,BD,current,verified,No
+3283.28,25237.71,58,5,1,0,cash_out,travel,Mobile ,BD,business,verified,No
+6400.62,2618.2,72,6,8,1,TRANSFER,food,desktop,Bangladesh,current,unverified,No
+3848.72,13045.31,114,1,23,1,transfer,gambling,desktop,Bangladesh,savings,Verified ,No
+5244.02,35570.99,91,6,16,1,Cash_Out,food,desktop,Bangladesh,savings,unverified,No
+10120.17,25562.18,109,3,13,1,cash_out,GAMBLING,mobile,india,current,Verified ,Yes
+4807.88,28122.4,23,4,3,0,TRANSFER,travel,mobile,IN,savings,unverified,No
+7298.55,13430.89,46,3,16,3,Cash_Out,electronics,Mobile ,BD,business,Verified ,No
+3593.65,4616.3,72,3,16,1,Transfer,gambling,Mobile ,IN,current,unverified,No
+4930.02,27068.17,8,4,11,0,TRANSFER,food,Mobile ,Bangladesh,business,unverified,No
+8541.6,29302.56,59,1,19,0,Cash_Out,travel,mobile,BD,savings,Verified ,No
+3746.07,28849.93,90,5,17,0,TRANSFER,food,Mobile ,BD,business,Verified ,No
+8624.9,22090.69,111,2,2,0,transfer,travel,,india,savings,Verified ,No
+6415.5,10329.32,59,4,10,0,transfer,GAMBLING,mobile,IN,savings,Verified ,No
+3875.07,44377.7,13,5,17,0,transfer,food,desktop,india,savings,Verified ,No
+6264.82,24797.87,39,3,3,0,Transfer,GAMBLING,mobile,Bangladesh,business,Verified ,No
+6945.11,18261.13,101,3,16,1,transfer,gambling,Mobile ,IN,savings,Verified ,No
+6243.62,18305.51,113,4,17,0,Transfer,GAMBLING,mobile,Bangladesh,current,Verified ,No
+1859.55,21495.97,28,2,4,0,transfer,travel,desktop,india,savings,unverified,Yes
+3545.73,30696.08,89,4,13,1,TRANSFER,gambling,desktop,india,current,Verified ,Yes
+4504.96,21896.28,61,0,9,0,Cash_Out,food,desktop,BD,current,Verified ,No
+4851.13,28585.13,16,0,14,1,Cash_Out,food,desktop,IN,current,unverified,No
+6241.34,21513.98,119,4,0,0,transfer,travel,desktop,IN,current,unverified,Yes
+5355.4,18876.46,2,2,15,0,Cash_Out,electronics,desktop,BD,business,verified,No
+2329.31,26412.5,118,2,10,0,transfer,electronics,Mobile ,IN,current,verified,No
+5760.4,26032.86,82,1,22,0,transfer,food,Mobile ,Bangladesh,savings,Verified ,No
+6221.17,18303.66,17,2,19,0,cash_out,travel,mobile,Bangladesh,current,Verified ,No
+6119.58,12507.93,30,5,5,0,cash_out,electronics,Mobile ,india,savings,verified,Yes
+7161.56,117086.45000000001,103,2,23,0,cash_out,GAMBLING,desktop,Bangladesh,business,verified,No
+6667.84,20783.49,13,3,21,2,Transfer,food,Mobile ,IN,current,Verified ,No
+5918.36,14451.28,96,0,15,1,cash_out,GAMBLING,mobile,BD,savings,verified,No
+4859.67,11576.0,114,2,1,1,transfer,travel,desktop,india,business,Verified ,No
+1678.08,24104.76,93,3,0,0,TRANSFER,GAMBLING,Mobile ,BD,business,unverified,No
+5859.24,25500.95,110,4,23,2,cash_out,electronics,Mobile ,india,savings,unverified,No
+5415.38,16399.68,94,6,23,0,cash_out,electronics,mobile,india,current,verified,No
+,14200.63,82,4,8,2,TRANSFER,gambling,desktop,BD,business,unverified,No
+2446.5,11697.45,13,3,21,0,transfer,food,mobile,Bangladesh,savings,unverified,No
+2837.89,23822.55,43,2,11,0,Transfer,travel,desktop,Bangladesh,current,unverified,Yes
+7106.31,11960.23,85,5,16,1,cash_out,food,desktop,Bangladesh,business,unverified,No
+4920.89,42411.35,94,3,14,0,TRANSFER,GAMBLING,Mobile ,Bangladesh,savings,Verified ,No
+6363.0,15897.19,21,3,18,0,transfer,travel,mobile,BD,business,Verified ,Yes
+5056.64,-4252.14,112,2,21,0,Cash_Out,travel,mobile,IN,business,verified,No
+5059.51,19698.28,55,3,9,1,Transfer,electronics,mobile,india,savings,unverified,No
